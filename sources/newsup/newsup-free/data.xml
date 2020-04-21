@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-04-18 12:50" -->
+	<!-- generator="WordPress/5.3.2" created="2020-04-21 07:30" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,10 +26,10 @@
 >
 
 <channel>
-	<title>Newsup</title>
+	<title></title>
 	<link>https://demo.themeansar.com/newsup/lite</link>
-	<description>Just another WordPress site</description>
-	<pubDate>Sat, 18 Apr 2020 12:50:37 +0000</pubDate>
+	<description></description>
+	<pubDate>Tue, 21 Apr 2020 07:30:07 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.themeansar.com/newsup/lite</wp:base_site_url>
@@ -277,7 +277,7 @@
 
 <image>
 	<url>https://demo.themeansar.com/newsup/lite/wp-content/uploads/2020/01/favicon.png</url>
-	<title>Newsup</title>
+	<title></title>
 	<link>https://demo.themeansar.com/newsup/lite</link>
 	<width>32</width>
 	<height>32</height>
@@ -2471,7 +2471,51 @@ This e-mail was sent from a contact form on Newsup (https://demo.themeansar.com/
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[102]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Vad]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[test@test.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[159.224.229.54]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-04-20 06:44:21]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-04-20 06:44:21]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Comment]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1587365061]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1587365061.3694169521331787109375;s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[Josh]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[test@test.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[159.224.229.54]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-04-20 08:58:35]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-04-20 08:58:35]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[New comment]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>2</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1587373115]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1587373115.0089418888092041015625;s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					</item>
 				</channel>
 </rss>
 	

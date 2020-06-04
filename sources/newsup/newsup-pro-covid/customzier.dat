@@ -1,0 +1,52 @@
+a:4:{s:8:"template";s:10:"newsup-pro";s:4:"mods";a:30:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:6:"social";N;s:7:"primary";i:29;}s:18:"custom_css_post_id";i:150;s:23:"newsup_own_color_enable";b:0;s:14:"own_skin_color";s:7:"#90c042";s:16:"sidebars_widgets";a:2:{s:4:"time";i:1582895939;s:4:"data";a:9:{s:19:"wp_inactive_widgets";a:0:{}s:9:"sidebar-1";a:6:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-2";i:2;s:17:"recent-comments-2";i:3;s:10:"archives-2";i:4;s:12:"categories-2";i:5;s:6:"meta-2";}s:18:"off-canvas-content";a:1:{i:0;s:27:"newsup_orderd_post_slider-4";}s:18:"front-page-content";a:4:{i:0;s:27:"newsup_express_news_posts-3";i:1;s:19:"newsup_posts_list-3";i:2;s:20:"newsup_latest_post-3";i:3;s:27:"newsup_social_icon_widget-3";}s:23:"front-left-page-sidebar";a:0:{}s:24:"front-right-page-sidebar";a:0:{}s:25:"before_footer_widget_area";a:0:{}s:21:"instagram_widget_area";a:0:{}s:18:"footer_widget_area";a:0:{}}}s:18:"header_menu_layout";s:4:"four";s:18:"newsup_theme_color";s:8:"pink.css";s:26:"show_featured_news_section";b:0;s:11:"custom_logo";s:0:"";s:16:"header_textcolor";s:5:"blank";s:21:"newsup_header_fb_link";s:1:"#";s:22:"newsup_header_twt_link";s:1:"#";s:23:"newsup_header_lnkd_link";s:1:"#";s:24:"newsup_header_insta_link";s:1:"#";s:26:"newsup_header_youtube_link";s:1:"#";s:27:"newsup_header_pintrest_link";s:1:"#";s:21:"newsup_footer_fb_link";s:1:"#";s:22:"newsup_footer_twt_link";s:1:"#";s:23:"newsup_footer_lnkd_link";s:1:"#";s:24:"newsup_footer_insta_link";s:1:"#";s:26:"newsup_footer_youtube_link";s:1:"#";s:28:"newsup_footer_pinterest_link";s:1:"#";s:27:"newsup_footer_overlay_color";s:0:"";s:27:"newsup_footer_column_layout";s:1:"4";s:12:"header_image";s:83:"https://newsup.themeansar.com/covid/wp-content/uploads/2020/05/cropped-slider-1.jpg";s:17:"header_image_data";O:8:"stdClass":5:{s:13:"attachment_id";i:184;s:3:"url";s:83:"https://newsup.themeansar.com/covid/wp-content/uploads/2020/05/cropped-slider-1.jpg";s:13:"thumbnail_url";s:83:"https://newsup.themeansar.com/covid/wp-content/uploads/2020/05/cropped-slider-1.jpg";s:6:"height";i:600;s:5:"width";i:1600;}s:22:"show_main_news_section";b:0;s:23:"show_flash_news_section";b:0;s:25:"show_popular_tags_section";b:0;}s:7:"options";a:3:{s:9:"site_icon";s:1:"0";s:20:"menu_title_fontstyle";s:0:"";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:924:".mg-latest-news-sec
+{
+	display:none;
+}
+
+.widget_corona_single {
+	display: inline-block;
+}
+
+.mg-wid-title{margin:0px;}
+
+.widget_corona_single {
+    background: #0d0b52;
+    color: #fff;
+}
+
+.corona_widget_inner.cec-widget-skin-1 .widget_corona_single_country > img {
+    width: auto !important;
+    max-width: 100% !important;
+}
+
+.widget_corona_single {
+    padding: 18px !important;
+}
+
+.mg-sidebar .mg-widget {
+    margin-bottom: 15px !important;
+}
+
+.mg-wid-title h6 {
+    background-color: #0d0b52;
+    color: #fff;
+}
+
+.mg-wid-title h6 {
+    margin: 0px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 40px;
+    padding: 0 7px 0 15px;
+    width: auto;
+    height: 40px;
+    display: inline-block;
+    position: relative;
+    font-size: 18px;
+	margin-bottom: 20px !important;
+}
+
+.mg-sec-title h6::before {
+    border-left-color: #0d0b52;
+    border-color: transparent transparent transparent #0d0b52;
+}";}

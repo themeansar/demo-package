@@ -1,0 +1,6 @@
+a:4:{s:8:"template";s:10:"fameup-pro";s:4:"mods";a:14:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:31;}s:18:"custom_css_post_id";i:246;s:18:"header_menu_layout";s:5:"three";s:11:"blog_layout";s:4:"four";s:23:"fameup_own_color_enable";b:1;s:14:"own_skin_color";s:7:"#d10014";s:22:"show_main_news_section";b:0;s:11:"custom_logo";i:255;s:16:"header_textcolor";s:5:"blank";s:20:"fameup_footer_layout";s:12:"footer-insta";s:18:"menu_area_bg_color";s:7:"#d10014";s:15:"menu_link_color";s:7:"#ffffff";s:21:"menu_link_hover_color";s:7:"#d10014";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:96:".bs-headthree .navbar-wp .navbar-nav > li > a {
+    color: #fff;
+}
+.offcbtn {
+    color: #fff;
+}";}

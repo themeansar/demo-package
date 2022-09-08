@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.1" created="2022-08-17 07:42" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-08 08:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>lite</title>
 	<link>https://newsup.themeansar.com/lite</link>
 	<description></description>
-	<pubDate>Wed, 17 Aug 2022 07:42:48 +0000</pubDate>
+	<pubDate>Thu, 08 Sep 2022 08:17:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://newsup.themeansar.com/lite</wp:base_site_url>
@@ -194,6 +194,13 @@
 		<wp:term_name><![CDATA[News]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[newsup]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[newsup]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>19</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[primary]]></wp:term_slug>
@@ -273,7 +280,7 @@
 			<wp:term><wp:term_id>19</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
 	<url>https://newsup.themeansar.com/lite/wp-content/uploads/2020/01/favicon.png</url>
@@ -993,8 +1000,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:22:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-17 07:33:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-17 07:33:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 07:49:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-17 07:49:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[make-realtionship-years-lights-fill-kind-in-usa]]></wp:post_name>
@@ -1005,22 +1012,17 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<category domain="category" nicename="world"><![CDATA[World]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1809,6 +1811,73 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[newsup]]></title>
+		<link>https://newsup.themeansar.com/lite/newsup/</link>
+		<pubDate>Wed, 03 Jun 2020 14:10:32 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/lite/?p=120</guid>
+		<description></description>
+		<content:encoded><![CDATA[.navbar-wp .navbar-nav>li>a.homebtn {
+    position: relative;
+    width: inherit;
+    height: inherit;
+}
+.navbar-wp .navbar-nav > li> a.homebtn span {
+    position: inherit;
+    font-size: 24px;
+    line-height: 1;
+    top: inherit;
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-03 14:10:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-03 14:10:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-03 14:10:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-03 14:10:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[newsup]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[newsup-ads]]></title>
+		<link>https://newsup.themeansar.com/lite/newsup-ads-2/</link>
+		<pubDate>Thu, 08 Sep 2022 08:09:40 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/lite/wp-content/uploads/2022/09/newsup-ads.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>143</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-08 08:09:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-08 08:09:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-08 08:09:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-08 08:09:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[newsup-ads-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/lite/wp-content/uploads/2022/09/newsup-ads.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/newsup-ads.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:23:"2022/09/newsup-ads.webp";s:8:"filesize";i:9500;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:23:"newsup-ads-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5372;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[But who has any right to find of existence in present]]></title>
 		<link>https://newsup.themeansar.com/lite/but-who-has-any-right-to-find-of-existence-in-present/</link>
 		<pubDate>Sun, 12 Jan 2020 16:28:43 +0000</pubDate>
@@ -1871,40 +1940,6 @@
 		<wp:meta_value><![CDATA[but-who-has-any-right-to-find]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[newsup]]></title>
-		<link>https://newsup.themeansar.com/lite/newsup/</link>
-		<pubDate>Wed, 03 Jun 2020 14:10:32 +0000</pubDate>
-		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/lite/?p=120</guid>
-		<description></description>
-		<content:encoded><![CDATA[.navbar-wp .navbar-nav>li>a.homebtn {
-    position: relative;
-    width: inherit;
-    height: inherit;
-}
-.navbar-wp .navbar-nav > li> a.homebtn span {
-    position: inherit;
-    font-size: 24px;
-    line-height: 1;
-    top: inherit;
-}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>120</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-03 14:10:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-03 14:10:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-06-03 14:10:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-06-03 14:10:32]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[newsup]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[Working Together to Make Investments]]></title>
 		<link>https://newsup.themeansar.com/lite/working-together-to-make-investments/</link>
@@ -2440,6 +2475,31 @@
 		<wp:meta_value><![CDATA[102]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://newsup.themeansar.com/lite/wp-global-styles-newsup/</link>
+		<pubDate>Wed, 17 Aug 2022 07:49:15 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/lite/wp-global-styles-newsup/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>141</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-17 07:49:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-17 07:49:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 07:49:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-17 07:49:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-newsup]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="newsup"><![CDATA[newsup]]></category>
+						</item>
 				</channel>
 </rss>
 	

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-11-01 13:47" -->
+	<!-- generator="WordPress/6.1" created="2022-11-02 06:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Newspaperex</title>
 	<link>https://newsup.themeansar.com/newspaperex</link>
 	<description>Just Another WordPress site</description>
-	<pubDate>Tue, 01 Nov 2022 13:47:51 +0000</pubDate>
+	<pubDate>Wed, 02 Nov 2022 06:47:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://newsup.themeansar.com/newspaperex</wp:base_site_url>
@@ -201,6 +201,13 @@
 		<wp:term_name><![CDATA[News]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[newspaperex]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[newspaperex]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>19</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[primary]]></wp:term_slug>
@@ -280,7 +287,7 @@
 			<wp:term><wp:term_id>19</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 
 		<item>
 		<title><![CDATA[home-ad]]></title>
@@ -894,7 +901,7 @@
 							</item>
 					<item>
 		<title><![CDATA[sports]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/03/01/top-5-most-overrated-players-in-the-premier-league-2019-20/sports/</link>
+		<link>https://newsup.themeansar.com/newspaperex/top-5-most-overrated-players-in-the-premier-league-2019-20/sports/</link>
 		<pubDate>Sun, 01 Mar 2020 11:46:12 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2020/03/sports.jpg</guid>
@@ -927,7 +934,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog1]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/03/01/top-5-most-overrated-players-in-the-premier-league-2019-20/blog1-2/</link>
+		<link>https://newsup.themeansar.com/newspaperex/top-5-most-overrated-players-in-the-premier-league-2019-20/blog1-2/</link>
 		<pubDate>Thu, 20 May 2021 16:12:14 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2020/03/blog1.jpg</guid>
@@ -1125,7 +1132,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/131/</link>
+		<link>https://newsup.themeansar.com/newspaperex/131/</link>
 		<pubDate>Wed, 19 Oct 2022 11:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/</guid>
@@ -1186,7 +1193,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/132/</link>
+		<link>https://newsup.themeansar.com/newspaperex/132/</link>
 		<pubDate>Wed, 19 Oct 2022 11:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/</guid>
@@ -1247,7 +1254,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/133/</link>
+		<link>https://newsup.themeansar.com/newspaperex/133/</link>
 		<pubDate>Wed, 19 Oct 2022 11:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/</guid>
@@ -1308,7 +1315,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/134/</link>
+		<link>https://newsup.themeansar.com/newspaperex/134/</link>
 		<pubDate>Wed, 19 Oct 2022 11:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/</guid>
@@ -1369,7 +1376,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/135/</link>
+		<link>https://newsup.themeansar.com/newspaperex/135/</link>
 		<pubDate>Wed, 19 Oct 2022 11:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/</guid>
@@ -1429,8 +1436,370 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[newsup]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/newsup/</link>
+		<pubDate>Wed, 03 Jun 2020 14:10:32 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/lite/?p=120</guid>
+		<description></description>
+		<content:encoded><![CDATA[.navbar-wp .navbar-nav>li>a.homebtn {
+    position: relative;
+    width: inherit;
+    height: inherit;
+}
+.navbar-wp .navbar-nav > li> a.homebtn span {
+    position: inherit;
+    font-size: 24px;
+    line-height: 1;
+    top: inherit;
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-03 14:10:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-03 14:10:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-03 14:10:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-03 14:10:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[newsup]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[blog2]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/top-5-most-overrated-players-in-the-premier-league-2019-20/blog2-2/</link>
+		<pubDate>Thu, 20 May 2021 16:12:15 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2020/03/blog2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>140</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 16:12:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 16:12:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 16:12:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 16:12:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog2-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>98</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/03/blog2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/03/blog2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:17:"2020/03/blog2.jpg";s:8:"filesize";i:74823;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:17:"blog2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10162;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"blog2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4724;}s:12:"medium_large";a:5:{s:4:"file";s:17:"blog2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48679;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[blog3]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/top-5-most-overrated-players-in-the-premier-league-2019-20/blog3-2/</link>
+		<pubDate>Thu, 20 May 2021 16:12:16 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2020/03/blog3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>141</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 16:12:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 16:12:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 16:12:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 16:12:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog3-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>98</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/03/blog3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/03/blog3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:17:"2020/03/blog3.jpg";s:8:"filesize";i:65757;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:17:"blog3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10717;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"blog3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5685;}s:12:"medium_large";a:5:{s:4:"file";s:17:"blog3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45631;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[blog4]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/top-5-most-overrated-players-in-the-premier-league-2019-20/blog4-2/</link>
+		<pubDate>Thu, 20 May 2021 16:12:17 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2020/03/blog4.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>142</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 16:12:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 16:12:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 16:12:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 16:12:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog4-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>98</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/03/blog4.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/03/blog4.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:17:"2020/03/blog4.jpg";s:8:"filesize";i:89438;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:17:"blog4-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15275;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"blog4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7068;}s:12:"medium_large";a:5:{s:4:"file";s:17:"blog4-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60146;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Leading]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/leading/</link>
+		<pubDate>Wed, 19 Oct 2022 12:27:24 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2022/10/Leading.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>161</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-19 12:27:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-19 12:27:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 12:27:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 12:27:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[leading]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2022/10/Leading.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/10/Leading.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:728;s:6:"height";i:90;s:4:"file";s:19:"2022/10/Leading.jpg";s:8:"filesize";i:10086;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:18:"Leading-300x37.jpg";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2256;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"Leading-150x90.jpg";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1576;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[blog1]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/metro-citys-should-make-road-with-protection-in-mind/blog1-4/</link>
+		<pubDate>Wed, 02 Nov 2022 06:39:47 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/01/blog1.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>173</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-02 06:39:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-02 06:39:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-02 06:39:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-02 06:39:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog1-4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>42</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/01/blog1.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/blog1.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1208;s:6:"height";i:900;s:4:"file";s:18:"2020/01/blog1.webp";s:8:"filesize";i:365392;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"blog1-300x224.webp";s:5:"width";i:300;s:6:"height";i:224;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13588;}s:5:"large";a:5:{s:4:"file";s:19:"blog1-1024x763.webp";s:5:"width";i:1024;s:6:"height";i:763;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:119056;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"blog1-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5696;}s:12:"medium_large";a:5:{s:4:"file";s:18:"blog1-768x572.webp";s:5:"width";i:768;s:6:"height";i:572;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:73624;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[blog4]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/metro-citys-should-make-road-with-protection-in-mind/blog4-4/</link>
+		<pubDate>Wed, 02 Nov 2022 06:39:48 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/01/blog4.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>174</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-02 06:39:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-02 06:39:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-02 06:39:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-02 06:39:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog4-4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>42</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/01/blog4.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/blog4.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:852;s:4:"file";s:18:"2020/01/blog4.webp";s:8:"filesize";i:51184;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"blog4-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3492;}s:5:"large";a:5:{s:4:"file";s:19:"blog4-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13968;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"blog4-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1862;}s:12:"medium_large";a:5:{s:4:"file";s:18:"blog4-768x511.webp";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9888;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[blog3]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/metro-citys-should-make-road-with-protection-in-mind/blog3-3/</link>
+		<pubDate>Wed, 02 Nov 2022 06:39:51 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/01/blog3.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>175</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-02 06:39:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-02 06:39:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-02 06:39:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-02 06:39:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog3-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>42</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/01/blog3.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/blog3.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:855;s:4:"file";s:18:"2020/01/blog3.webp";s:8:"filesize";i:277534;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"blog3-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8400;}s:5:"large";a:5:{s:4:"file";s:19:"blog3-1024x684.webp";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:75056;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"blog3-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3618;}s:12:"medium_large";a:5:{s:4:"file";s:18:"blog3-768x513.webp";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:47278;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[blog2]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/metro-citys-should-make-road-with-protection-in-mind/blog2-4/</link>
+		<pubDate>Wed, 02 Nov 2022 06:39:55 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/01/blog2.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>176</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-02 06:39:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-02 06:39:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-02 06:39:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-02 06:39:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog2-4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>42</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/01/blog2.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/blog2.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:18:"2020/01/blog2.webp";s:8:"filesize";i:366852;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"blog2-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:18712;}s:5:"large";a:5:{s:4:"file";s:19:"blog2-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128360;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"blog2-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7616;}s:12:"medium_large";a:5:{s:4:"file";s:18:"blog2-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:87154;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Leading (1)]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/leading-1/</link>
+		<pubDate>Wed, 02 Nov 2022 06:46:10 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/newspaperex/wp-content/uploads/2022/11/Leading-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>180</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-02 06:46:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-02 06:46:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-02 06:46:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-02 06:46:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[leading-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2022/11/Leading-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/11/Leading-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:728;s:6:"height";i:90;s:4:"file";s:21:"2022/11/Leading-1.jpg";s:8:"filesize";i:10536;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:20:"Leading-1-300x37.jpg";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2509;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"Leading-1-150x90.jpg";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1911;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Make Realtionship Years Lights Fill Kind In USA]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/make-realtionship-years-lights-fill-kind-in-usa/</link>
+		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p> Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus. </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>105</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:22:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:22:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[make-realtionship-years-lights-fill-kind-in-usa]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/136/</link>
+		<link>https://newsup.themeansar.com/newspaperex/136/</link>
 		<pubDate>Wed, 19 Oct 2022 11:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/</guid>
@@ -1491,7 +1860,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/137/</link>
+		<link>https://newsup.themeansar.com/newspaperex/137/</link>
 		<pubDate>Wed, 19 Oct 2022 11:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/</guid>
@@ -1552,7 +1921,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/138/</link>
+		<link>https://newsup.themeansar.com/newspaperex/138/</link>
 		<pubDate>Wed, 19 Oct 2022 11:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/</guid>
@@ -1613,7 +1982,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/139/</link>
+		<link>https://newsup.themeansar.com/newspaperex/139/</link>
 		<pubDate>Wed, 19 Oct 2022 11:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/</guid>
@@ -1673,289 +2042,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[newsup]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/06/03/newsup/</link>
-		<pubDate>Wed, 03 Jun 2020 14:10:32 +0000</pubDate>
-		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/lite/?p=120</guid>
-		<description></description>
-		<content:encoded><![CDATA[.navbar-wp .navbar-nav>li>a.homebtn {
-    position: relative;
-    width: inherit;
-    height: inherit;
-}
-.navbar-wp .navbar-nav > li> a.homebtn span {
-    position: inherit;
-    font-size: 24px;
-    line-height: 1;
-    top: inherit;
-}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>120</wp:post_id>
-		<wp:post_date><![CDATA[2020-06-03 14:10:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-06-03 14:10:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-06-03 14:10:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-06-03 14:10:32]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[newsup]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[blog2]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/03/01/top-5-most-overrated-players-in-the-premier-league-2019-20/blog2-2/</link>
-		<pubDate>Thu, 20 May 2021 16:12:15 +0000</pubDate>
-		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2020/03/blog2.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>140</wp:post_id>
-		<wp:post_date><![CDATA[2021-05-20 16:12:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-05-20 16:12:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-20 16:12:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-20 16:12:15]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog2-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>98</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/03/blog2.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/03/blog2.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:17:"2020/03/blog2.jpg";s:8:"filesize";i:74823;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:17:"blog2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10162;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"blog2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4724;}s:12:"medium_large";a:5:{s:4:"file";s:17:"blog2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48679;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[blog3]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/03/01/top-5-most-overrated-players-in-the-premier-league-2019-20/blog3-2/</link>
-		<pubDate>Thu, 20 May 2021 16:12:16 +0000</pubDate>
-		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2020/03/blog3.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>141</wp:post_id>
-		<wp:post_date><![CDATA[2021-05-20 16:12:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-05-20 16:12:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-20 16:12:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-20 16:12:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog3-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>98</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/03/blog3.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/03/blog3.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:17:"2020/03/blog3.jpg";s:8:"filesize";i:65757;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:17:"blog3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10717;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"blog3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5685;}s:12:"medium_large";a:5:{s:4:"file";s:17:"blog3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45631;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[blog4]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/03/01/top-5-most-overrated-players-in-the-premier-league-2019-20/blog4-2/</link>
-		<pubDate>Thu, 20 May 2021 16:12:17 +0000</pubDate>
-		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2020/03/blog4.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>142</wp:post_id>
-		<wp:post_date><![CDATA[2021-05-20 16:12:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-05-20 16:12:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-20 16:12:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-20 16:12:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog4-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>98</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2020/03/blog4.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/03/blog4.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:17:"2020/03/blog4.jpg";s:8:"filesize";i:89438;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:17:"blog4-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15275;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"blog4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7068;}s:12:"medium_large";a:5:{s:4:"file";s:17:"blog4-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60146;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/20/156/</link>
-		<pubDate>Wed, 19 Oct 2022 11:50:18 +0000</pubDate>
-		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/156/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>156</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-20 09:31:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-19 11:50:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-20 09:31:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-20 09:31:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[156]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[70]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-10-19]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Leading]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/leading/</link>
-		<pubDate>Wed, 19 Oct 2022 12:27:24 +0000</pubDate>
-		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/wp-content/uploads/2022/10/Leading.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>161</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-19 12:27:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-19 12:27:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-19 12:27:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-19 12:27:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[leading]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://newsup.themeansar.com/newspaperex/wp-content/uploads/2022/10/Leading.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/10/Leading.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:728;s:6:"height";i:90;s:4:"file";s:19:"2022/10/Leading.jpg";s:8:"filesize";i:10086;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:18:"Leading-300x37.jpg";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2256;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"Leading-150x90.jpg";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1576;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Make Realtionship Years Lights Fill Kind In USA]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/make-realtionship-years-lights-fill-kind-in-usa/</link>
-		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
-		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p> Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus. </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>105</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:22:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:22:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[make-realtionship-years-lights-fill-kind-in-usa]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2022/10/19/wp-global-styles-bent-news/</link>
-		<pubDate>Wed, 19 Oct 2022 11:57:32 +0000</pubDate>
-		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/wp-global-styles-bent-news/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>158</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-19 11:57:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-19 11:57:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-19 11:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-19 11:57:32]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-bent-news]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="bent-news"><![CDATA[bent-news]]></category>
-						</item>
-					<item>
 		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://newsup.themeansar.com/newspaperex/?page_id=103</link>
 		<pubDate>Tue, 05 May 2020 12:49:42 +0000</pubDate>
@@ -1985,7 +2071,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Events Held In Paris Beautifull And Amazing Things]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/events-held-in-paris-beautifull-and-amazing-things/</link>
+		<link>https://newsup.themeansar.com/newspaperex/events-held-in-paris-beautifull-and-amazing-things/</link>
 		<pubDate>Sun, 12 Jan 2020 16:24:40 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=22</guid>
@@ -2078,7 +2164,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Wherein life sea years lights fill kind midst Spirit]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/wherein-life-sea-years-lights-fill-kind-midst-spirit/</link>
+		<link>https://newsup.themeansar.com/newspaperex/wherein-life-sea-years-lights-fill-kind-midst-spirit/</link>
 		<pubDate>Sun, 12 Jan 2020 16:25:52 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=24</guid>
@@ -2109,7 +2195,7 @@
 							</item>
 					<item>
 		<title><![CDATA[we are able to create beautifull and amazing things]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/we-are-able-to-create-beautifull-and-amazing-things/</link>
+		<link>https://newsup.themeansar.com/newspaperex/we-are-able-to-create-beautifull-and-amazing-things/</link>
 		<pubDate>Sun, 12 Jan 2020 16:26:54 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=26</guid>
@@ -2145,7 +2231,7 @@
 							</item>
 					<item>
 		<title><![CDATA[have is days together meat fill for give you’re]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/have-is-days-together-meat-fill-for-give-youre/</link>
+		<link>https://newsup.themeansar.com/newspaperex/have-is-days-together-meat-fill-for-give-youre/</link>
 		<pubDate>Sun, 12 Jan 2020 16:27:55 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=28</guid>
@@ -2177,7 +2263,7 @@
 							</item>
 					<item>
 		<title><![CDATA[But who has any right to find of existence in present]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/but-who-has-any-right-to-find-of-existence-in-present/</link>
+		<link>https://newsup.themeansar.com/newspaperex/but-who-has-any-right-to-find-of-existence-in-present/</link>
 		<pubDate>Sun, 12 Jan 2020 16:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=30</guid>
@@ -2236,7 +2322,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Working Together to Make Investments]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/working-together-to-make-investments/</link>
+		<link>https://newsup.themeansar.com/newspaperex/working-together-to-make-investments/</link>
 		<pubDate>Sun, 12 Jan 2020 16:29:36 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=32</guid>
@@ -2269,7 +2355,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Business Together To Make Investments]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/business-together-to-make-investments/</link>
+		<link>https://newsup.themeansar.com/newspaperex/business-together-to-make-investments/</link>
 		<pubDate>Sun, 12 Jan 2020 16:31:42 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=34</guid>
@@ -2325,7 +2411,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Cargo industry welcome foreign investment]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/cargo-industry-welcome-foreign-investment/</link>
+		<link>https://newsup.themeansar.com/newspaperex/cargo-industry-welcome-foreign-investment/</link>
 		<pubDate>Sun, 12 Jan 2020 16:34:05 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=36</guid>
@@ -2357,7 +2443,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Where to travel asia Kind Mid Spirit]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/where-to-travel-asia-kind-mid-spirit/</link>
+		<link>https://newsup.themeansar.com/newspaperex/where-to-travel-asia-kind-mid-spirit/</link>
 		<pubDate>Sun, 12 Jan 2020 16:34:38 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=38</guid>
@@ -2423,7 +2509,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Go For Western Economy With These Pioneering]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/go-for-western-economy-with-these-pioneering/</link>
+		<link>https://newsup.themeansar.com/newspaperex/go-for-western-economy-with-these-pioneering/</link>
 		<pubDate>Sun, 12 Jan 2020 16:35:38 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=40</guid>
@@ -2495,7 +2581,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Metro city's should make road with protection In mind]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/metro-citys-should-make-road-with-protection-in-mind/</link>
+		<link>https://newsup.themeansar.com/newspaperex/metro-citys-should-make-road-with-protection-in-mind/</link>
 		<pubDate>Sun, 12 Jan 2020 16:38:07 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=42</guid>
@@ -2509,7 +2595,9 @@
 <!-- /wp:more -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p></p><cite> I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. </cite></blockquote>
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --><cite> I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. </cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -2535,8 +2623,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:38:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:38:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-02 06:40:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-02 06:40:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[metro-citys-should-make-road-with-protection-in-mind]]></wp:post_name>
@@ -2556,7 +2644,7 @@
 		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[149]]></wp:meta_value>
+		<wp:meta_value><![CDATA[173]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
@@ -2564,8 +2652,69 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/156/</link>
+		<pubDate>Wed, 19 Oct 2022 11:50:18 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/156/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>156</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-20 09:31:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-19 11:50:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-20 09:31:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-20 09:31:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[156]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-10-19]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Everything You Wanted to Know About mega city's]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/01/12/everything-you-wanted-to-know-about-mega-citys/</link>
+		<link>https://newsup.themeansar.com/newspaperex/everything-you-wanted-to-know-about-mega-citys/</link>
 		<pubDate>Sun, 12 Jan 2020 16:39:33 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=44</guid>
@@ -2639,7 +2788,7 @@
 							</item>
 					<item>
 		<title><![CDATA[The heart of Nintendo’s new console isn’t the Switch]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/03/01/the-heart-of-nintendos-new-console-isnt-the-switch/</link>
+		<link>https://newsup.themeansar.com/newspaperex/the-heart-of-nintendos-new-console-isnt-the-switch/</link>
 		<pubDate>Sun, 01 Mar 2020 11:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=94</guid>
@@ -2675,8 +2824,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-01 11:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-01 11:28:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-03-01 11:28:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-03-01 11:28:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-02 06:41:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-02 06:41:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-heart-of-nintendos-new-console-isnt-the-switch]]></wp:post_name>
@@ -2690,7 +2839,7 @@
 		<category domain="post_tag" nicename="tech"><![CDATA[Tech]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[147]]></wp:meta_value>
+		<wp:meta_value><![CDATA[175]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
@@ -2699,7 +2848,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Top 5 most overrated players in the Premier League 2019-20]]></title>
-		<link>https://newsup.themeansar.com/newspaperex/2020/03/01/top-5-most-overrated-players-in-the-premier-league-2019-20/</link>
+		<link>https://newsup.themeansar.com/newspaperex/top-5-most-overrated-players-in-the-premier-league-2019-20/</link>
 		<pubDate>Sun, 01 Mar 2020 11:37:51 +0000</pubDate>
 		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=98</guid>
@@ -2735,8 +2884,8 @@
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-01 11:37:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-01 11:37:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-03-01 11:37:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-03-01 11:37:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-02 06:40:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-02 06:40:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-5-most-overrated-players-in-the-premier-league-2019-20]]></wp:post_name>
@@ -2750,13 +2899,63 @@
 		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[146]]></wp:meta_value>
+		<wp:meta_value><![CDATA[176]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/wp-global-styles-bent-news/</link>
+		<pubDate>Wed, 19 Oct 2022 11:57:32 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/bentnews/2022/10/19/wp-global-styles-bent-news/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>158</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-19 11:57:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-19 11:57:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-19 11:57:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-19 11:57:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-bent-news]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="bent-news"><![CDATA[bent-news]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://newsup.themeansar.com/newspaperex/wp-global-styles-newspaperex/</link>
+		<pubDate>Wed, 02 Nov 2022 06:39:33 +0000</pubDate>
+		<dc:creator><![CDATA[newsup_lite]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/newspaperex/wp-global-styles-newspaperex/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>172</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-02 06:39:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-02 06:39:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-02 06:39:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-02 06:39:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-newspaperex]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="newspaperex"><![CDATA[newspaperex]]></category>
+						</item>
 				</channel>
 </rss>
 	

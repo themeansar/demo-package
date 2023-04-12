@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-09-28 09:45" -->
+	<!-- generator="WordPress/6.2" created="2023-04-12 08:21" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>dark</title>
 	<link>https://newsup.themeansar.com/dark</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Mon, 28 Sep 2020 09:45:50 +0000</pubDate>
+	<pubDate>Wed, 12 Apr 2023 08:21:50 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://newsup.themeansar.com/dark</wp:base_site_url>
 	<wp:base_blog_url>https://newsup.themeansar.com/dark</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[pro_newsup_default]]></wp:author_login><wp:author_email><![CDATA[info@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[pro_newsup]]></wp:author_login><wp:author_email><![CDATA[support@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -594,7 +594,7 @@
 	<wp:term><wp:term_id>31</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/favicon-2.png</url>
@@ -605,10 +605,10 @@
 </image> 
 
 		<item>
-		<title>blog8</title>
+		<title><![CDATA[blog8]]></title>
 		<link>https://newsup.themeansar.com/dark/blog8/</link>
 		<pubDate>Sun, 12 Jan 2020 16:20:40 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog8-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -616,6 +616,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:20:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:20:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:20:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:20:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog8]]></wp:post_name>
@@ -636,10 +638,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog10</title>
+		<title><![CDATA[blog10]]></title>
 		<link>https://newsup.themeansar.com/dark/blog10/</link>
 		<pubDate>Sun, 12 Jan 2020 16:20:46 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog10-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -647,6 +649,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:20:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:20:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:20:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:20:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog10]]></wp:post_name>
@@ -667,10 +671,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog11</title>
+		<title><![CDATA[blog11]]></title>
 		<link>https://newsup.themeansar.com/dark/blog11/</link>
 		<pubDate>Sun, 12 Jan 2020 16:20:49 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog11-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -678,6 +682,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:20:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:20:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:20:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:20:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog11]]></wp:post_name>
@@ -698,10 +704,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog12</title>
+		<title><![CDATA[blog12]]></title>
 		<link>https://newsup.themeansar.com/dark/blog12/</link>
 		<pubDate>Sun, 12 Jan 2020 16:20:52 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog12-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -709,6 +715,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:20:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:20:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:20:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:20:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog12]]></wp:post_name>
@@ -729,10 +737,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog13</title>
+		<title><![CDATA[blog13]]></title>
 		<link>https://newsup.themeansar.com/dark/blog13/</link>
 		<pubDate>Sun, 12 Jan 2020 16:20:55 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog13-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -740,6 +748,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:20:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:20:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:20:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:20:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog13]]></wp:post_name>
@@ -760,10 +770,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog1</title>
+		<title><![CDATA[blog1]]></title>
 		<link>https://newsup.themeansar.com/dark/blog1/</link>
 		<pubDate>Sun, 12 Jan 2020 16:20:57 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog1-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -771,6 +781,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:20:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:20:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:20:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:20:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog1]]></wp:post_name>
@@ -791,10 +803,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog2</title>
+		<title><![CDATA[blog2]]></title>
 		<link>https://newsup.themeansar.com/dark/blog2/</link>
 		<pubDate>Sun, 12 Jan 2020 16:21:00 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog2-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -802,6 +814,8 @@
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:21:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:21:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:21:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:21:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog2]]></wp:post_name>
@@ -822,10 +836,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog3</title>
+		<title><![CDATA[blog3]]></title>
 		<link>https://newsup.themeansar.com/dark/blog3/</link>
 		<pubDate>Sun, 12 Jan 2020 16:21:03 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog3-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -833,6 +847,8 @@
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:21:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:21:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:21:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:21:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog3]]></wp:post_name>
@@ -853,10 +869,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog4</title>
+		<title><![CDATA[blog4]]></title>
 		<link>https://newsup.themeansar.com/dark/blog4/</link>
 		<pubDate>Sun, 12 Jan 2020 16:21:07 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog4-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -864,6 +880,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:21:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:21:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:21:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:21:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog4]]></wp:post_name>
@@ -884,10 +902,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog5</title>
+		<title><![CDATA[blog5]]></title>
 		<link>https://newsup.themeansar.com/dark/blog5/</link>
 		<pubDate>Sun, 12 Jan 2020 16:21:14 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog5-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -895,6 +913,8 @@
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:21:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:21:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:21:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:21:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog5]]></wp:post_name>
@@ -915,10 +935,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog6</title>
+		<title><![CDATA[blog6]]></title>
 		<link>https://newsup.themeansar.com/dark/blog6/</link>
 		<pubDate>Sun, 12 Jan 2020 16:21:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog6-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -926,6 +946,8 @@
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:21:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:21:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:21:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:21:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog6]]></wp:post_name>
@@ -946,10 +968,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog7</title>
+		<title><![CDATA[blog7]]></title>
 		<link>https://newsup.themeansar.com/dark/blog7/</link>
 		<pubDate>Sun, 12 Jan 2020 16:21:21 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/blog7-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -957,6 +979,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:21:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:21:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:21:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:21:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog7]]></wp:post_name>
@@ -977,10 +1001,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://newsup.themeansar.com/dark/logo/</link>
 		<pubDate>Sun, 12 Jan 2020 16:44:15 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/logo-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -988,6 +1012,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:44:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:44:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:44:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:44:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -1008,10 +1034,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>favicon</title>
+		<title><![CDATA[favicon]]></title>
 		<link>https://newsup.themeansar.com/dark/favicon/</link>
 		<pubDate>Sun, 12 Jan 2020 16:44:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/favicon-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1019,6 +1045,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:44:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:44:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:44:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:44:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[favicon]]></wp:post_name>
@@ -1039,10 +1067,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pattern1</title>
+		<title><![CDATA[pattern1]]></title>
 		<link>https://newsup.themeansar.com/dark/pattern1/</link>
 		<pubDate>Wed, 22 Jan 2020 12:42:12 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/pattern1-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1050,6 +1078,8 @@
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-22 12:42:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-22 12:42:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-22 12:42:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-22 12:42:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pattern1]]></wp:post_name>
@@ -1074,10 +1104,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>woman-taking</title>
+		<title><![CDATA[woman-taking]]></title>
 		<link>https://newsup.themeansar.com/dark/where-to-travel-in-middle-east/woman-taking/</link>
 		<pubDate>Tue, 18 Feb 2020 12:11:11 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/woman-taking-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1085,6 +1115,8 @@
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:11:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:11:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:11:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:11:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-taking]]></wp:post_name>
@@ -1105,10 +1137,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>dubai</title>
+		<title><![CDATA[dubai]]></title>
 		<link>https://newsup.themeansar.com/dark/uae-dubai-accelerates-ahead/dubai/</link>
 		<pubDate>Tue, 18 Feb 2020 12:11:20 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/dubai-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1116,6 +1148,8 @@
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:11:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:11:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:11:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:11:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dubai]]></wp:post_name>
@@ -1136,10 +1170,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>empty-loun</title>
+		<title><![CDATA[empty-loun]]></title>
 		<link>https://newsup.themeansar.com/dark/top-10-best-resorts-of-the-asia/empty-loun/</link>
 		<pubDate>Tue, 18 Feb 2020 12:11:51 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/empty-loun-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1147,6 +1181,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:11:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:11:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:11:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:11:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[empty-loun]]></wp:post_name>
@@ -1167,10 +1203,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>corow</title>
+		<title><![CDATA[corow]]></title>
 		<link>https://newsup.themeansar.com/dark/epicenter-of-coronavirus/corow/</link>
 		<pubDate>Tue, 18 Feb 2020 12:12:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/corow-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1178,6 +1214,8 @@
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:12:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:12:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:12:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:12:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[corow]]></wp:post_name>
@@ -1198,10 +1236,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>mann</title>
+		<title><![CDATA[mann]]></title>
 		<link>https://newsup.themeansar.com/dark/everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys/mann/</link>
 		<pubDate>Tue, 18 Feb 2020 12:13:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/mann-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1209,6 +1247,8 @@
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:13:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:13:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:13:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:13:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mann]]></wp:post_name>
@@ -1229,10 +1269,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>men-paddling-in-in</title>
+		<title><![CDATA[men-paddling-in-in]]></title>
 		<link>https://newsup.themeansar.com/dark/fight-breaks-out-mattis-felis-consectetur/men-paddling-in-in/</link>
 		<pubDate>Tue, 18 Feb 2020 12:14:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/men-paddling-in-in-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1240,6 +1280,8 @@
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:14:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:14:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:14:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:14:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[men-paddling-in-in]]></wp:post_name>
@@ -1260,10 +1302,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>aerial-view-of-eiffel-towe</title>
+		<title><![CDATA[aerial-view-of-eiffel-towe]]></title>
 		<link>https://newsup.themeansar.com/dark/events-held-in-paris-beautifull-and-amazing-things/aerial-view-of-eiffel-towe/</link>
 		<pubDate>Tue, 18 Feb 2020 12:22:49 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/aerial-view-of-eiffel-towe-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1271,6 +1313,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:22:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:22:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:22:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:22:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[aerial-view-of-eiffel-towe]]></wp:post_name>
@@ -1291,10 +1335,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>panoramic-view-of-sea</title>
+		<title><![CDATA[panoramic-view-of-sea]]></title>
 		<link>https://newsup.themeansar.com/dark/wherein-life-sea-years-lights-fill-kind-midst-spirit/panoramic-view-of-sea/</link>
 		<pubDate>Tue, 18 Feb 2020 12:24:02 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/panoramic-view-of-sea-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1302,6 +1346,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:24:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:24:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:24:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:24:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[panoramic-view-of-sea]]></wp:post_name>
@@ -1322,10 +1368,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>newsup-log-icon</title>
+		<title><![CDATA[newsup-log-icon]]></title>
 		<link>https://newsup.themeansar.com/dark/newsup-log-icon/</link>
 		<pubDate>Tue, 18 Feb 2020 12:26:49 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/newsup-log-icon-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1333,6 +1379,8 @@
 		<wp:post_id>99</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:26:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:26:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:26:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:26:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsup-log-icon]]></wp:post_name>
@@ -1353,10 +1401,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-ad</title>
+		<title><![CDATA[home-ad]]></title>
 		<link>https://newsup.themeansar.com/dark/home-ad/</link>
 		<pubDate>Tue, 18 Feb 2020 12:28:55 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/home-ad-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1364,6 +1412,8 @@
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 12:28:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 12:28:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 12:28:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 12:28:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-ad]]></wp:post_name>
@@ -1384,10 +1434,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>aerial-view-of-coastal-area-from-aircraft-2868245</title>
+		<title><![CDATA[aerial-view-of-coastal-area-from-aircraft-2868245]]></title>
 		<link>https://newsup.themeansar.com/dark/aerial-view-of-coastal-area-from-aircraft-2868245/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:52 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/aerial-view-of-coastal-area-from-aircraft-2868245-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1395,6 +1445,8 @@
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[aerial-view-of-coastal-area-from-aircraft-2868245]]></wp:post_name>
@@ -1419,10 +1471,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>man-flying-a-helicopter-2868217</title>
+		<title><![CDATA[man-flying-a-helicopter-2868217]]></title>
 		<link>https://newsup.themeansar.com/dark/man-flying-a-helicopter-2868217/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:52 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/man-flying-a-helicopter-2868217-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1430,6 +1482,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[man-flying-a-helicopter-2868217]]></wp:post_name>
@@ -1454,10 +1508,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>casey-horner-6CnmogdeQjA-unsplash</title>
+		<title><![CDATA[casey-horner-6CnmogdeQjA-unsplash]]></title>
 		<link>https://newsup.themeansar.com/dark/casey-horner-6cnmogdeqja-unsplash/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:52 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/casey-horner-6CnmogdeQjA-unsplash-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1465,6 +1519,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[casey-horner-6cnmogdeqja-unsplash]]></wp:post_name>
@@ -1489,10 +1545,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bernard-hermant-UfgiA6ZVhsY-unsplash</title>
+		<title><![CDATA[bernard-hermant-UfgiA6ZVhsY-unsplash]]></title>
 		<link>https://newsup.themeansar.com/dark/bernard-hermant-ufgia6zvhsy-unsplash/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:53 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/bernard-hermant-UfgiA6ZVhsY-unsplash-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1500,6 +1556,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bernard-hermant-ufgia6zvhsy-unsplash]]></wp:post_name>
@@ -1524,10 +1582,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>avi-richards-r57frObvmac-unsplash</title>
+		<title><![CDATA[avi-richards-r57frObvmac-unsplash]]></title>
 		<link>https://newsup.themeansar.com/dark/avi-richards-r57frobvmac-unsplash/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:53 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/avi-richards-r57frObvmac-unsplash-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1535,6 +1593,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[avi-richards-r57frobvmac-unsplash]]></wp:post_name>
@@ -1559,10 +1619,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>avel-chuklanov-QbTBCUJLqKY-unsplash</title>
+		<title><![CDATA[avel-chuklanov-QbTBCUJLqKY-unsplash]]></title>
 		<link>https://newsup.themeansar.com/dark/avel-chuklanov-qbtbcujlqky-unsplash/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:53 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/avel-chuklanov-QbTBCUJLqKY-unsplash-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1570,6 +1630,8 @@
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[avel-chuklanov-qbtbcujlqky-unsplash]]></wp:post_name>
@@ -1594,10 +1656,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>user1</title>
+		<title><![CDATA[user1]]></title>
 		<link>https://newsup.themeansar.com/dark/user1/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:53 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/user1-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1605,6 +1667,8 @@
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[user1]]></wp:post_name>
@@ -1629,10 +1693,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>aerial-shot-aerial-view-beach-bird-s-eye-view-587015</title>
+		<title><![CDATA[aerial-shot-aerial-view-beach-bird-s-eye-view-587015]]></title>
 		<link>https://newsup.themeansar.com/dark/aerial-shot-aerial-view-beach-bird-s-eye-view-587015/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:53 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/aerial-shot-aerial-view-beach-bird-s-eye-view-587015-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1640,6 +1704,8 @@
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[aerial-shot-aerial-view-beach-bird-s-eye-view-587015]]></wp:post_name>
@@ -1664,10 +1730,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>yucel-moran-MM1uktx_HMQ-unsplash</title>
+		<title><![CDATA[yucel-moran-MM1uktx_HMQ-unsplash]]></title>
 		<link>https://newsup.themeansar.com/dark/yucel-moran-mm1uktx_hmq-unsplash/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:53 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/yucel-moran-MM1uktx_HMQ-unsplash-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1675,6 +1741,8 @@
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[yucel-moran-mm1uktx_hmq-unsplash]]></wp:post_name>
@@ -1699,10 +1767,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>deniz-altindas--4-KfFh2eIU-unsplash3</title>
+		<title><![CDATA[deniz-altindas--4-KfFh2eIU-unsplash3]]></title>
 		<link>https://newsup.themeansar.com/dark/deniz-altindas-4-kffh2eiu-unsplash3/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:54 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/deniz-altindas-4-KfFh2eIU-unsplash3-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1710,6 +1778,8 @@
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[deniz-altindas-4-kffh2eiu-unsplash3]]></wp:post_name>
@@ -1734,10 +1804,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>clouds2</title>
+		<title><![CDATA[clouds2]]></title>
 		<link>https://newsup.themeansar.com/dark/clouds2/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:54 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/clouds2-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1745,6 +1815,8 @@
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[clouds2]]></wp:post_name>
@@ -1769,10 +1841,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>plane1</title>
+		<title><![CDATA[plane1]]></title>
 		<link>https://newsup.themeansar.com/dark/plane1/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:54 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/plane1-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1780,6 +1852,8 @@
 		<wp:post_id>126</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[plane1]]></wp:post_name>
@@ -1804,10 +1878,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>william-hook-Wtn654UyGYA-unsplash</title>
+		<title><![CDATA[william-hook-Wtn654UyGYA-unsplash]]></title>
 		<link>https://newsup.themeansar.com/dark/william-hook-wtn654uygya-unsplash/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:54 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/william-hook-Wtn654UyGYA-unsplash-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1815,6 +1889,8 @@
 		<wp:post_id>127</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[william-hook-wtn654uygya-unsplash]]></wp:post_name>
@@ -1839,10 +1915,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>deniz-altindas--4-KfFh2eIU-unsplash</title>
+		<title><![CDATA[deniz-altindas--4-KfFh2eIU-unsplash]]></title>
 		<link>https://newsup.themeansar.com/dark/deniz-altindas-4-kffh2eiu-unsplash/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:54 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/deniz-altindas-4-KfFh2eIU-unsplash-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1850,6 +1926,8 @@
 		<wp:post_id>128</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[deniz-altindas-4-kffh2eiu-unsplash]]></wp:post_name>
@@ -1874,10 +1952,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nicole-geri-HKnrEl8LeqM-unsplash</title>
+		<title><![CDATA[nicole-geri-HKnrEl8LeqM-unsplash]]></title>
 		<link>https://newsup.themeansar.com/dark/nicole-geri-hknrel8leqm-unsplash/</link>
 		<pubDate>Wed, 26 Feb 2020 09:14:55 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/nicole-geri-HKnrEl8LeqM-unsplash-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1885,6 +1963,8 @@
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:14:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:14:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:14:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:14:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nicole-geri-hknrel8leqm-unsplash]]></wp:post_name>
@@ -1909,10 +1989,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>newsup-pro</title>
+		<title><![CDATA[newsup-pro]]></title>
 		<link>https://newsup.themeansar.com/dark/newsup-pro/</link>
 		<pubDate>Wed, 22 Jan 2020 12:42:12 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/2020/01/22/newsup-pro/</guid>
 		<description></description>
 		<content:encoded><![CDATA[.mg-posts-sec.mg-posts-modul-3 {
@@ -1928,6 +2008,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-22 12:42:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-22 12:42:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-22 12:42:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-22 12:42:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsup-pro]]></wp:post_name>
@@ -1943,10 +2025,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-blog1.jpg</title>
+		<title><![CDATA[cropped-blog1.jpg]]></title>
 		<link>https://newsup.themeansar.com/dark/cropped-blog1-jpg/</link>
 		<pubDate>Sun, 01 Mar 2020 10:43:50 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/cropped-blog1-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://newsup.themeansar.com/dark/wp-content/uploads/2020/01/cropped-blog1-3.jpg]]></content:encoded>
@@ -1954,6 +2036,8 @@
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-01 10:43:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-01 10:43:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-01 10:43:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-01 10:43:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-blog1-jpg]]></wp:post_name>
@@ -1978,10 +2062,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>newsup-ads</title>
+		<title><![CDATA[newsup-ads]]></title>
 		<link>https://newsup.themeansar.com/dark/newsup-ads/</link>
 		<pubDate>Sun, 01 Mar 2020 17:45:49 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/wp-content/uploads/2020/03/newsup-ads-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1989,6 +2073,8 @@
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-01 17:45:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-01 17:45:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-01 17:45:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-01 17:45:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsup-ads]]></wp:post_name>
@@ -2009,10 +2095,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/162/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2020,6 +2106,8 @@
 		<wp:post_id>162</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[162]]></wp:post_name>
@@ -2064,10 +2152,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/163/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2075,6 +2163,8 @@
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[163]]></wp:post_name>
@@ -2119,10 +2209,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/164/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2130,6 +2220,8 @@
 		<wp:post_id>164</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[164]]></wp:post_name>
@@ -2174,10 +2266,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/165/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2185,6 +2277,8 @@
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[165]]></wp:post_name>
@@ -2229,10 +2323,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/166/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2240,6 +2334,8 @@
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[166]]></wp:post_name>
@@ -2284,10 +2380,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/167/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2295,6 +2391,8 @@
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[167]]></wp:post_name>
@@ -2339,10 +2437,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/168/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2350,6 +2448,8 @@
 		<wp:post_id>168</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[168]]></wp:post_name>
@@ -2394,10 +2494,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/169/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2405,6 +2505,8 @@
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[169]]></wp:post_name>
@@ -2449,10 +2551,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/170/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2460,6 +2562,8 @@
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[170]]></wp:post_name>
@@ -2504,10 +2608,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/171/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2515,6 +2619,8 @@
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[171]]></wp:post_name>
@@ -2559,10 +2665,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/172/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2570,6 +2676,8 @@
 		<wp:post_id>172</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[172]]></wp:post_name>
@@ -2614,10 +2722,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/173/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2625,6 +2733,8 @@
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[173]]></wp:post_name>
@@ -2669,10 +2779,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/174/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2680,6 +2790,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[174]]></wp:post_name>
@@ -2724,10 +2836,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/177/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2735,6 +2847,8 @@
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[177]]></wp:post_name>
@@ -2779,10 +2893,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/178/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2790,6 +2904,8 @@
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[178]]></wp:post_name>
@@ -2834,10 +2950,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/179/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2845,6 +2961,8 @@
 		<wp:post_id>179</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[179]]></wp:post_name>
@@ -2889,10 +3007,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/180/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2900,6 +3018,8 @@
 		<wp:post_id>180</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[180]]></wp:post_name>
@@ -2944,66 +3064,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
-		<link>https://newsup.themeansar.com/dark/sample-page__trashed/</link>
-		<pubDate>Mon, 28 Sep 2020 08:39:25 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/dark/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://newsup.themeansar.com/dark/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 08:39:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 08:39:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1601282724]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Privacy Policy</title>
+		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://newsup.themeansar.com/dark/?page_id=3</link>
 		<pubDate>Mon, 28 Sep 2020 08:39:25 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://newsup.themeansar.com/dark.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
@@ -3011,6 +3075,8 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 08:39:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 08:39:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 08:39:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 08:39:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -3026,66 +3092,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
-		<link>https://newsup.themeansar.com/dark/sample-page__trashed-2/</link>
-		<pubDate>Thu, 19 Sep 2019 10:06:32 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.themeansar.com/newsup/default/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>175</wp:post_id>
-		<wp:post_date><![CDATA[2019-09-19 10:06:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-09-19 10:06:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed-2]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1601285965]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Privacy Policy</title>
+		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://newsup.themeansar.com/dark/?page_id=176</link>
 		<pubDate>Thu, 19 Sep 2019 10:06:32 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://demo.themeansar.com/newsup/default.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
@@ -3093,6 +3103,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-19 10:06:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-19 10:06:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-19 10:06:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-19 10:06:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -3108,10 +3120,49 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Make Realtionship Years Lights Fill Kind In USA</title>
+		<title><![CDATA[Events Held In Paris Beautifull And Amazing Things]]></title>
+		<link>https://newsup.themeansar.com/dark/events-held-in-paris-beautifull-and-amazing-things/</link>
+		<pubDate>Sun, 12 Jan 2020 16:24:40 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=22</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p> Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus. </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:24:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:24:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:24:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:24:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[events-held-in-paris-beautifull-and-amazing-things]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Make Realtionship Years Lights Fill Kind In USA]]></title>
 		<link>https://newsup.themeansar.com/dark/make-realtionship-years-lights-fill-kind-in-usa/</link>
 		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3121,6 +3172,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:22:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:22:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[make-realtionship-years-lights-fill-kind-in-usa]]></wp:post_name>
@@ -3142,10 +3195,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://newsup.themeansar.com/dark/</link>
 		<pubDate>Sun, 12 Jan 2020 16:49:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?page_id=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3153,6 +3206,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:49:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:49:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:49:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:49:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3172,10 +3227,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://newsup.themeansar.com/dark/about/</link>
 		<pubDate>Wed, 26 Feb 2020 09:19:01 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=138</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3193,6 +3248,8 @@
 		<wp:post_id>138</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:19:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:19:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:19:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:19:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -3208,10 +3265,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://newsup.themeansar.com/dark/contact/</link>
 		<pubDate>Wed, 26 Feb 2020 09:19:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=140</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3219,6 +3276,8 @@
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:19:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:19:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:19:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:19:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3234,10 +3293,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/181/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -3245,6 +3304,8 @@
 		<wp:post_id>181</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[181]]></wp:post_name>
@@ -3289,10 +3350,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/182/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -3300,6 +3361,8 @@
 		<wp:post_id>182</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[182]]></wp:post_name>
@@ -3344,10 +3407,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/183/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -3355,6 +3418,8 @@
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[183]]></wp:post_name>
@@ -3399,10 +3464,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/184/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -3410,6 +3475,8 @@
 		<wp:post_id>184</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[184]]></wp:post_name>
@@ -3454,88 +3521,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gallery</title>
-		<link>https://newsup.themeansar.com/dark/tiles__trashed/</link>
-		<pubDate>Mon, 02 Mar 2020 09:25:58 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=192</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gallery {"ids":[123,120]} -->
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.themeansar.com/newsup/default/wp-content/uploads/2020/02/yucel-moran-MM1uktx_HMQ-unsplash-1024x768.jpg" alt="" data-id="123" data-full-url="https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/yucel-moran-MM1uktx_HMQ-unsplash-2.jpg" data-link="https://demo.themeansar.com/newsup/default/yucel-moran-mm1uktx_hmq-unsplash/" class="wp-image-123"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.themeansar.com/newsup/default/wp-content/uploads/2020/02/avel-chuklanov-QbTBCUJLqKY-unsplash-1024x683.jpg" alt="" data-id="120" data-full-url="https://newsup.themeansar.com/dark/wp-content/uploads/2020/02/avel-chuklanov-QbTBCUJLqKY-unsplash-2.jpg" data-link="https://demo.themeansar.com/newsup/default/avel-chuklanov-qbtbcujlqky-unsplash/" class="wp-image-120"/></figure></li></ul></figure>
-<!-- /wp:gallery -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>192</wp:post_id>
-		<wp:post_date><![CDATA[2020-03-02 09:25:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-03-02 09:25:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[tiles__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1583143018]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tiles]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Circle</title>
-		<link>https://newsup.themeansar.com/dark/circle__trashed/</link>
-		<pubDate>Mon, 02 Mar 2020 09:28:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=194</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>194</wp:post_id>
-		<wp:post_date><![CDATA[2020-03-02 09:28:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-03-02 09:28:38]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[circle__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1583143024]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[circle]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Gallery</title>
+		<title><![CDATA[Gallery]]></title>
 		<link>https://newsup.themeansar.com/dark/gallery/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/gallery/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3543,6 +3532,8 @@
 		<wp:post_id>195</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -3587,120 +3578,197 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/dark/196/</link>
-		<pubDate>Mon, 28 Sep 2020 09:03:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/</guid>
+		<title><![CDATA[Wherein life sea years lights fill kind midst Spirit]]></title>
+		<link>https://newsup.themeansar.com/dark/wherein-life-sea-years-lights-fill-kind-midst-spirit/</link>
+		<pubDate>Sun, 12 Jan 2020 16:25:52 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=24</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p> A wonderful serenity has taken possession of my entire soul, like these sweet </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+<!--more-->
+<!-- /wp:more -->
+
+<!-- wp:paragraph -->
+<p> mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> When, while the lovely valley teems with vapour around me, and the  meridian sun strikes the upper surface of the impenetrable foliage of my  trees, and but a few stray gleams steal into the inner sanctuary, I  throw </p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p> myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>196</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:03:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[196]]></wp:post_name>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:25:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:25:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:25:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:25:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[wherein-life-sea-years-lights-fill-kind-midst-spirit]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[96]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[195]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[194]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>TILES</title>
-		<link>https://newsup.themeansar.com/dark/tiles/</link>
-		<pubDate>Mon, 28 Sep 2020 09:03:19 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/tiles/</guid>
+		<title><![CDATA[we are able to create beautifull and amazing things]]></title>
+		<link>https://newsup.themeansar.com/dark/we-are-able-to-create-beautifull-and-amazing-things/</link>
+		<pubDate>Sun, 12 Jan 2020 16:26:54 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=26</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>197</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:03:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[tiles]]></wp:post_name>
+		<wp:post_id>26</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:26:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:26:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:26:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:26:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[we-are-able-to-create-beautifull-and-amazing-things]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+										<category domain="category" nicename="economy"><![CDATA[Economy]]></category>
+		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="category" nicename="world"><![CDATA[World]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[195]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[192]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[have is days together meat fill for give you’re]]></title>
+		<link>https://newsup.themeansar.com/dark/have-is-days-together-meat-fill-for-give-youre/</link>
+		<pubDate>Sun, 12 Jan 2020 16:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=28</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>   Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:27:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:27:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[have-is-days-together-meat-fill-for-give-youre]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="economy"><![CDATA[Economy]]></category>
+		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+						</item>
+					<item>
+		<title><![CDATA[But who has any right to find]]></title>
+		<link>https://newsup.themeansar.com/dark/but-who-has-any-right-to-find/</link>
+		<pubDate>Sun, 12 Jan 2020 16:28:43 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=30</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:28:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:28:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:28:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:28:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[but-who-has-any-right-to-find]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="health"><![CDATA[Health]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Working Together to Make Investments]]></title>
+		<link>https://newsup.themeansar.com/dark/working-together-to-make-investments/</link>
+		<pubDate>Sun, 12 Jan 2020 16:29:36 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=32</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:29:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:29:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:29:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:29:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[working-together-to-make-investments]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="economy"><![CDATA[Economy]]></category>
+		<category domain="category" nicename="world"><![CDATA[World]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/198/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:20 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/198/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -3708,6 +3776,8 @@
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[198]]></wp:post_name>
@@ -3752,10 +3822,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/199/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:20 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/199/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -3763,6 +3833,8 @@
 		<wp:post_id>199</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[199]]></wp:post_name>
@@ -3807,10 +3879,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://newsup.themeansar.com/dark/200/</link>
 		<pubDate>Mon, 28 Sep 2020 09:03:20 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/dark/2020/09/28/200/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -3818,6 +3890,8 @@
 		<wp:post_id>200</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-28 09:03:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:03:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:03:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:03:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[200]]></wp:post_name>
@@ -3862,281 +3936,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hello world!</title>
-		<link>https://newsup.themeansar.com/dark/hello-world__trashed/</link>
-		<pubDate>Mon, 28 Sep 2020 08:39:25 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/dark/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 08:39:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 08:39:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1601282733]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-09-28 08:39:25]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-09-28 08:39:25]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title>Events Held In Paris Beautifull And Amazing Things</title>
-		<link>https://newsup.themeansar.com/dark/events-held-in-paris-beautifull-and-amazing-things/</link>
-		<pubDate>Sun, 12 Jan 2020 16:24:40 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=22</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p> Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus. </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:24:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:24:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[events-held-in-paris-beautifull-and-amazing-things]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[95]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Wherein life sea years lights fill kind midst Spirit</title>
-		<link>https://newsup.themeansar.com/dark/wherein-life-sea-years-lights-fill-kind-midst-spirit/</link>
-		<pubDate>Sun, 12 Jan 2020 16:25:52 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=24</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p> A wonderful serenity has taken possession of my entire soul, like these sweet </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:more -->
-<!--more-->
-<!-- /wp:more -->
-
-<!-- wp:paragraph -->
-<p> mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> When, while the lovely valley teems with vapour around me, and the  meridian sun strikes the upper surface of the impenetrable foliage of my  trees, and but a few stray gleams steal into the inner sanctuary, I  throw </p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p> myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:25:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:25:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[wherein-life-sea-years-lights-fill-kind-midst-spirit]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[96]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>we are able to create beautifull and amazing things</title>
-		<link>https://newsup.themeansar.com/dark/we-are-able-to-create-beautifull-and-amazing-things/</link>
-		<pubDate>Sun, 12 Jan 2020 16:26:54 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=26</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:26:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:26:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[we-are-able-to-create-beautifull-and-amazing-things]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="economy"><![CDATA[Economy]]></category>
-		<category domain="category" nicename="health"><![CDATA[Health]]></category>
-		<category domain="category" nicename="world"><![CDATA[World]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>have is days together meat fill for give you’re</title>
-		<link>https://newsup.themeansar.com/dark/have-is-days-together-meat-fill-for-give-youre/</link>
-		<pubDate>Sun, 12 Jan 2020 16:27:55 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=28</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>   Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:27:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[have-is-days-together-meat-fill-for-give-youre]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="economy"><![CDATA[Economy]]></category>
-		<category domain="category" nicename="health"><![CDATA[Health]]></category>
-						</item>
-					<item>
-		<title>But who has any right to find</title>
-		<link>https://newsup.themeansar.com/dark/but-who-has-any-right-to-find/</link>
-		<pubDate>Sun, 12 Jan 2020 16:28:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=30</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:28:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:28:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[but-who-has-any-right-to-find]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="health"><![CDATA[Health]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Working Together to Make Investments</title>
-		<link>https://newsup.themeansar.com/dark/working-together-to-make-investments/</link>
-		<pubDate>Sun, 12 Jan 2020 16:29:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=32</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:29:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:29:36]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[working-together-to-make-investments]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="economy"><![CDATA[Economy]]></category>
-		<category domain="category" nicename="world"><![CDATA[World]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Business Together To Make Investments</title>
+		<title><![CDATA[Business Together To Make Investments]]></title>
 		<link>https://newsup.themeansar.com/dark/business-together-to-make-investments/</link>
 		<pubDate>Sun, 12 Jan 2020 16:31:42 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4146,6 +3949,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:31:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:31:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:31:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:31:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-together-to-make-investments]]></wp:post_name>
@@ -4167,10 +3972,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cargo industry welcome foreign investment</title>
+		<title><![CDATA[Cargo industry welcome foreign investment]]></title>
 		<link>https://newsup.themeansar.com/dark/cargo-industry-welcome-foreign-investment/</link>
 		<pubDate>Sun, 12 Jan 2020 16:34:05 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=36</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4180,6 +3985,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:34:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:34:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:34:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[cargo-industry-welcome-foreign-investment]]></wp:post_name>
@@ -4197,10 +4004,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Where to travel asia Kind Mid Spirit</title>
+		<title><![CDATA[Where to travel asia Kind Mid Spirit]]></title>
 		<link>https://newsup.themeansar.com/dark/where-to-travel-asia-kind-mid-spirit/</link>
 		<pubDate>Sun, 12 Jan 2020 16:34:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4210,6 +4017,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:34:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:34:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:34:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-to-travel-asia-kind-mid-spirit]]></wp:post_name>
@@ -4233,10 +4042,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Go For Western Economy With These Pioneering</title>
+		<title><![CDATA[Go For Western Economy With These Pioneering]]></title>
 		<link>https://newsup.themeansar.com/dark/go-for-western-economy-with-these-pioneering/</link>
 		<pubDate>Sun, 12 Jan 2020 16:35:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=40</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4246,6 +4055,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:35:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:35:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:35:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:35:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[go-for-western-economy-with-these-pioneering]]></wp:post_name>
@@ -4277,10 +4088,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Metro city&#039;s should make road with protection In mind</title>
+		<title><![CDATA[Metro city's should make road with protection In mind]]></title>
 		<link>https://newsup.themeansar.com/dark/metro-citys-should-make-road-with-protection-in-mind/</link>
 		<pubDate>Sun, 12 Jan 2020 16:38:07 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=42</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4290,6 +4101,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:38:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:38:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[metro-citys-should-make-road-with-protection-in-mind]]></wp:post_name>
@@ -4313,10 +4126,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Everything You Wanted to Know About carnivals</title>
+		<title><![CDATA[Everything You Wanted to Know About carnivals]]></title>
 		<link>https://newsup.themeansar.com/dark/everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys/</link>
 		<pubDate>Sun, 12 Jan 2020 16:39:33 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4326,6 +4139,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:39:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:39:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:39:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:39:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys]]></wp:post_name>
@@ -4357,10 +4172,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Fight Breaks Out mattis felis consectetur</title>
+		<title><![CDATA[Fight Breaks Out mattis felis consectetur]]></title>
 		<link>https://newsup.themeansar.com/dark/fight-breaks-out-mattis-felis-consectetur/</link>
 		<pubDate>Tue, 18 Feb 2020 11:43:23 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=72</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4378,6 +4193,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:43:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:43:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:43:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:43:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fight-breaks-out-mattis-felis-consectetur]]></wp:post_name>
@@ -4408,10 +4225,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Epicenter of Coronavirus undertakes laborious physical</title>
+		<title><![CDATA[Epicenter of Coronavirus undertakes laborious physical]]></title>
 		<link>https://newsup.themeansar.com/dark/epicenter-of-coronavirus/</link>
 		<pubDate>Tue, 18 Feb 2020 11:51:28 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=74</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4421,6 +4238,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:51:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:51:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:51:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:51:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[epicenter-of-coronavirus]]></wp:post_name>
@@ -4450,10 +4269,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>TOP 10 Best Resorts of  the Asia</title>
+		<title><![CDATA[TOP 10 Best Resorts of  the Asia]]></title>
 		<link>https://newsup.themeansar.com/dark/top-10-best-resorts-of-the-asia/</link>
 		<pubDate>Tue, 18 Feb 2020 11:53:24 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=76</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4463,6 +4282,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:53:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:53:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:53:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:53:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-10-best-resorts-of-the-asia]]></wp:post_name>
@@ -4491,10 +4312,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>UAE Dubai Accelerates Ahead which was created for the bliss</title>
+		<title><![CDATA[UAE Dubai Accelerates Ahead which was created for the bliss]]></title>
 		<link>https://newsup.themeansar.com/dark/uae-dubai-accelerates-ahead/</link>
 		<pubDate>Tue, 18 Feb 2020 11:54:08 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=78</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4516,6 +4337,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:54:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:54:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:54:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:54:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[uae-dubai-accelerates-ahead]]></wp:post_name>
@@ -4545,10 +4368,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Where to travel in Middle East</title>
+		<title><![CDATA[Where to travel in Middle East]]></title>
 		<link>https://newsup.themeansar.com/dark/where-to-travel-in-middle-east/</link>
 		<pubDate>Tue, 18 Feb 2020 11:54:42 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_default]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=80</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4558,6 +4381,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:54:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:54:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:54:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:54:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-to-travel-in-middle-east]]></wp:post_name>

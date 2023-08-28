@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2022-12-14 11:07" -->
+	<!-- generator="WordPress/6.1.1" created="2023-02-01 10:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>BLOGUS</title>
 	<link>https://demos.themeansar.com/blogus/litetwo</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 14 Dec 2022 11:07:16 +0000</pubDate>
+	<pubDate>Wed, 01 Feb 2023 10:23:22 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.themeansar.com/blogus/litetwo</wp:base_site_url>
@@ -624,7 +624,7 @@
 														</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/193/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/193/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -632,10 +632,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>193</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[193]]></wp:post_name>
@@ -678,10 +678,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/194/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/194/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -689,10 +693,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>194</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[194]]></wp:post_name>
@@ -735,10 +739,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/195/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/195/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -746,10 +754,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>195</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[195]]></wp:post_name>
@@ -792,10 +800,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/196/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/196/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -803,10 +815,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>196</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[196]]></wp:post_name>
@@ -849,10 +861,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/197/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/197/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -860,10 +876,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>197</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[197]]></wp:post_name>
@@ -875,6 +891,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
@@ -909,7 +929,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/198/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/198/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -917,10 +937,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>198</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[198]]></wp:post_name>
@@ -932,6 +952,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
@@ -966,7 +990,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/199/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/199/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -974,10 +998,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>199</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[199]]></wp:post_name>
@@ -989,6 +1013,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
@@ -1056,7 +1084,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/201/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/201/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:10 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -1064,10 +1092,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>201</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[201]]></wp:post_name>
@@ -1110,10 +1138,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/202/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/202/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:10 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -1121,10 +1153,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>202</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[202]]></wp:post_name>
@@ -1166,6 +1198,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1832,8 +1868,8 @@
 		<category domain="post_tag" nicename="sport"><![CDATA[sport]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
-		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
 		<category domain="category" nicename="world"><![CDATA[World]]></category>
+		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[189]]></wp:meta_value>
@@ -2069,7 +2105,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogus/litetwo/2022/11/24/203/</link>
+		<link>https://demos.themeansar.com/blogus/litetwo/2023/01/30/203/</link>
 		<pubDate>Thu, 24 Nov 2022 11:07:11 +0000</pubDate>
 		<dc:creator><![CDATA[blogus_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/blogus/litetwo/2022/11/24/</guid>
@@ -2077,10 +2113,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>203</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-24 11:08:16]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-01-30 12:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-24 11:07:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 11:08:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 11:08:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-30 12:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-30 12:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[203]]></wp:post_name>
@@ -2122,6 +2158,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-24]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

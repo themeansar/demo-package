@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-09-30 06:16" -->
+	<!-- generator="WordPress/6.2" created="2023-04-12 08:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Tech</title>
 	<link>https://newsup.themeansar.com/tech</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 30 Sep 2020 06:16:05 +0000</pubDate>
+	<pubDate>Wed, 12 Apr 2023 08:23:14 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://newsup.themeansar.com/tech</wp:base_site_url>
 	<wp:base_blog_url>https://newsup.themeansar.com/tech</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[pro_newsup_tech]]></wp:author_login><wp:author_email><![CDATA[info@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[pro_newsup]]></wp:author_login><wp:author_email><![CDATA[info@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -342,13 +342,13 @@
 	<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 		<item>
-		<title>a2</title>
+		<title><![CDATA[a2]]></title>
 		<link>https://newsup.themeansar.com/tech/a2/</link>
 		<pubDate>Wed, 26 Feb 2020 11:02:52 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/02/a2-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -356,6 +356,8 @@
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 11:02:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 11:02:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 11:02:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 11:02:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[a2]]></wp:post_name>
@@ -376,10 +378,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo2</title>
+		<title><![CDATA[logo2]]></title>
 		<link>https://newsup.themeansar.com/tech/logo2/</link>
 		<pubDate>Wed, 26 Feb 2020 11:32:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/02/logo2-5.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -387,6 +389,8 @@
 		<wp:post_id>160</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 11:32:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 11:32:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 11:32:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 11:32:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo2]]></wp:post_name>
@@ -407,10 +411,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/161/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/161/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:16 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -418,6 +422,8 @@
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[161]]></wp:post_name>
@@ -462,10 +468,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/162/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/162/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:16 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -473,6 +479,8 @@
 		<wp:post_id>162</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[162]]></wp:post_name>
@@ -517,10 +525,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/home/</link>
+		<title><![CDATA[Home]]></title>
+		<link>https://newsup.themeansar.com/tech/home/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:16 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -528,6 +536,8 @@
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -572,10 +582,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog3</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/monitor-your-sucess-with-smartpone/blog3/</link>
+		<title><![CDATA[blog3]]></title>
+		<link>https://newsup.themeansar.com/tech/monitor-your-sucess-with-smartpone/blog3/</link>
 		<pubDate>Wed, 26 Feb 2020 12:33:07 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/02/blog3-6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -583,6 +593,8 @@
 		<wp:post_id>191</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:33:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:33:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:33:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:33:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog3]]></wp:post_name>
@@ -603,10 +615,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog1</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/monitor-your-sucess-with-smartpone/blog1/</link>
+		<title><![CDATA[blog1]]></title>
+		<link>https://newsup.themeansar.com/tech/monitor-your-sucess-with-smartpone/blog1/</link>
 		<pubDate>Wed, 26 Feb 2020 12:33:24 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/02/blog1-6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -614,6 +626,8 @@
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:33:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:33:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:33:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:33:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog1]]></wp:post_name>
@@ -634,10 +648,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog2</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/monitor-your-sucess-with-smartpone/blog2/</link>
+		<title><![CDATA[blog2]]></title>
+		<link>https://newsup.themeansar.com/tech/monitor-your-sucess-with-smartpone/blog2/</link>
 		<pubDate>Wed, 26 Feb 2020 12:33:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/02/blog2-6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -645,6 +659,8 @@
 		<wp:post_id>193</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:33:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:33:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:33:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:33:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog2]]></wp:post_name>
@@ -665,10 +681,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog4</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/drone-has-business-protection-with-the-brain-in-mind/blog4/</link>
+		<title><![CDATA[blog4]]></title>
+		<link>https://newsup.themeansar.com/tech/drone-has-business-protection-with-the-brain-in-mind/blog4/</link>
 		<pubDate>Wed, 26 Feb 2020 12:36:01 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/02/blog4-6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -676,6 +692,8 @@
 		<wp:post_id>195</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:36:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:36:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:36:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:36:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog4]]></wp:post_name>
@@ -696,10 +714,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog8</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/navigation-make-route-hassle-free/blog8/</link>
+		<title><![CDATA[blog8]]></title>
+		<link>https://newsup.themeansar.com/tech/navigation-make-route-hassle-free/blog8/</link>
 		<pubDate>Wed, 26 Feb 2020 12:36:29 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/02/blog8-6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -707,6 +725,8 @@
 		<wp:post_id>196</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:36:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:36:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:36:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:36:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog8]]></wp:post_name>
@@ -727,10 +747,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog9</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys/blog9/</link>
+		<title><![CDATA[blog9]]></title>
+		<link>https://newsup.themeansar.com/tech/everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys/blog9/</link>
 		<pubDate>Wed, 26 Feb 2020 12:37:14 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/01/blog9-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -738,6 +758,8 @@
 		<wp:post_id>197</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:37:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:37:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:37:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:37:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog9]]></wp:post_name>
@@ -758,10 +780,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog10</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/essintial-gadget-for-modern-offices-to-make-work-follow-faster/blog10/</link>
+		<title><![CDATA[blog10]]></title>
+		<link>https://newsup.themeansar.com/tech/essintial-gadget-for-modern-offices-to-make-work-follow-faster/blog10/</link>
 		<pubDate>Wed, 26 Feb 2020 12:37:57 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/01/blog10-8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -769,6 +791,8 @@
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:37:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:37:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:37:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:37:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog10]]></wp:post_name>
@@ -789,10 +813,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog11</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/technology-makes-investment-paperless/blog11/</link>
+		<title><![CDATA[blog11]]></title>
+		<link>https://newsup.themeansar.com/tech/technology-makes-investment-paperless/blog11/</link>
 		<pubDate>Wed, 26 Feb 2020 12:38:32 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/01/blog11-8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -800,6 +824,8 @@
 		<wp:post_id>199</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:38:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:38:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:38:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:38:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog11]]></wp:post_name>
@@ -820,10 +846,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog12</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/best-app-for-fast-work-in-smarter-way/blog12/</link>
+		<title><![CDATA[blog12]]></title>
+		<link>https://newsup.themeansar.com/tech/best-app-for-fast-work-in-smarter-way/blog12/</link>
 		<pubDate>Wed, 26 Feb 2020 12:39:22 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/01/blog12-8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -831,6 +857,8 @@
 		<wp:post_id>200</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:39:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:39:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:39:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:39:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog12]]></wp:post_name>
@@ -851,10 +879,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog6</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/go-for-western-economy-with-these-pioneering/blog6/</link>
+		<title><![CDATA[blog6]]></title>
+		<link>https://newsup.themeansar.com/tech/go-for-western-economy-with-these-pioneering/blog6/</link>
 		<pubDate>Wed, 26 Feb 2020 12:43:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/01/blog6-8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -862,6 +890,8 @@
 		<wp:post_id>203</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:43:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:43:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:43:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:43:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog6]]></wp:post_name>
@@ -882,10 +912,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog5</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/how-to-solve-the-four-most-common-business-problems/blog5/</link>
+		<title><![CDATA[blog5]]></title>
+		<link>https://newsup.themeansar.com/tech/how-to-solve-the-four-most-common-business-problems/blog5/</link>
 		<pubDate>Wed, 26 Feb 2020 12:49:08 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/01/blog5-8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -893,6 +923,8 @@
 		<wp:post_id>207</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:49:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:49:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:49:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:49:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog5]]></wp:post_name>
@@ -913,10 +945,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog7</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/working-together-to-make-investments/blog7/</link>
+		<title><![CDATA[blog7]]></title>
+		<link>https://newsup.themeansar.com/tech/working-together-to-make-investments/blog7/</link>
 		<pubDate>Wed, 26 Feb 2020 12:51:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/01/blog7-8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -924,6 +956,8 @@
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:51:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:51:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:51:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:51:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog7]]></wp:post_name>
@@ -944,10 +978,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>newsup-ads</title>
+		<title><![CDATA[newsup-ads]]></title>
 		<link>https://newsup.themeansar.com/tech/newsup-ads/</link>
 		<pubDate>Mon, 02 Mar 2020 10:15:05 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/03/newsup-ads-8.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -955,6 +989,8 @@
 		<wp:post_id>225</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-02 10:15:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-02 10:15:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-02 10:15:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-02 10:15:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsup-ads]]></wp:post_name>
@@ -975,10 +1011,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>a2</title>
+		<title><![CDATA[a2]]></title>
 		<link>https://newsup.themeansar.com/tech/a2-2/</link>
 		<pubDate>Mon, 02 Mar 2020 10:16:32 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/wp-content/uploads/2020/03/a2-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -986,6 +1022,8 @@
 		<wp:post_id>226</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-02 10:16:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-02 10:16:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-02 10:16:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-02 10:16:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[a2-2]]></wp:post_name>
@@ -1006,10 +1044,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/229/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/229/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:34 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1017,6 +1055,8 @@
 		<wp:post_id>229</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[229]]></wp:post_name>
@@ -1061,252 +1101,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
-		<link>https://newsup.themeansar.com/tech/sample-page__trashed/</link>
-		<pubDate>Wed, 30 Sep 2020 05:51:47 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/tech/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://newsup.themeansar.com/tech/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-30 05:51:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-30 05:51:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1601445123]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Privacy Policy</title>
-		<link>https://newsup.themeansar.com/tech/privacy-policy__trashed/</link>
-		<pubDate>Wed, 30 Sep 2020 05:51:47 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/tech/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://newsup.themeansar.com/tech.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-30 05:51:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-30 05:51:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1601445787]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Sample Page</title>
-		<link>https://newsup.themeansar.com/tech/sample-page__trashed-2/</link>
-		<pubDate>Thu, 19 Sep 2019 10:10:21 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/tech/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.themeansar.com/newsup/tech/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>227</wp:post_id>
-		<wp:post_date><![CDATA[2019-09-19 10:10:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-09-19 10:10:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed-2]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1601445787]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Privacy Policy</title>
-		<link>https://newsup.themeansar.com/tech/privacy-policy-2__trashed/</link>
-		<pubDate>Thu, 19 Sep 2019 10:10:21 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/tech/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2>Who we are</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Our website address is: https://demo.themeansar.com/newsup/tech.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>What personal data we collect and why we collect it</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Comments</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Media</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Contact forms</h3>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Cookies</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>228</wp:post_id>
-		<wp:post_date><![CDATA[2019-09-19 10:10:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-09-19 10:10:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1601445787]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[privacy-policy-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>But who has any right to find</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/but-who-has-any-right-to-find/</link>
+		<title><![CDATA[But who has any right to find]]></title>
+		<link>https://newsup.themeansar.com/tech/but-who-has-any-right-to-find/</link>
 		<pubDate>Sun, 12 Jan 2020 16:28:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -1316,6 +1114,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:28:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:28:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:28:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:28:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[but-who-has-any-right-to-find]]></wp:post_name>
@@ -1334,12 +1134,54 @@
 		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>901</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[d.on.al.dhuy.u.n.a.l.d.9.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=acyclovir_cream_5g</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-05 03:59:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-05 03:59:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[acyclovir cream 5g https://candipharm.com/search?text=acyclovir_cream_5g]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>920</wp:comment_id>
+			<wp:comment_author><![CDATA[Antels]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.candipharm.com/#</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-17 07:41:23]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-17 07:41:23]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.candipharm.com/#" rel="nofollow ugc">https://www.candipharm.com/#</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>940</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[p.os.hel.n.ax.u.ya.v.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-30 00:41:11]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-30 00:41:11]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://hydroxychloroquinex.com/" rel="nofollow ugc">hydroxychloroquine hcq over the counter</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
-		<title>Working Together to Make Investments</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/working-together-to-make-investments/</link>
+		<title><![CDATA[Working Together to Make Investments]]></title>
+		<link>https://newsup.themeansar.com/tech/working-together-to-make-investments/</link>
 		<pubDate>Sun, 12 Jan 2020 16:29:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -1349,6 +1191,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:29:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:29:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:29:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:29:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[working-together-to-make-investments]]></wp:post_name>
@@ -1368,12 +1212,82 @@
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[209]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>912</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-13 16:00:40]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-13 16:00:40]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://candipharm.com/" rel="nofollow ugc">https://candipharm.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>913</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm com]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-15 22:20:43]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-15 22:20:43]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://candipharm.com/" rel="nofollow ugc">candipharm</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>895</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[dona.ldh.uy.u.n.al.d.9@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=forcan.150.tablet</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-04 06:41:20]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-04 06:41:20]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[https://candipharm.com/search?text=forcan.150.tablet forcan 150 tablet]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>932</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[p.osh.e.l.n.a.x.u.ya.v@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-27 05:03:36]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-27 05:03:36]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://www.hydroxychloroquinex.com/" rel="nofollow ugc">order plaquenil</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>933</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[po.sh.eln.axuyav.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-28 12:29:45]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-28 12:29:45]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[generic hydroxychloroquine <a href="http://www.hydroxychloroquinex.com/#" rel="nofollow ugc">http://www.hydroxychloroquinex.com/#</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
-		<title>How to Solve the Four Most Common Business Problems</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/how-to-solve-the-four-most-common-business-problems/</link>
+		<title><![CDATA[How to Solve the Four Most Common Business Problems]]></title>
+		<link>https://newsup.themeansar.com/tech/how-to-solve-the-four-most-common-business-problems/</link>
 		<pubDate>Sun, 12 Jan 2020 16:31:42 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -1383,6 +1297,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:31:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:31:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:31:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:31:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-solve-the-four-most-common-business-problems]]></wp:post_name>
@@ -1406,12 +1322,243 @@
 		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>905</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[d.on.al.d.huy.un.ald.9@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=shuddha+guggulu+capsules+for+sale</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-05 19:20:09]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-05 19:20:09]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[shuddha guggulu capsules for sale <a href="https://candipharm.com/search?text=shuddha+guggulu+capsules+for+sale" rel="nofollow ugc">shuddha guggulu capsules for sale</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>926</wp:comment_id>
+			<wp:comment_author><![CDATA[http://www.candipharm.com/#]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.candipharm.com/#</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-19 09:27:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-19 09:27:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://www.candipharm.com/#" rel="nofollow ugc">http://www.candipharm.com/#</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Best App For fast work in smarter way]]></title>
+		<link>https://newsup.themeansar.com/tech/best-app-for-fast-work-in-smarter-way/</link>
+		<pubDate>Sun, 12 Jan 2020 16:34:05 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=36</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> lovely valley teems with vapour around me, and the meridian sun strikes  the upper surface of the impenetrable foliage of my trees, and but a few  stray gleams steal into the inner </p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:34:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:34:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:34:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[best-app-for-fast-work-in-smarter-way]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="security"><![CDATA[Security]]></category>
+		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[199]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cargo-industry-welcome-foreign-investment]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>903</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[d.o.n.ald.h.uyun.al.d.9@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=cotrimoxazole.for.uti</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-05 12:16:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-05 12:16:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://candipharm.com/search?text=cotrimoxazole.for.uti" rel="nofollow ugc">cotrimoxazole for uti</a> cotrimoxazole for uti]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>923</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm com]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-18 10:46:25]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-18 10:46:25]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://candipharm.com/" rel="nofollow ugc">Antels</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>925</wp:comment_id>
+			<wp:comment_author><![CDATA[www.candipharm.com/]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.candipharm.com/#</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-18 11:18:44]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-18 11:18:44]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://www.candipharm.com/#" rel="nofollow ugc">candipharm com</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Technology makes investment paperless]]></title>
+		<link>https://newsup.themeansar.com/tech/technology-makes-investment-paperless/</link>
+		<pubDate>Sun, 12 Jan 2020 16:34:38 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=38</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:34:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:34:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:34:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[technology-makes-investment-paperless]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="smartphone"><![CDATA[Smartphone]]></category>
+		<category domain="post_tag" nicename="tech"><![CDATA[Tech]]></category>
+		<category domain="post_tag" nicename="work"><![CDATA[Work]]></category>
+		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[200]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[where-to-travel-asia-kind-mid-spirit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>909</wp:comment_id>
+			<wp:comment_author><![CDATA[http://candipharm.com/]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-12 08:39:05]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-12 08:39:05]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://candipharm.com/" rel="nofollow ugc">Antels</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>893</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[do.n.a.l.d.h.u.y.un.a.l.d.9.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=wysolone.tablet</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-03 20:01:20]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-03 20:01:20]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Opiply <a href="https://candipharm.com/search?text=wysolone.tablet" rel="nofollow ugc">wysolone tablet</a> Erymoumumn]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>916</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm com]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.candipharm.com/#</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-16 11:49:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-16 11:49:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.candipharm.com/#" rel="nofollow ugc">https://www.candipharm.com/#</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>929</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[po.sh.el.nax.uyav.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-25 20:50:33]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-25 20:50:33]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[do you need a prescription for hydroxychloroquine <a href="https://hydroxychloroquinex.com/" rel="nofollow ugc">https://hydroxychloroquinex.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>936</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[po.sh.e.lna.xuya.v@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-29 03:10:53]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-29 03:10:53]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[hydroxychloroquine pills <a href="http://hydroxychloroquinex.com/" rel="nofollow ugc">hydroxychloroquine pills</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Home]]></title>
 		<link>https://newsup.themeansar.com/tech/</link>
 		<pubDate>Sun, 12 Jan 2020 16:49:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?page_id=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1419,6 +1566,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:49:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:49:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:49:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:49:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1438,10 +1587,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://newsup.themeansar.com/tech/about/</link>
 		<pubDate>Wed, 26 Feb 2020 09:19:01 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=138</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1449,6 +1598,8 @@
 		<wp:post_id>138</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:19:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:19:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:19:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:19:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1464,10 +1615,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://newsup.themeansar.com/tech/contact/</link>
 		<pubDate>Wed, 26 Feb 2020 09:19:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=140</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1475,6 +1626,8 @@
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 09:19:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 09:19:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:19:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:19:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1490,10 +1643,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/230/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/230/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:34 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1501,6 +1654,8 @@
 		<wp:post_id>230</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[230]]></wp:post_name>
@@ -1545,10 +1700,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://newsup.themeansar.com/tech/blog/</link>
 		<pubDate>Wed, 26 Feb 2020 12:45:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/tech/?page_id=204</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1556,6 +1711,8 @@
 		<wp:post_id>204</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-26 12:45:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-26 12:45:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 12:45:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 12:45:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1575,10 +1732,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/231/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/231/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1586,6 +1743,8 @@
 		<wp:post_id>231</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[231]]></wp:post_name>
@@ -1630,10 +1789,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/232/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/232/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1641,6 +1800,8 @@
 		<wp:post_id>232</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[232]]></wp:post_name>
@@ -1685,10 +1846,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/233/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/233/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1696,6 +1857,8 @@
 		<wp:post_id>233</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[233]]></wp:post_name>
@@ -1740,10 +1903,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/234/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/234/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1751,6 +1914,8 @@
 		<wp:post_id>234</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[234]]></wp:post_name>
@@ -1795,10 +1960,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/235/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/235/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1806,6 +1971,8 @@
 		<wp:post_id>235</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[235]]></wp:post_name>
@@ -1850,10 +2017,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/236/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/236/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1861,6 +2028,8 @@
 		<wp:post_id>236</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[236]]></wp:post_name>
@@ -1905,10 +2074,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/237/</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/237/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1916,6 +2085,8 @@
 		<wp:post_id>237</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[237]]></wp:post_name>
@@ -1960,10 +2131,510 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/238/</link>
+		<title><![CDATA[Go For Western Economy With These Pioneering]]></title>
+		<link>https://newsup.themeansar.com/tech/go-for-western-economy-with-these-pioneering/</link>
+		<pubDate>Sun, 12 Jan 2020 16:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> When, while the lovely valley teems with vapour around me, and the  meridian sun strikes the upper surface of the impenetrable foliage of my  trees </p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:35:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:35:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:35:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:35:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[go-for-western-economy-with-these-pioneering]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
+		<category domain="post_tag" nicename="cinema"><![CDATA[cinema]]></category>
+		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
+		<category domain="category" nicename="security"><![CDATA[Security]]></category>
+		<category domain="post_tag" nicename="sport"><![CDATA[sport]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
+		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[go-for-western-economy-with-these-pioneering-business]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Essintial gadget for modern offices to make work follow faster]]></title>
+		<link>https://newsup.themeansar.com/tech/essintial-gadget-for-modern-offices-to-make-work-follow-faster/</link>
+		<pubDate>Sun, 12 Jan 2020 16:38:07 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=42</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>   Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:38:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:38:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[essintial-gadget-for-modern-offices-to-make-work-follow-faster]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="gadget"><![CDATA[Gadget]]></category>
+		<category domain="post_tag" nicename="gadget"><![CDATA[Gadget]]></category>
+		<category domain="category" nicename="security"><![CDATA[Security]]></category>
+		<category domain="post_tag" nicename="tech"><![CDATA[Tech]]></category>
+		<category domain="post_tag" nicename="work"><![CDATA[Work]]></category>
+		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[198]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[metro-citys-should-make-road-with-protection-in-mind]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>902</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[don.a.l.d.h.u.y.un.a.l.d.9.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=allopurinol.renal.dosing</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-05 10:20:07]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-05 10:20:07]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[https://candipharm.com/search?text=allopurinol.renal.dosing allopurinol renal dosing]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>922</wp:comment_id>
+			<wp:comment_author><![CDATA[www.candipharm.com/]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-18 04:25:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-18 04:25:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://candipharm.com/" rel="nofollow ugc">http://candipharm.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>927</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-19 18:09:56]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-19 18:09:56]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://www.candipharm.com/" rel="nofollow ugc">candipharm.com</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>942</wp:comment_id>
+			<wp:comment_author><![CDATA[top5choose 3 stories]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[unasmathers@gawab.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://greendriver.net/social-media-befriended-or-un-friended/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[44.193.7.113]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-19 01:29:06]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-19 01:29:06]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Great web site. Plenty of useful info here. I'm sending it to some buddies ans also sharing in delicious.
+And certainly, thanks in your effort!]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>943</wp:comment_id>
+			<wp:comment_author><![CDATA[a profile information about marjorie Martin]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[carltonskurrie@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://Manipuritheatre.com/website-layout-7-easy-steps/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[3.92.74.188]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-24 07:58:16]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-24 07:58:16]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Thank you for another great article. The place else may 
+just anyone get that kind of info in such an ideal means of writing?
+
+I have a presentation next week, and I'm at the search for such info.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>944</wp:comment_id>
+			<wp:comment_author><![CDATA[Ragegasm.com]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[mindarobillard@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://Ragegasm.com/groups/claim-your-rightful-expert-status-in-your-marketing/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[96.126.113.86]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-24 10:10:15]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-24 10:10:15]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi there, I enjoy reading through your post.
+I wanted to write a little comment to support you.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>945</wp:comment_id>
+			<wp:comment_author><![CDATA[Numbers]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[leopoldogallardo@t-online.de]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.jusarangchurch.com/?document_srl=1448583</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[3.238.194.20]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-24 10:23:06]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-24 10:23:06]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[It's an remarkable article for all the online viewers; they will obtain advantage from it I 
+am sure.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>946</wp:comment_id>
+			<wp:comment_author><![CDATA[Top5Choose.Com]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[shielablair@inbox.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://mnwiki.org/index.php/User:WilburWhitehouse</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[3.238.189.211]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-24 10:50:33]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-24 10:50:33]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[First of all I would like to say awesome blog! I had a 
+quick question that I'd like to ask if you do not mind.
+I was interested to find out how you center yourself and clear your 
+mind before writing. I've had a difficult time clearing 
+my mind in getting my thoughts out. I truly do take pleasure 
+in writing but it just seems like the first 10 to 15 minutes are generally lost 
+just trying to figure out how to begin. Any recommendations 
+or tips? Cheers!]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>947</wp:comment_id>
+			<wp:comment_author><![CDATA[video made by top5choose]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[mitchyarnold@gmx.de]]></wp:comment_author_email>
+			<wp:comment_author_url>https://Bgapedia.com/mediawiki/index.php?title=User:BenitoLysaght5</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[20.51.165.100]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-25 03:57:21]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-25 03:57:21]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hmm it looks like your site ate my first comment (it was super long) so I guess I'll just sum 
+it up what I had written and say, I'm thoroughly enjoying your blog.
+I too am an aspiring blog blogger but I'm still new to the whole thing.
+Do you have any tips and hints for first-time blog writers?
+I'd really appreciate it.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>948</wp:comment_id>
+			<wp:comment_author><![CDATA[Profile Aboutmarjorie Martin]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[blythe_crittenden@googlemail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.riformagiustizia.it/community/profile/winonabeaudry3/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[44.200.2.211]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-25 16:20:21]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-25 16:20:21]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi there mates, how is everything, and what you wish for to 
+say about this article, in my view its in fact remarkable for me.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>949</wp:comment_id>
+			<wp:comment_author><![CDATA[Iris]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[brunopatnode@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.Gedankengut.one/index.php?title=User:ZaraSpyer14264</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[3.232.55.16]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-26 01:22:55]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-26 01:22:55]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, i think that i noticed you visited my site so i came to go back the want?.I'm trying to find issues to improve my site!I guess its adequate to use some of 
+your ideas!!]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>950</wp:comment_id>
+			<wp:comment_author><![CDATA[https://Gemwire.gg/wiki/index.php?Title=User:TrentPina365]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[beaholyfield@arcor.de]]></wp:comment_author_email>
+			<wp:comment_author_url>https://Gemwire.gg/wiki/index.php?title=User:TrentPina365</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[3.238.75.125]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-26 04:55:58]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-26 04:55:58]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[It's awesome to visit this web page and reading the views of all mates concerning this article,
+while I am also eager of getting know-how.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>951</wp:comment_id>
+			<wp:comment_author><![CDATA[dog bowls stand]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[mohamedmowll@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://Wikipoliticos.com/index.php/User:GeorgiannaIul</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[172.174.36.13]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-28 09:45:29]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-28 09:45:29]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Your method of telling the whole thing in this paragraph is 
+really fastidious, all can easily be aware of 
+it, Thanks a lot.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>952</wp:comment_id>
+			<wp:comment_author><![CDATA[Nancy]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sergiopilkington@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.Itguyclaude.com/wiki/User:JamieWallis9516</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[18.204.243.141]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-30 02:28:01]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-30 02:28:01]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I'm not sure the place you're getting your info, however great 
+topic. I must spend a while studying more or understanding more.
+Thank you for fantastic info I used to be in search of this info 
+for my mission.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>953</wp:comment_id>
+			<wp:comment_author><![CDATA[Video Showing Rextender]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[terrysands@t-online.de]]></wp:comment_author_email>
+			<wp:comment_author_url>http://vulteevaliant.com/index.php/User:MarcelinoMcDonne</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[3.235.58.238]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-30 10:56:51]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-30 10:56:51]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi there, its good piece of writing concerning media print, we all understand media is a fantastic source of data.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>954</wp:comment_id>
+			<wp:comment_author><![CDATA[Extend Wifi Range Outside]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[syreetagary@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://Molchanovonews.ru/user/GlendaEngle4172/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[20.232.25.143]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-03 15:26:33]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-03 15:26:33]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I was curious if you ever considered changing the page layout 
+of your site? Its very well written; I love what youve got to say.
+But maybe you could a little more in the way of content so people 
+could connect with it better. Youve got an awful lot 
+of text for only having one or two images. Maybe you could space it out better?]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>955</wp:comment_id>
+			<wp:comment_author><![CDATA[profile information on Behance]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[ulrikedoolan@yahoo.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://Wiki.Hypesims.com/index.php/User:MarleneAbney</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[35.236.10.65]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-04 18:30:30]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-04 18:30:30]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[If some one needs to be updated with newest technologies after that he 
+must be pay a visit this website and be up to date daily.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>956</wp:comment_id>
+			<wp:comment_author><![CDATA[a top5choose reviewer]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[twylamendes@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.cmp-internal.msm.cam.ac.uk/wiki/index.php?title=User:AdamSimonds32</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[4.236.132.244]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-05 00:30:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-05 00:30:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I have been exploring for a little bit for any high quality articles 
+or weblog posts on this sort of space . Exploring in Yahoo I ultimately stumbled upon this website.
+Studying this information So i am glad to show that I have an incredibly excellent uncanny 
+feeling I discovered just what I needed. I such a lot for sure will make 
+certain to don?t put out of your mind this web site and give it a look 
+regularly.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>957</wp:comment_id>
+			<wp:comment_author><![CDATA[content marketing specialist profile]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[stuartbravo@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://tinanatelo.com/index.php/User:RoseanneBarlow</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[20.231.22.63]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-05 07:03:20]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-05 07:03:20]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi there, i read your blog from time to time and i own a similar one and i was just curious if you get a lot of spam comments?
+
+If so how do you reduce it, any plugin or anything you can advise?
+I get so much lately it's driving me insane so any assistance is very 
+much appreciated.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>958</wp:comment_id>
+			<wp:comment_author><![CDATA[Difference Between Wifi Extender And Booster]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[francissaiz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://Www.photos.Teblunthuis.cc/picture.php?/657</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[34.127.72.6]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-05 13:43:53]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-05 13:43:53]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I think this is among the most significant info for me.
+And i am glad reading your article. But wanna remark on some general things, The site style is wonderful, 
+the articles is really excellent : D. Good job,
+cheers]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>959</wp:comment_id>
+			<wp:comment_author><![CDATA[https://cn-stage-1.Wmcloud.org/]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[camillastricklin@arcor.de]]></wp:comment_author_email>
+			<wp:comment_author_url>https://cn-stage-1.Wmcloud.org/wiki/User:Sally46J595457</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[34.94.247.225]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-07 07:59:14]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-07 07:59:14]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[At this moment I am ready to do my breakfast, when having my breakfast coming again to read 
+further news.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>960</wp:comment_id>
+			<wp:comment_author><![CDATA[Article]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sherry.hose@hotmail.de]]></wp:comment_author_email>
+			<wp:comment_author_url>https://autoenthusiastreference.com/MediaWiki/index.php/User:FatimaLemus</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[198.58.119.239]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-10 12:51:55]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-10 12:51:55]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I am curious to find out what blog platform you are using?
+I'm having some small security problems with my latest website 
+and I'd like to find something more safe. Do you have any suggestions?]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>961</wp:comment_id>
+			<wp:comment_author><![CDATA[message marjorie martin on facebook]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[ervin_kidman@vegemail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://masonicwiki.org/wiki/User:CeciliaDeLissa8</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[50.116.24.6]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-11 13:55:24]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-11 13:55:24]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hello, for all time i used to check web site posts here in the early hours in the dawn, because 
+i like to learn more and more.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>962</wp:comment_id>
+			<wp:comment_author><![CDATA[content marketing specialist for top5choose]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[oscarmclendon@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://Cgiwiki.net/index.php/User:ArethaWinifred3</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[44.200.33.107]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-11 14:57:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-11 14:57:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Have you ever considered creating an ebook or guest authoring on other websites?
+I have a blog centered on the same subjects you discuss and would really like to have 
+you share some stories/information. I know 
+my subscribers would appreciate your work. If 
+you are even remotely interested, feel free to shoot me an email.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>963</wp:comment_id>
+			<wp:comment_author><![CDATA[top5choose reviewer on medium]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[harrietutter@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://Bgapedia.com/mediawiki/index.php?title=User:Victorina57P</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[34.72.22.118]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-11 21:18:28]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-11 21:18:28]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hey! Someone in my Facebook group shared this site with us so I 
+came to give it a look. I'm definitely enjoying the information. I'm book-marking and will be tweeting 
+this to my followers! Outstanding blog and amazing design.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/tech/238/</link>
 		<pubDate>Wed, 30 Sep 2020 05:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/tech/2020/09/30/238/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1971,6 +2642,8 @@
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 05:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 05:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 05:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[238]]></wp:post_name>
@@ -2015,430 +2688,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hello world!</title>
-		<link>https://newsup.themeansar.com/tech/2020/09/30/hello-world__trashed/</link>
-		<pubDate>Wed, 30 Sep 2020 05:51:47 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/tech/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-30 05:51:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-30 05:51:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1601445116]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-09-30 05:51:47]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-09-30 05:51:47]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title>Best App For fast work in smarter way</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/best-app-for-fast-work-in-smarter-way/</link>
-		<pubDate>Sun, 12 Jan 2020 16:34:05 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=36</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> lovely valley teems with vapour around me, and the meridian sun strikes  the upper surface of the impenetrable foliage of my trees, and but a few  stray gleams steal into the inner </p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:34:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[best-app-for-fast-work-in-smarter-way]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="security"><![CDATA[Security]]></category>
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[199]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cargo-industry-welcome-foreign-investment]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Technology makes investment paperless</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/technology-makes-investment-paperless/</link>
-		<pubDate>Sun, 12 Jan 2020 16:34:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=38</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:34:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:38]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[technology-makes-investment-paperless]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="smartphone"><![CDATA[Smartphone]]></category>
-		<category domain="post_tag" nicename="tech"><![CDATA[Tech]]></category>
-		<category domain="post_tag" nicename="work"><![CDATA[Work]]></category>
-		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[200]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[where-to-travel-asia-kind-mid-spirit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Beautifull And Amazing Things with smart technology</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/beautifull-and-amazing-things-with-smart-technology__trashed/</link>
-		<pubDate>Sun, 12 Jan 2020 16:24:40 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=22</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p> Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus. </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:24:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:24:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[beautifull-and-amazing-things-with-smart-technology__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="gadget"><![CDATA[Gadget]]></category>
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-held-in-paris-beautifull-and-amazing-things]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1582722648]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[beautifull-and-amazing-things-with-smart-technology]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Wherein life sea years lights fill kind midst Spirit</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/wherein-life-sea-years-lights-fill-kind-midst-spirit__trashed/</link>
-		<pubDate>Sun, 12 Jan 2020 16:25:52 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=24</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>  Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.  </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:25:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:25:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[wherein-life-sea-years-lights-fill-kind-midst-spirit__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="gadget"><![CDATA[Gadget]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[96]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1582722038]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wherein-life-sea-years-lights-fill-kind-midst-spirit]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>we are able to create beautifull and amazing things</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/we-are-able-to-create-beautifull-and-amazing-things__trashed/</link>
-		<pubDate>Sun, 12 Jan 2020 16:26:54 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=26</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:26:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:26:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[we-are-able-to-create-beautifull-and-amazing-things__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="smartphone"><![CDATA[Smartphone]]></category>
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1582722606]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[we-are-able-to-create-beautifull-and-amazing-things]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>have is days together meat fill for give you’re</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/have-is-days-together-meat-fill-for-give-youre__trashed/</link>
-		<pubDate>Sun, 12 Jan 2020 16:27:55 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=28</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>   Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:27:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[have-is-days-together-meat-fill-for-give-youre__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1582721891]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[have-is-days-together-meat-fill-for-give-youre]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Go For Western Economy With These Pioneering</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/go-for-western-economy-with-these-pioneering/</link>
-		<pubDate>Sun, 12 Jan 2020 16:35:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> When, while the lovely valley teems with vapour around me, and the  meridian sun strikes the upper surface of the impenetrable foliage of my  trees </p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:35:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:35:38]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[go-for-western-economy-with-these-pioneering]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
-		<category domain="post_tag" nicename="cinema"><![CDATA[cinema]]></category>
-		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
-		<category domain="category" nicename="security"><![CDATA[Security]]></category>
-		<category domain="post_tag" nicename="sport"><![CDATA[sport]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
-		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[go-for-western-economy-with-these-pioneering-business]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[203]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Essintial gadget for modern offices to make work follow faster</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/essintial-gadget-for-modern-offices-to-make-work-follow-faster/</link>
-		<pubDate>Sun, 12 Jan 2020 16:38:07 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=42</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>   Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus.   </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:38:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[essintial-gadget-for-modern-offices-to-make-work-follow-faster]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="gadget"><![CDATA[Gadget]]></category>
-		<category domain="post_tag" nicename="gadget"><![CDATA[Gadget]]></category>
-		<category domain="category" nicename="security"><![CDATA[Security]]></category>
-		<category domain="post_tag" nicename="tech"><![CDATA[Tech]]></category>
-		<category domain="post_tag" nicename="work"><![CDATA[Work]]></category>
-		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[198]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[metro-citys-should-make-road-with-protection-in-mind]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Every office need this product to boost productivity</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys/</link>
+		<title><![CDATA[Every office need this product to boost productivity]]></title>
+		<link>https://newsup.themeansar.com/tech/everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys/</link>
 		<pubDate>Sun, 12 Jan 2020 16:39:33 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2507,6 +2760,8 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:39:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:39:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:39:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:39:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys]]></wp:post_name>
@@ -2535,59 +2790,68 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[everything-you-wanted-to-know-about-mega-citys]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>914</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-15 22:47:48]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-15 22:47:48]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://candipharm.com/" rel="nofollow ugc">https://candipharm.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>896</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[dona.l.d.hu.y.u.na.l.d9@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=amoxil.500</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-04 17:04:56]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-04 17:04:56]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Opiply <a href="https://candipharm.com/search?text=amoxil.500" rel="nofollow ugc">amoxil 500</a> Erymoumumn]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>921</wp:comment_id>
+			<wp:comment_author><![CDATA[Antels]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-18 00:10:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-18 00:10:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://www.candipharm.com/" rel="nofollow ugc">http://www.candipharm.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>934</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[p.osh.e.l.nax.u.yav.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-28 13:00:50]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-28 13:00:50]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[chloroquine phosphate 500 mg <a href="https://www.hydroxychloroquinex.com/" rel="nofollow ugc">chloroquine phosphate 500 mg</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
-		<title>Make Realtionship Years Lights Fill Kind In USA</title>
-		<link>https://newsup.themeansar.com/tech/2020/01/12/make-realtionship-years-lights-fill-kind-in-usa__trashed/</link>
-		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p> Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus. </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:22:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[make-realtionship-years-lights-fill-kind-in-usa__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="gadget"><![CDATA[Gadget]]></category>
-		<category domain="category" nicename="security"><![CDATA[Security]]></category>
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1582721839]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[make-realtionship-years-lights-fill-kind-in-usa]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Navigation make route hassle free</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/navigation-make-route-hassle-free/</link>
+		<title><![CDATA[Navigation make route hassle free]]></title>
+		<link>https://newsup.themeansar.com/tech/navigation-make-route-hassle-free/</link>
 		<pubDate>Tue, 18 Feb 2020 11:43:23 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=72</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2609,6 +2873,8 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:43:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:43:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:43:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:43:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation-make-route-hassle-free]]></wp:post_name>
@@ -2641,12 +2907,54 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[fight-breaks-out-mattis-felis-consectetur]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>897</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[d.o.nal.dhuyun.al.d.9.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=vidalista_black_80_side_effects</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-04 20:47:51]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-04 20:47:51]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[vidalista black 80 side effects <a href="https://candipharm.com/search?text=vidalista_black_80_side_effects" rel="nofollow ugc">vidalista black 80 side effects</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>915</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm com]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-16 08:16:25]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-16 08:16:25]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://candipharm.com/" rel="nofollow ugc">candipharm</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>935</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[pos.helnax.uya.v.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-28 23:29:51]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-28 23:29:51]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.hydroxychloroquinex.com/" rel="nofollow ugc">cost of generic plaquenil</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
-		<title>Drone Has Business Protection with the Brain in Mind</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/drone-has-business-protection-with-the-brain-in-mind/</link>
+		<title><![CDATA[Drone Has Business Protection with the Brain in Mind]]></title>
+		<link>https://newsup.themeansar.com/tech/drone-has-business-protection-with-the-brain-in-mind/</link>
 		<pubDate>Tue, 18 Feb 2020 11:51:28 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=74</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2676,6 +2984,8 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:51:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:51:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:51:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:51:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[drone-has-business-protection-with-the-brain-in-mind]]></wp:post_name>
@@ -2709,10 +3019,10 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>People loves spend time with techpark</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/people-loves-spend-time-with-techpark/</link>
+		<title><![CDATA[People loves spend time with techpark]]></title>
+		<link>https://newsup.themeansar.com/tech/people-loves-spend-time-with-techpark/</link>
 		<pubDate>Tue, 18 Feb 2020 11:53:24 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=76</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2734,6 +3044,8 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:53:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:53:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:53:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:53:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[people-loves-spend-time-with-techpark]]></wp:post_name>
@@ -2764,12 +3076,40 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[top-10-best-resorts-of-the-asia]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>904</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[d.ona.l.dhu.y.u.nal.d9@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=diabecon.60.caps</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-05 12:23:56]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-05 12:23:56]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://candipharm.com/search?text=diabecon.60.caps" rel="nofollow ugc">candipharm</a> diabecon 60 caps]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>924</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-18 11:09:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-18 11:09:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://candipharm.com/" rel="nofollow ugc">http://candipharm.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
-		<title>Android has a Brite future in smart Devices</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/android-has-a-brite-future-in-smart-devices/</link>
+		<title><![CDATA[Android has a Brite future in smart Devices]]></title>
+		<link>https://newsup.themeansar.com/tech/android-has-a-brite-future-in-smart-devices/</link>
 		<pubDate>Tue, 18 Feb 2020 11:54:08 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=78</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2791,6 +3131,8 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:54:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:54:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:54:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:54:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[android-has-a-brite-future-in-smart-devices]]></wp:post_name>
@@ -2821,12 +3163,152 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[uae-dubai-accelerates-ahead]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>911</wp:comment_id>
+			<wp:comment_author><![CDATA[http://candipharm.com/]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-12 22:40:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-12 22:40:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://candipharm.com/" rel="nofollow ugc">Antels</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>910</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-12 13:32:50]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-12 13:32:50]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://candipharm.com/" rel="nofollow ugc">http://candipharm.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>907</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[d.onal.d.huyun.ald9@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=rumalaya+forte+tablets</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-14 01:13:25]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-14 01:13:25]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[https://candipharm.com/search?text=rumalaya+forte+tablets rumalaya forte tablets]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>900</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[d.o.n.al.dhuyu.na.l.d9.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=hytrin</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-05 01:37:49]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-05 01:37:49]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[hytrin <a href="https://candipharm.com/search?text=hytrin" rel="nofollow ugc">hytrin</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>894</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[do.nald.hu.y.un.a.l.d.9@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=bactroban+ointment+2%25+w%2fv+5+gaming</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-03 21:44:58]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-03 21:44:58]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[bactroban ointment 2% w/v 5 gaming <a href="https://candipharm.com/search?text=bactroban+ointment+2%25+w%2fv+5+gaming" rel="nofollow ugc">bactroban ointment 2% w/v 5 gaming</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>919</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.candipharm.com/#</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-17 00:04:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-17 00:04:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://www.candipharm.com/#" rel="nofollow ugc">candipharm</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>930</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[p.o.sh.elnax.u.yav@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-26 01:41:23]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-26 01:41:23]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[aralen 500mg https://www.hydroxychloroquinex.com/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>931</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[p.oshel.naxu.y.av@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-26 18:45:17]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-26 18:45:17]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.hydroxychloroquinex.com/" rel="nofollow ugc">https://www.hydroxychloroquinex.com/</a> cheapest aralen online]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>939</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[p.o.s.h.e.l.naxu.y.av@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-29 16:16:06]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-29 16:16:06]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[hydroxychloroquine tablets for sale <a href="http://www.hydroxychloroquinex.com/" rel="nofollow ugc">http://www.hydroxychloroquinex.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>941</wp:comment_id>
+			<wp:comment_author><![CDATA[bidu tudu]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[nd@yt.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://tech.santalkhabar.in</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[49.37.114.148]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-01-25 04:58:42]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-01-25 04:58:42]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Wow great article <a href="https://tech.santalkhabar.in/" rel="nofollow ugc">Visit </a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
-		<title>Monitor your Sucess With Smartpone</title>
-		<link>https://newsup.themeansar.com/tech/2020/02/18/monitor-your-sucess-with-smartpone/</link>
+		<title><![CDATA[Monitor your Sucess With Smartpone]]></title>
+		<link>https://newsup.themeansar.com/tech/monitor-your-sucess-with-smartpone/</link>
 		<pubDate>Tue, 18 Feb 2020 11:54:42 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_tech]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=80</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2860,6 +3342,8 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:54:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:54:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:54:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:54:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[monitor-your-sucess-with-smartpone]]></wp:post_name>
@@ -2890,7 +3374,133 @@ zephyrs vex bold Jim.  Quick zephyrs blow, vexing daft Jim.  Sex-charged
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[where-to-travel-in-middle-east]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>908</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.candipharm.com/#</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-11 21:04:40]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-11 21:04:40]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://www.candipharm.com/#" rel="nofollow ugc">www.candipharm.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>906</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[donal.d.h.uy.u.na.l.d9@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=pramipexole+brand+name</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-13 10:05:44]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-13 10:05:44]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[pramipexole brand name <a href="https://candipharm.com/search?text=pramipexole+brand+name" rel="nofollow ugc">pramipexole brand name</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>899</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[dona.l.dhuy.un.a.ld9@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=motilium.10.mg.para.que.sirve</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-04 23:26:42]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-04 23:26:42]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://candipharm.com/search?text=motilium.10.mg.para.que.sirve" rel="nofollow ugc">motilium 10 mg para que sirve</a> motilium 10 mg para que sirve]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>898</wp:comment_id>
+			<wp:comment_author><![CDATA[Annonee]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[do.n.al.dhuyunal.d9.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/search?text=tadora.baikalpharmacy</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-10-04 22:11:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-10-04 22:11:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[https://candipharm.com/search?text=tadora.baikalpharmacy tadora baikalpharmacy]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>917</wp:comment_id>
+			<wp:comment_author><![CDATA[https://candipharm.com/]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://candipharm.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-16 12:34:27]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-16 12:34:27]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://candipharm.com/" rel="nofollow ugc">https://candipharm.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>918</wp:comment_id>
+			<wp:comment_author><![CDATA[candipharm]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[yourmail@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.candipharm.com/#</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-16 16:49:13]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-16 16:49:13]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.candipharm.com/#" rel="nofollow ugc">Antels</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>928</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[poshe.lnaxuy.a.v@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-25 14:11:20]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-25 14:11:20]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://hydroxychloroquinex.com/" rel="nofollow ugc">http://hydroxychloroquinex.com/</a> hydroxychloroquine generic names]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>937</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[p.o.s.h.eln.a.x.uyav.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-29 03:57:12]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-29 03:57:12]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="http://hydroxychloroquinex.com/" rel="nofollow ugc">http://hydroxychloroquinex.com/</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>938</wp:comment_id>
+			<wp:comment_author><![CDATA[MorrisHaili]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[p.o.sh.elna.xuya.v.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.139.53.26]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-12-29 08:21:07]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-12-29 08:21:07]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[otc hydroxychloroquine for sale <a href="https://www.hydroxychloroquinex.com/#" rel="nofollow ugc">otc hydroxychloroquine for sale</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 				</channel>
 </rss>
 	

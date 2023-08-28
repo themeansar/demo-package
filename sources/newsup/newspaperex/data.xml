@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2023-01-06 10:41" -->
+	<!-- generator="WordPress/6.1.1" created="2023-03-20 08:57" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Newspaperex</title>
 	<link>https://newsup.themeansar.com/newspaperex</link>
 	<description>Just Another WordPress site</description>
-	<pubDate>Fri, 06 Jan 2023 10:41:26 +0000</pubDate>
+	<pubDate>Mon, 20 Mar 2023 08:57:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://newsup.themeansar.com/newspaperex</wp:base_site_url>
@@ -2388,8 +2388,8 @@
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="sport"><![CDATA[sport]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
-		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
 		<category domain="category" nicename="world"><![CDATA[World]]></category>
+		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[17]]></wp:meta_value>
@@ -2444,8 +2444,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="post_tag" nicename="cinema"><![CDATA[cinema]]></category>
 		<category domain="category" nicename="economy"><![CDATA[Economy]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
@@ -2612,7 +2612,21 @@
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[гагаг]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[ksjdhfusdg@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[91.200.11.81]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-02-13 14:54:53]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-02-13 14:54:53]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[какрнукецуыа оываряв фыикцфгао фыафыои]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title><![CDATA[The heart of Nintendo’s new console isn’t the Switch]]></title>
 		<link>https://newsup.themeansar.com/newspaperex/the-heart-of-nintendos-new-console-isnt-the-switch/</link>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-09-30 06:56" -->
+	<!-- generator="WordPress/6.2" created="2023-04-12 08:50" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Food</title>
 	<link>https://newsup.themeansar.com/food</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 30 Sep 2020 06:56:56 +0000</pubDate>
+	<pubDate>Wed, 12 Apr 2023 08:50:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://newsup.themeansar.com/food</wp:base_site_url>
 	<wp:base_blog_url>https://newsup.themeansar.com/food</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[pro_newsup_food]]></wp:author_login><wp:author_email><![CDATA[info@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[pro_newsup]]></wp:author_login><wp:author_email><![CDATA[support@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -445,13 +445,13 @@
 	<wp:term><wp:term_id>29</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 		<item>
-		<title>blog5</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=126</link>
+		<title><![CDATA[blog5]]></title>
+		<link>https://newsup.themeansar.com/food/hot-cocoa-cookies-with-chocolate-chips/blog5/</link>
 		<pubDate>Fri, 28 Feb 2020 15:31:17 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog5-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -459,6 +459,8 @@
 		<wp:post_id>126</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:31:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:31:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:31:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:31:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog5]]></wp:post_name>
@@ -479,10 +481,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog1</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=131</link>
+		<title><![CDATA[blog1]]></title>
+		<link>https://newsup.themeansar.com/food/chocolate-with-gnocchi-bean-cupecakes/blog1/</link>
 		<pubDate>Fri, 28 Feb 2020 15:38:23 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/02/blog1-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -490,6 +492,8 @@
 		<wp:post_id>131</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:38:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:38:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:38:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:38:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog1]]></wp:post_name>
@@ -510,10 +514,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog10</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=133</link>
+		<title><![CDATA[blog10]]></title>
+		<link>https://newsup.themeansar.com/food/but-who-has-any-right-to-find/blog10/</link>
 		<pubDate>Fri, 28 Feb 2020 15:39:25 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog10-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -521,6 +525,8 @@
 		<wp:post_id>133</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:39:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:39:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:39:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:39:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog10]]></wp:post_name>
@@ -541,10 +547,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog11</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=134</link>
+		<title><![CDATA[blog11]]></title>
+		<link>https://newsup.themeansar.com/food/have-is-days-together-meat-fill-for-give-youre/blog11/</link>
 		<pubDate>Fri, 28 Feb 2020 15:39:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog11-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -552,6 +558,8 @@
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:39:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:39:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:39:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:39:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog11]]></wp:post_name>
@@ -572,10 +580,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog6</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=135</link>
+		<title><![CDATA[blog6]]></title>
+		<link>https://newsup.themeansar.com/food/slow-cooker-recipe-with-lentil-with-tomato-chilispices/blog6/</link>
 		<pubDate>Fri, 28 Feb 2020 15:43:48 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog6-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -583,6 +591,8 @@
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:43:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:43:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:43:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:43:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog6]]></wp:post_name>
@@ -603,10 +613,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog12</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=136</link>
+		<title><![CDATA[blog12]]></title>
+		<link>https://newsup.themeansar.com/food/vegetarian-parmesan-gnocchi-pesto-penne-recipe/blog12/</link>
 		<pubDate>Fri, 28 Feb 2020 15:44:25 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog12-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -614,6 +624,8 @@
 		<wp:post_id>136</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:44:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:44:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:44:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:44:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog12]]></wp:post_name>
@@ -634,10 +646,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog7</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=137</link>
+		<title><![CDATA[blog7]]></title>
+		<link>https://newsup.themeansar.com/food/vegetarian-parmesan-gnocchi-pesto-penne-recipe/blog7/</link>
 		<pubDate>Fri, 28 Feb 2020 15:44:29 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog7-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -645,6 +657,8 @@
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:44:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:44:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:44:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:44:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog7]]></wp:post_name>
@@ -665,10 +679,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog13</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=142</link>
+		<title><![CDATA[blog13]]></title>
+		<link>https://newsup.themeansar.com/food/we-are-able-to-create-beautifull-and-amazing-things/blog13/</link>
 		<pubDate>Fri, 28 Feb 2020 15:51:53 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog13-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -676,6 +690,8 @@
 		<wp:post_id>142</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:51:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:51:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:51:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:51:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog13]]></wp:post_name>
@@ -696,10 +712,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog15</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=143</link>
+		<title><![CDATA[blog15]]></title>
+		<link>https://newsup.themeansar.com/food/leafs-tomato-blossam-tempura-salad/blog15/</link>
 		<pubDate>Fri, 28 Feb 2020 15:52:41 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog15-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -707,6 +723,8 @@
 		<wp:post_id>143</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:52:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:52:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:52:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:52:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog15]]></wp:post_name>
@@ -727,10 +745,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog9</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=146</link>
+		<title><![CDATA[blog9]]></title>
+		<link>https://newsup.themeansar.com/food/french-toast-whistle-bell-less-frittata/blog9/</link>
 		<pubDate>Fri, 28 Feb 2020 15:57:09 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog9-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -738,6 +756,8 @@
 		<wp:post_id>146</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:57:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:57:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:57:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:57:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog9]]></wp:post_name>
@@ -758,10 +778,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog3</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=147</link>
+		<title><![CDATA[blog3]]></title>
+		<link>https://newsup.themeansar.com/food/healthy-recipe-with-secret-ingredient/blog3/</link>
 		<pubDate>Fri, 28 Feb 2020 15:57:58 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog3-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -769,6 +789,8 @@
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:57:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:57:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:57:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:57:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog3]]></wp:post_name>
@@ -789,10 +811,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>a3</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=170</link>
+		<title><![CDATA[a3]]></title>
+		<link>https://newsup.themeansar.com/food/a3/</link>
 		<pubDate>Mon, 02 Mar 2020 15:44:34 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/03/a3-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -800,6 +822,8 @@
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-02 15:44:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-02 15:44:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-02 15:44:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-02 15:44:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[a3]]></wp:post_name>
@@ -820,10 +844,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=112</link>
+		<title><![CDATA[logo]]></title>
+		<link>https://newsup.themeansar.com/food/logo/</link>
 		<pubDate>Fri, 28 Feb 2020 13:55:47 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/02/logo-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -831,6 +855,8 @@
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 13:55:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 13:55:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 13:55:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 13:55:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -851,10 +877,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>fff</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=118</link>
+		<title><![CDATA[fff]]></title>
+		<link>https://newsup.themeansar.com/food/vegetarian-soup-with-cornbread-tomato/fff/</link>
 		<pubDate>Fri, 28 Feb 2020 14:44:19 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/02/fff-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -862,6 +888,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 14:44:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 14:44:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 14:44:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 14:44:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fff]]></wp:post_name>
@@ -882,10 +910,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog14</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=119</link>
+		<title><![CDATA[blog14]]></title>
+		<link>https://newsup.themeansar.com/food/vegetarian-soup-with-cornbread-tomato/blog14/</link>
 		<pubDate>Fri, 28 Feb 2020 15:11:28 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/02/blog14-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -893,6 +921,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:11:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:11:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:11:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:11:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog14]]></wp:post_name>
@@ -913,10 +943,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog16</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=122</link>
+		<title><![CDATA[blog16]]></title>
+		<link>https://newsup.themeansar.com/food/butternut-squash-potato-with-noodle-soup/blog16/</link>
 		<pubDate>Fri, 28 Feb 2020 15:15:22 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/02/blog16-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -924,6 +954,8 @@
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:15:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:15:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:15:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:15:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog16]]></wp:post_name>
@@ -944,10 +976,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog8</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=123</link>
+		<title><![CDATA[blog8]]></title>
+		<link>https://newsup.themeansar.com/food/green-smoothie-for-detox-made-with-spinach-pineapple-apple/blog8/</link>
 		<pubDate>Fri, 28 Feb 2020 15:21:59 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog8-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -955,6 +987,8 @@
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:21:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:21:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:21:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:21:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog8]]></wp:post_name>
@@ -975,10 +1009,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog2</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=124</link>
+		<title><![CDATA[blog2]]></title>
+		<link>https://newsup.themeansar.com/food/how-to-make-smoothie-with-banana-peanut-butter/blog2/</link>
 		<pubDate>Fri, 28 Feb 2020 15:22:33 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/02/blog2-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -986,6 +1020,8 @@
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:22:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:22:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:22:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:22:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog2]]></wp:post_name>
@@ -1006,10 +1042,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog17</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=127</link>
+		<title><![CDATA[blog17]]></title>
+		<link>https://newsup.themeansar.com/food/smoothie-with-hocolate-raspberry-and-blackberry-lime/blog17/</link>
 		<pubDate>Fri, 28 Feb 2020 15:33:01 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/01/blog17-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1017,6 +1053,8 @@
 		<wp:post_id>127</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:33:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:33:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:33:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:33:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog17]]></wp:post_name>
@@ -1037,10 +1075,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog18</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=128</link>
+		<title><![CDATA[blog18]]></title>
+		<link>https://newsup.themeansar.com/food/curried-tomato-tortellini-soup-with-beurre-noisette-garlic-toast-2/blog18/</link>
 		<pubDate>Fri, 28 Feb 2020 15:33:51 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/02/blog18-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1048,6 +1086,8 @@
 		<wp:post_id>128</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 15:33:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 15:33:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 15:33:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 15:33:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog18]]></wp:post_name>
@@ -1068,10 +1108,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=178</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/178/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=178</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1079,6 +1119,8 @@
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[178]]></wp:post_name>
@@ -1123,10 +1165,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
-		<link>https://newsup.themeansar.com/food/?page_id=156</link>
+		<title><![CDATA[Contact]]></title>
+		<link>https://newsup.themeansar.com/food/contact/</link>
 		<pubDate>Sun, 01 Mar 2020 18:17:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/food/?page_id=156</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -1136,6 +1178,8 @@
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-01 18:17:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-01 18:17:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-01 18:17:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-01 18:17:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1151,10 +1195,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=179</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/179/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:44 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=179</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1162,6 +1206,8 @@
 		<wp:post_id>179</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[179]]></wp:post_name>
@@ -1206,10 +1252,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Recipe</title>
-		<link>https://newsup.themeansar.com/food/?p=180</link>
+		<title><![CDATA[Recipe]]></title>
+		<link>https://newsup.themeansar.com/food/recipe/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:44 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=180</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1217,6 +1263,8 @@
 		<wp:post_id>180</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recipe]]></wp:post_name>
@@ -1261,10 +1309,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Restaurant</title>
-		<link>https://newsup.themeansar.com/food/?p=181</link>
+		<title><![CDATA[Restaurant]]></title>
+		<link>https://newsup.themeansar.com/food/restaurant/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:44 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=181</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1272,6 +1320,8 @@
 		<wp:post_id>181</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[restaurant]]></wp:post_name>
@@ -1316,10 +1366,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=182</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/182/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:44 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=182</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1327,6 +1377,8 @@
 		<wp:post_id>182</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[182]]></wp:post_name>
@@ -1371,10 +1423,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=183</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/183/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:44 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=183</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1382,6 +1434,8 @@
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[183]]></wp:post_name>
@@ -1426,10 +1480,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>newsup-ads</title>
-		<link>https://newsup.themeansar.com/food/?attachment_id=184</link>
+		<title><![CDATA[newsup-ads]]></title>
+		<link>https://newsup.themeansar.com/food/newsup-ads/</link>
 		<pubDate>Mon, 02 Mar 2020 16:14:26 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/wp-content/uploads/2020/03/newsup-ads-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1437,6 +1491,8 @@
 		<wp:post_id>184</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-02 16:14:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-02 16:14:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-02 16:14:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-02 16:14:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsup-ads]]></wp:post_name>
@@ -1457,10 +1513,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Green leafs &amp; oregon blueberry And Amazing Things</title>
-		<link>https://newsup.themeansar.com/food/?p=22</link>
+		<title><![CDATA[Green leafs & oregon blueberry And Amazing Things]]></title>
+		<link>https://newsup.themeansar.com/food/green-leafs-oregon-blueberry-and-amazing-things/</link>
 		<pubDate>Sun, 12 Jan 2020 16:24:40 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -1470,6 +1526,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:24:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:24:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:24:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:24:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[green-leafs-oregon-blueberry-and-amazing-things]]></wp:post_name>
@@ -1498,10 +1556,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://newsup.themeansar.com/food/</link>
 		<pubDate>Fri, 28 Feb 2020 11:48:16 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/food/?page_id=84</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1509,6 +1567,8 @@
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 11:48:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 11:48:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-28 11:48:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-28 11:48:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1528,10 +1588,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=171</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/171/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=171</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1539,6 +1599,8 @@
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[171]]></wp:post_name>
@@ -1583,10 +1645,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=172</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/172/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=172</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1594,6 +1656,8 @@
 		<wp:post_id>172</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[172]]></wp:post_name>
@@ -1638,10 +1702,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=173</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/173/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=173</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1649,6 +1713,8 @@
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[173]]></wp:post_name>
@@ -1693,10 +1759,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=174</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/174/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=174</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1704,6 +1770,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[174]]></wp:post_name>
@@ -1748,10 +1816,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=175</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/175/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=175</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1759,6 +1827,8 @@
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[175]]></wp:post_name>
@@ -1803,10 +1873,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=176</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/176/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=176</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1814,6 +1884,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[176]]></wp:post_name>
@@ -1858,10 +1930,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=177</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/177/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=177</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1869,6 +1941,8 @@
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[177]]></wp:post_name>
@@ -1913,10 +1987,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>newsup-pro</title>
-		<link>https://newsup.themeansar.com/food/?p=150</link>
+		<title><![CDATA[newsup-pro]]></title>
+		<link>https://newsup.themeansar.com/food/newsup-pro/</link>
 		<pubDate>Sun, 01 Mar 2020 18:07:34 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/food/2020/03/01/newsup-pro/</guid>
 		<description></description>
 		<content:encoded><![CDATA[.mg-headwidget.center .heacent {
@@ -1931,6 +2005,8 @@
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-01 18:07:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-01 18:07:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-01 18:07:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-01 18:07:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsup-pro]]></wp:post_name>
@@ -1942,10 +2018,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>About</title>
-		<link>https://newsup.themeansar.com/food/?page_id=165</link>
+		<title><![CDATA[About]]></title>
+		<link>https://newsup.themeansar.com/food/about/</link>
 		<pubDate>Mon, 02 Mar 2020 15:35:42 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/food/?page_id=165</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1953,6 +2029,8 @@
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-02 15:35:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-02 15:35:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-02 15:35:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-02 15:35:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1968,10 +2046,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://newsup.themeansar.com/food/?p=185</link>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/food/185/</link>
 		<pubDate>Wed, 30 Sep 2020 06:27:46 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://newsup.themeansar.com/food/?p=185</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1979,6 +2057,8 @@
 		<wp:post_id>185</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-30 06:27:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-30 06:27:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-30 06:27:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-30 06:27:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[185]]></wp:post_name>
@@ -2023,10 +2103,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>leafs, tomato &amp; blossam tempura salad</title>
-		<link>https://newsup.themeansar.com/food/?p=24</link>
+		<title><![CDATA[leafs, tomato & blossam tempura salad]]></title>
+		<link>https://newsup.themeansar.com/food/leafs-tomato-blossam-tempura-salad/</link>
 		<pubDate>Sun, 12 Jan 2020 16:25:52 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2048,6 +2128,8 @@
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:25:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:25:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:25:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:25:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[leafs-tomato-blossam-tempura-salad]]></wp:post_name>
@@ -2076,10 +2158,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>we are able to create beautifull and amazing things</title>
-		<link>https://newsup.themeansar.com/food/?p=26</link>
+		<title><![CDATA[we are able to create beautifull and amazing things]]></title>
+		<link>https://newsup.themeansar.com/food/we-are-able-to-create-beautifull-and-amazing-things/</link>
 		<pubDate>Sun, 12 Jan 2020 16:26:54 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2101,6 +2183,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:26:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:26:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:26:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:26:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[we-are-able-to-create-beautifull-and-amazing-things]]></wp:post_name>
@@ -2121,10 +2205,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>have is days together meat fill for give you’re</title>
-		<link>https://newsup.themeansar.com/food/?p=28</link>
+		<title><![CDATA[have is days together meat fill for give you’re]]></title>
+		<link>https://newsup.themeansar.com/food/have-is-days-together-meat-fill-for-give-youre/</link>
 		<pubDate>Sun, 12 Jan 2020 16:27:55 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2134,6 +2218,8 @@
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:27:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:27:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[have-is-days-together-meat-fill-for-give-youre]]></wp:post_name>
@@ -2155,10 +2241,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>But who has any right to find</title>
-		<link>https://newsup.themeansar.com/food/?p=30</link>
+		<title><![CDATA[But who has any right to find]]></title>
+		<link>https://newsup.themeansar.com/food/but-who-has-any-right-to-find/</link>
 		<pubDate>Sun, 12 Jan 2020 16:28:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2168,6 +2254,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:28:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:28:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:28:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:28:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[but-who-has-any-right-to-find]]></wp:post_name>
@@ -2189,10 +2277,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Healthy Recipe with Secret Ingredient</title>
-		<link>https://newsup.themeansar.com/food/?p=32</link>
+		<title><![CDATA[Healthy Recipe with Secret Ingredient]]></title>
+		<link>https://newsup.themeansar.com/food/healthy-recipe-with-secret-ingredient/</link>
 		<pubDate>Sun, 12 Jan 2020 16:29:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2202,6 +2290,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:29:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:29:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:29:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:29:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[healthy-recipe-with-secret-ingredient]]></wp:post_name>
@@ -2230,10 +2320,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>French toast whistle bell-less frittata</title>
-		<link>https://newsup.themeansar.com/food/?p=34</link>
+		<title><![CDATA[French toast whistle bell-less frittata]]></title>
+		<link>https://newsup.themeansar.com/food/french-toast-whistle-bell-less-frittata/</link>
 		<pubDate>Sun, 12 Jan 2020 16:31:42 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2243,6 +2333,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:31:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:31:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:31:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:31:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[french-toast-whistle-bell-less-frittata]]></wp:post_name>
@@ -2267,10 +2359,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hot cocoa cookies with chocolate chips</title>
-		<link>https://newsup.themeansar.com/food/?p=36</link>
+		<title><![CDATA[Hot cocoa cookies with chocolate chips]]></title>
+		<link>https://newsup.themeansar.com/food/hot-cocoa-cookies-with-chocolate-chips/</link>
 		<pubDate>Sun, 12 Jan 2020 16:34:05 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=36</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2280,6 +2372,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:34:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:34:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:34:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hot-cocoa-cookies-with-chocolate-chips]]></wp:post_name>
@@ -2289,8 +2383,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="cookies"><![CDATA[Cookies]]></category>
-		<category domain="post_tag" nicename="cookies"><![CDATA[cookies]]></category>
+										<category domain="post_tag" nicename="cookies"><![CDATA[cookies]]></category>
+		<category domain="category" nicename="cookies"><![CDATA[Cookies]]></category>
 		<category domain="category" nicename="desserts"><![CDATA[Desserts]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -2306,10 +2400,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Slow Cooker Recipe with Lentil with tomato, Chili,Spices</title>
-		<link>https://newsup.themeansar.com/food/?p=38</link>
+		<title><![CDATA[Slow Cooker Recipe with Lentil with tomato, Chili,Spices]]></title>
+		<link>https://newsup.themeansar.com/food/slow-cooker-recipe-with-lentil-with-tomato-chilispices/</link>
 		<pubDate>Sun, 12 Jan 2020 16:34:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2319,6 +2413,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:34:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:34:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:34:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[slow-cooker-recipe-with-lentil-with-tomato-chilispices]]></wp:post_name>
@@ -2347,10 +2443,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Vegetarian Parmesan gnocchi Pesto Penne Recipe</title>
-		<link>https://newsup.themeansar.com/food/?p=40</link>
+		<title><![CDATA[Vegetarian Parmesan gnocchi Pesto Penne Recipe]]></title>
+		<link>https://newsup.themeansar.com/food/vegetarian-parmesan-gnocchi-pesto-penne-recipe/</link>
 		<pubDate>Sun, 12 Jan 2020 16:35:38 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=40</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2360,6 +2456,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:35:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:35:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:35:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:35:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[vegetarian-parmesan-gnocchi-pesto-penne-recipe]]></wp:post_name>
@@ -2389,10 +2487,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Smoothie with hocolate Raspberry and blackberry Lime</title>
-		<link>https://newsup.themeansar.com/food/?p=42</link>
+		<title><![CDATA[Smoothie with hocolate Raspberry and blackberry Lime]]></title>
+		<link>https://newsup.themeansar.com/food/smoothie-with-hocolate-raspberry-and-blackberry-lime/</link>
 		<pubDate>Sun, 12 Jan 2020 16:38:07 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=42</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2402,6 +2500,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:38:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:38:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[smoothie-with-hocolate-raspberry-and-blackberry-lime]]></wp:post_name>
@@ -2429,10 +2529,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Green smoothie for detox made with spinach, pineapple, apple</title>
-		<link>https://newsup.themeansar.com/food/?p=44</link>
+		<title><![CDATA[Green smoothie for detox made with spinach, pineapple, apple]]></title>
+		<link>https://newsup.themeansar.com/food/green-smoothie-for-detox-made-with-spinach-pineapple-apple/</link>
 		<pubDate>Sun, 12 Jan 2020 16:39:33 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2442,6 +2542,8 @@
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-12 16:39:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-12 16:39:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:39:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:39:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[green-smoothie-for-detox-made-with-spinach-pineapple-apple]]></wp:post_name>
@@ -2474,10 +2576,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to make smoothie with Banana Peanut Butter</title>
-		<link>https://newsup.themeansar.com/food/?p=72</link>
+		<title><![CDATA[How to make smoothie with Banana Peanut Butter]]></title>
+		<link>https://newsup.themeansar.com/food/how-to-make-smoothie-with-banana-peanut-butter/</link>
 		<pubDate>Tue, 18 Feb 2020 11:43:23 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=72</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2499,6 +2601,8 @@
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:43:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:43:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:43:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:43:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-make-smoothie-with-banana-peanut-butter]]></wp:post_name>
@@ -2535,10 +2639,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Chocolate with Gnocchi Bean  cupecakes</title>
-		<link>https://newsup.themeansar.com/food/?p=74</link>
+		<title><![CDATA[Chocolate with Gnocchi Bean  cupecakes]]></title>
+		<link>https://newsup.themeansar.com/food/chocolate-with-gnocchi-bean-cupecakes/</link>
 		<pubDate>Tue, 18 Feb 2020 11:51:28 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=74</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2548,6 +2652,8 @@
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:51:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:51:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:51:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:51:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[chocolate-with-gnocchi-bean-cupecakes]]></wp:post_name>
@@ -2587,10 +2693,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Curried Tomato Tortellini Soup with beurre noisette Garlic Toast.</title>
-		<link>https://newsup.themeansar.com/food/?p=76</link>
+		<title><![CDATA[Curried Tomato Tortellini Soup with beurre noisette Garlic Toast.]]></title>
+		<link>https://newsup.themeansar.com/food/curried-tomato-tortellini-soup-with-beurre-noisette-garlic-toast-2/</link>
 		<pubDate>Tue, 18 Feb 2020 11:53:24 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=76</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2600,6 +2706,8 @@
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:53:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:53:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:53:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:53:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[curried-tomato-tortellini-soup-with-beurre-noisette-garlic-toast-2]]></wp:post_name>
@@ -2636,10 +2744,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Butternut Squash Potato  with Noodle Soup</title>
-		<link>https://newsup.themeansar.com/food/?p=78</link>
+		<title><![CDATA[Butternut Squash Potato  with Noodle Soup]]></title>
+		<link>https://newsup.themeansar.com/food/butternut-squash-potato-with-noodle-soup/</link>
 		<pubDate>Tue, 18 Feb 2020 11:54:08 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=78</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2653,6 +2761,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:54:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:54:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:54:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:54:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[butternut-squash-potato-with-noodle-soup]]></wp:post_name>
@@ -2690,10 +2800,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Vegetarian soup with Cornbread tomato</title>
-		<link>https://newsup.themeansar.com/food/?p=80</link>
+		<title><![CDATA[Vegetarian soup with Cornbread tomato]]></title>
+		<link>https://newsup.themeansar.com/food/vegetarian-soup-with-cornbread-tomato/</link>
 		<pubDate>Tue, 18 Feb 2020 11:54:42 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup_food]]></dc:creator>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=80</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2703,6 +2813,8 @@
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-18 11:54:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-18 11:54:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-18 11:54:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-18 11:54:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[vegetarian-soup-with-cornbread-tomato]]></wp:post_name>
@@ -2712,8 +2824,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="soup"><![CDATA[Soup]]></category>
-		<category domain="post_tag" nicename="soup"><![CDATA[soup]]></category>
+										<category domain="post_tag" nicename="soup"><![CDATA[soup]]></category>
+		<category domain="category" nicename="soup"><![CDATA[Soup]]></category>
 		<category domain="post_tag" nicename="veg"><![CDATA[veg]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>

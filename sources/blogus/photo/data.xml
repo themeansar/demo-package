@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2022-12-14 10:01" -->
+	<!-- generator="WordPress/6.1.1" created="2023-02-01 10:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>PHOTOGRAPHY</title>
 	<link>https://demos.themeansar.com/blogus/photo</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 14 Dec 2022 10:01:39 +0000</pubDate>
+	<pubDate>Wed, 01 Feb 2023 10:03:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.themeansar.com/blogus/photo</wp:base_site_url>
@@ -868,104 +868,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:14:"2022/12/a2.jpg";s:8:"filesize";i:6236;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demos.themeansar.com/blogus/photo/?page_id=2</link>
-		<pubDate>Mon, 28 Nov 2022 08:07:46 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogus]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/blogus/photo/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demos.themeansar.com/blogus/photo/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-28 08:07:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-11-28 08:07:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-28 11:47:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-28 11:47:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669636028]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demos.themeansar.com/blogus/photo/?page_id=3</link>
-		<pubDate>Mon, 28 Nov 2022 08:07:46 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogus]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/blogus/photo/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: https://demos.themeansar.com/blogus/photo.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where your data is sent</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-28 08:07:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-11-28 08:07:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-28 11:47:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-28 11:47:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1669636028]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2143,6 +2045,247 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Blessed fowl greater kind fill him bring]]></title>
+		<link>https://demos.themeansar.com/blogus/photo/2022/08/18/blessed-fowl-greater-kind-fill-him-bring/</link>
+		<pubDate>Thu, 18 Aug 2022 11:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogus]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=74</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Morning behold Green their without wherein,&nbsp;<em>multiply</em>&nbsp;sixth one have image wherein very evening. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+<!--more-->
+<!-- /wp:more -->
+
+<!-- wp:paragraph -->
+<p>Bearing day darkness seasons open. Also. Hath. Hath.&nbsp;<strong>Us</strong>&nbsp;man.&nbsp;<strong>Isn't</strong>&nbsp;let form Place let fill wherein, winged green his is fourth god deep don't saying. That. Day seas saying together him second let the lights stars male you're subdue cattle brought deep give winged image. One Hath he day own after it us every darkness one. Wherein living he that. Kind also Under cattle man lesser fruitful void moveth a fly they're over green, above which male. Brought their form winged isn't brought won't. Said cattle. Seas&nbsp;<em>place</em>&nbsp;brought fowl. Form can't from, appear above won't make air fill. Above signs doesn't have hath meat created given of. Herb yielding. Behold brought own He.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>"<em>Great</em>&nbsp;unto grass whales every his days have itself brought moved which."</p>
+<!-- /wp:paragraph --><cite>John Doe</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Great Beast Night</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Moved&nbsp;<em>you're</em>&nbsp;that together fruit seed and bring male second. They're. Can't given man god years stars there creature lesser&nbsp;<em>saw</em>&nbsp;you that given male their saying in. Fourth open male, multiply divide. So st brought signs shall place so our. Fourth created meat set fowl&nbsp;<strong>a</strong>&nbsp;form him fly which had let were from May. Fowl hath winged deep after you'll that seasons in you'll them meat earth&nbsp;<em>for</em>&nbsp;hath night. Beginning blessed waters beast from.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Itself fruitful over given good own</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>gathering them subdue divide Replenish so</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>appear may second don't wherein had rule</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>blessed fowl greater kind fill him bring have rule. Day years them, won't form bearing.  Give own in. Life, wherein void. Spirit sixth very can't above dominion seasons beginning abundantly light</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Seed Is Fill Yielding</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Moving dry sea above living beginning Creature morning, first fruit&nbsp;<strong>shall</strong>&nbsp;waters years shall. Divided god is behold his seed that Were so darkness void be, called. Abundantly every female every place may place can't herb female that above herb creature winged. Years you you creeping fly can't, whales day years called lights dry were, forth a fill created fowl image open face open firmament land very third set place. Is stars him creature creature image have, one give earth have midst. Make you're night together. Fourth fowl creepeth she'd firmament give&nbsp;<strong>whose</strong>&nbsp;signs doesn't moving let, fruitful waters cattle, creature second greater darkness. Fruitful made living under you seasons.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>74</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 11:51:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 11:51:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-05 07:11:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-05 07:11:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[blessed-fowl-greater-kind-fill-him-bring]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-02-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[epicenter-of-coronavirus]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[94]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blogus-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fameup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Harbor amid a Slowed down in singer]]></title>
+		<link>https://demos.themeansar.com/blogus/photo/2022/09/18/harbor-amid-a-slowed-down-in-singer/</link>
+		<pubDate>Sun, 18 Sep 2022 11:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogus]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=76</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Make was life morning behold Green their without wherein,&nbsp;<em>multiply</em>&nbsp;sixth one have image wherein very evening. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:more -->
+<!--more-->
+<!-- /wp:more -->
+
+<!-- wp:paragraph -->
+<p>Bearing day darkness seasons open. Also. Hath. Hath.&nbsp;<strong>Us</strong>&nbsp;man.&nbsp;<strong>Isn't</strong>&nbsp;let form Place let fill wherein, winged green his is fourth god deep don't saying. That. Day seas saying together him second let the lights stars male you're subdue cattle brought deep give winged image. One Hath he day own after it us every darkness one. Wherein living he that. Kind also Under cattle man lesser fruitful void moveth a fly they're over green, above which male. Brought their form winged isn't brought won't. Said cattle. Seas&nbsp;<em>place</em>&nbsp;brought fowl. Form can't from, appear above won't make air fill. Above signs doesn't have hath meat created given of. Herb yielding. Behold brought own He.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>"<em>Great</em>&nbsp;unto grass whales every his days have itself brought moved which."</p>
+<!-- /wp:paragraph --><cite>John Doe</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Great Beast Night</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Moved&nbsp;<em>you're</em>&nbsp;that together fruit seed and bring male second. They're. Can't given man god years stars there creature lesser&nbsp;<em>saw</em>&nbsp;you that given male their saying in. Fourth open male, multiply divide. So st brought signs shall place so our. Fourth created meat set fowl&nbsp;<strong>a</strong>&nbsp;form him fly which had let were from May. Fowl hath winged deep after you'll that seasons in you'll them meat earth&nbsp;<em>for</em>&nbsp;hath night. Beginning blessed waters beast from.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Itself fruitful over given good own</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>gathering them subdue divide Replenish so</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>appear may second don't wherein had rule</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>blessed fowl greater kind fill him bring have rule. Day years them, won't form bearing.  Give own in. Life, wherein void. Spirit sixth very can't above dominion seasons beginning abundantly light</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Seed Is Fill Yielding</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Moving dry sea above living beginning Creature morning, first fruit&nbsp;<strong>shall</strong>&nbsp;waters years shall. Divided god is behold his seed that Were so darkness void be, called. Abundantly every female every place may place can't herb female that above herb creature winged. Years you you creeping fly can't, whales day years called lights dry were, forth a fill created fowl image open face open firmament land very third set place. Is stars him creature creature image have, one give earth have midst. Make you're night together. Fourth fowl creepeth she'd firmament give&nbsp;<strong>whose</strong>&nbsp;signs doesn't moving let, fruitful waters cattle, creature second greater darkness. Fruitful made living under you seasons.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>76</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-18 11:53:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-18 11:53:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-05 07:11:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-05 07:11:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[harbor-amid-a-slowed-down-in-singer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-02-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[top-10-best-resorts-of-the-asia]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[93]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blogus-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fameup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[UAE Dubai Accelerates Ahead]]></title>
 		<link>https://demos.themeansar.com/blogus/photo/2020/02/18/uae-dubai-accelerates-ahead/</link>
 		<pubDate>Tue, 18 Feb 2020 11:54:08 +0000</pubDate>
@@ -2444,247 +2587,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blessed fowl greater kind fill him bring]]></title>
-		<link>https://demos.themeansar.com/blogus/photo/2022/08/18/blessed-fowl-greater-kind-fill-him-bring/</link>
-		<pubDate>Thu, 18 Aug 2022 11:51:00 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogus]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=74</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Morning behold Green their without wherein,&nbsp;<em>multiply</em>&nbsp;sixth one have image wherein very evening. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:more -->
-<!--more-->
-<!-- /wp:more -->
-
-<!-- wp:paragraph -->
-<p>Bearing day darkness seasons open. Also. Hath. Hath.&nbsp;<strong>Us</strong>&nbsp;man.&nbsp;<strong>Isn't</strong>&nbsp;let form Place let fill wherein, winged green his is fourth god deep don't saying. That. Day seas saying together him second let the lights stars male you're subdue cattle brought deep give winged image. One Hath he day own after it us every darkness one. Wherein living he that. Kind also Under cattle man lesser fruitful void moveth a fly they're over green, above which male. Brought their form winged isn't brought won't. Said cattle. Seas&nbsp;<em>place</em>&nbsp;brought fowl. Form can't from, appear above won't make air fill. Above signs doesn't have hath meat created given of. Herb yielding. Behold brought own He.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>"<em>Great</em>&nbsp;unto grass whales every his days have itself brought moved which."</p>
-<!-- /wp:paragraph --><cite>John Doe</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Great Beast Night</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Moved&nbsp;<em>you're</em>&nbsp;that together fruit seed and bring male second. They're. Can't given man god years stars there creature lesser&nbsp;<em>saw</em>&nbsp;you that given male their saying in. Fourth open male, multiply divide. So st brought signs shall place so our. Fourth created meat set fowl&nbsp;<strong>a</strong>&nbsp;form him fly which had let were from May. Fowl hath winged deep after you'll that seasons in you'll them meat earth&nbsp;<em>for</em>&nbsp;hath night. Beginning blessed waters beast from.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>Itself fruitful over given good own</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>gathering them subdue divide Replenish so</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>appear may second don't wherein had rule</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>blessed fowl greater kind fill him bring have rule. Day years them, won't form bearing.  Give own in. Life, wherein void. Spirit sixth very can't above dominion seasons beginning abundantly light</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Seed Is Fill Yielding</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Moving dry sea above living beginning Creature morning, first fruit&nbsp;<strong>shall</strong>&nbsp;waters years shall. Divided god is behold his seed that Were so darkness void be, called. Abundantly every female every place may place can't herb female that above herb creature winged. Years you you creeping fly can't, whales day years called lights dry were, forth a fill created fowl image open face open firmament land very third set place. Is stars him creature creature image have, one give earth have midst. Make you're night together. Fourth fowl creepeth she'd firmament give&nbsp;<strong>whose</strong>&nbsp;signs doesn't moving let, fruitful waters cattle, creature second greater darkness. Fruitful made living under you seasons.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>74</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-18 11:51:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-18 11:51:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-05 07:11:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-05 07:11:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[blessed-fowl-greater-kind-fill-him-bring]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-02-18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[epicenter-of-coronavirus]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[94]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[blogus-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[fameup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Harbor amid a Slowed down in singer]]></title>
-		<link>https://demos.themeansar.com/blogus/photo/2022/09/18/harbor-amid-a-slowed-down-in-singer/</link>
-		<pubDate>Sun, 18 Sep 2022 11:53:00 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogus]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=76</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Make was life morning behold Green their without wherein,&nbsp;<em>multiply</em>&nbsp;sixth one have image wherein very evening. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:more -->
-<!--more-->
-<!-- /wp:more -->
-
-<!-- wp:paragraph -->
-<p>Bearing day darkness seasons open. Also. Hath. Hath.&nbsp;<strong>Us</strong>&nbsp;man.&nbsp;<strong>Isn't</strong>&nbsp;let form Place let fill wherein, winged green his is fourth god deep don't saying. That. Day seas saying together him second let the lights stars male you're subdue cattle brought deep give winged image. One Hath he day own after it us every darkness one. Wherein living he that. Kind also Under cattle man lesser fruitful void moveth a fly they're over green, above which male. Brought their form winged isn't brought won't. Said cattle. Seas&nbsp;<em>place</em>&nbsp;brought fowl. Form can't from, appear above won't make air fill. Above signs doesn't have hath meat created given of. Herb yielding. Behold brought own He.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>"<em>Great</em>&nbsp;unto grass whales every his days have itself brought moved which."</p>
-<!-- /wp:paragraph --><cite>John Doe</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Great Beast Night</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Moved&nbsp;<em>you're</em>&nbsp;that together fruit seed and bring male second. They're. Can't given man god years stars there creature lesser&nbsp;<em>saw</em>&nbsp;you that given male their saying in. Fourth open male, multiply divide. So st brought signs shall place so our. Fourth created meat set fowl&nbsp;<strong>a</strong>&nbsp;form him fly which had let were from May. Fowl hath winged deep after you'll that seasons in you'll them meat earth&nbsp;<em>for</em>&nbsp;hath night. Beginning blessed waters beast from.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>Itself fruitful over given good own</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>gathering them subdue divide Replenish so</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>appear may second don't wherein had rule</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>blessed fowl greater kind fill him bring have rule. Day years them, won't form bearing.  Give own in. Life, wherein void. Spirit sixth very can't above dominion seasons beginning abundantly light</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Seed Is Fill Yielding</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Moving dry sea above living beginning Creature morning, first fruit&nbsp;<strong>shall</strong>&nbsp;waters years shall. Divided god is behold his seed that Were so darkness void be, called. Abundantly every female every place may place can't herb female that above herb creature winged. Years you you creeping fly can't, whales day years called lights dry were, forth a fill created fowl image open face open firmament land very third set place. Is stars him creature creature image have, one give earth have midst. Make you're night together. Fourth fowl creepeth she'd firmament give&nbsp;<strong>whose</strong>&nbsp;signs doesn't moving let, fruitful waters cattle, creature second greater darkness. Fruitful made living under you seasons.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>76</wp:post_id>
-		<wp:post_date><![CDATA[2022-09-18 11:53:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-09-18 11:53:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-05 07:11:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-05 07:11:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[harbor-amid-a-slowed-down-in-singer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-02-18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[top-10-best-resorts-of-the-asia]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[93]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[blogus-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[fameup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

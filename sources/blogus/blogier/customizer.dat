@@ -1,0 +1,3 @@
+a:4:{s:8:"template";s:6:"blogus";s:4:"mods";a:7:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:18;}s:18:"custom_css_post_id";i:266;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1705578939;s:4:"data";a:3:{s:19:"wp_inactive_widgets";a:1:{i:0;s:7:"block-3";}s:9:"sidebar-1";a:4:{i:0;s:22:"blogus-author-widget-2";i:1;s:22:"featured_post_widget-2";i:5;s:7:"block-5";i:6;s:7:"block-8";}s:18:"footer_widget_area";a:3:{i:0;s:7:"block-6";i:1;s:29:"blogus_featured_latest_news-2";i:2;s:7:"block-7";}}}s:11:"custom_logo";i:264;s:16:"header_textcolor";s:5:"blank";s:24:"blogus_footer_logo_width";s:3:"190";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:63:"footer .site-branding-text .site-title-footer{
+	display:none;
+}";}

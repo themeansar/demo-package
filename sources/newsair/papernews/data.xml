@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5" created="2024-04-05 06:33" -->
+	<!-- generator="WordPress/6.5.2" created="2024-05-04 12:46" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Paper News</title>
 	<link>https://demos.themeansar.com/newsair/papernews</link>
 	<description></description>
-	<pubDate>Fri, 05 Apr 2024 06:33:08 +0000</pubDate>
+	<pubDate>Sat, 04 May 2024 12:46:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.themeansar.com/newsair/papernews</wp:base_site_url>
@@ -294,7 +294,7 @@
 			<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 		<item>
 		<title><![CDATA[blog1]]></title>
@@ -1642,10 +1642,10 @@
 		<content:encoded><![CDATA[Featured]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>241</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-07 12:01:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-04 12:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-07 12:01:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 12:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 12:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[241]]></wp:post_name>
@@ -1687,6 +1687,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-12-07]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1735,10 +1739,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>242</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-07 12:01:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-04 12:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-07 12:01:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 12:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 12:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[242]]></wp:post_name>
@@ -1781,6 +1785,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-12-07]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1792,10 +1800,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>243</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-07 12:01:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-04 12:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-07 12:01:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 12:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 12:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[243]]></wp:post_name>
@@ -1838,6 +1846,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-12-07]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1849,10 +1861,10 @@
 		<content:encoded><![CDATA[This Week]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>244</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-07 12:01:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-04 12:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-07 12:01:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 12:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 12:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[244]]></wp:post_name>
@@ -1895,6 +1907,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-12-07]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1906,10 +1922,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>245</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-07 12:01:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-04 12:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-07 12:01:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 12:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 12:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[245]]></wp:post_name>
@@ -1921,6 +1937,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-12-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
@@ -1963,10 +1983,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>246</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-07 12:01:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-04 12:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-07 12:01:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 12:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 12:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[246]]></wp:post_name>
@@ -1978,6 +1998,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-12-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
@@ -2020,10 +2044,10 @@
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>247</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-07 12:01:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-04 12:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-07 12:01:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 12:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 12:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[247]]></wp:post_name>
@@ -2035,6 +2059,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-12-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
@@ -2077,10 +2105,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>248</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-07 12:01:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-04 12:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-07 12:01:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 12:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 12:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[248]]></wp:post_name>
@@ -2123,6 +2151,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-12-07]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2134,10 +2166,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>249</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-07 12:01:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-04 12:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-07 12:01:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-07 12:01:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 12:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 12:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[249]]></wp:post_name>
@@ -2179,6 +2211,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-12-07]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2704,8 +2740,8 @@
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="sport"><![CDATA[sport]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
-		<category domain="category" nicename="world"><![CDATA[World]]></category>
 		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
+		<category domain="category" nicename="world"><![CDATA[World]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[206]]></wp:meta_value>

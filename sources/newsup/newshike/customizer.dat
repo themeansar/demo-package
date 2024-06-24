@@ -1,0 +1,8 @@
+a:4:{s:8:"template";s:6:"newsup";s:4:"mods";a:23:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:7:"primary";i:26;s:6:"footer";i:26;}s:18:"custom_css_post_id";i:232;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1717501615;s:4:"data";a:5:{s:19:"wp_inactive_widgets";a:4:{i:0;s:7:"block-3";i:1;s:7:"block-4";i:2;s:7:"block-5";i:3;s:7:"block-6";}s:9:"sidebar-1";a:4:{i:0;s:7:"block-2";i:1;s:21:"newsup_posts_slider-1";i:2;s:7:"block-7";i:3;s:7:"block-8";}s:18:"footer_widget_area";a:3:{i:0;s:7:"block-9";i:1;s:8:"block-10";i:2;s:8:"block-11";}s:18:"front-page-content";a:0:{}s:18:"front-page-sidebar";a:0:{}}}s:11:"custom_logo";i:210;s:16:"header_textcolor";s:5:"blank";s:22:"newsup_open_on_new_tab";b:1;s:22:"newsup_title_font_size";i:46;s:21:"newsup_header_fb_link";s:1:"#";s:22:"newsup_header_twt_link";s:1:"#";s:23:"newsup_header_lnkd_link";s:1:"#";s:24:"newsup_header_insta_link";s:1:"#";s:26:"newsup_header_youtube_link";s:1:"#";s:27:"newsup_header_pintrest_link";s:1:"#";s:23:"newsup_header_tele_link";s:1:"#";s:28:"banner_advertisement_section";i:214;s:21:"newsup_footer_fb_link";s:1:"#";s:22:"newsup_footer_twt_link";s:1:"#";s:23:"newsup_footer_lnkd_link";s:1:"#";s:24:"newsup_footer_insta_link";s:1:"#";s:26:"newsup_footer_youtube_link";s:1:"#";s:28:"newsup_footer_pinterest_link";s:1:"#";s:23:"newsup_footer_tele_link";s:1:"#";}s:7:"options";a:2:{s:9:"site_icon";s:3:"212";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:289:"footer .mg-footer-bottom-area .navbar-brand {
+    background-image: url('https://newsup.themeansar.com/newshike/wp-content/uploads/2024/06/main-logo-white.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+footer .mg-footer-bottom-area .navbar-brand img{
+	width: 0;
+}";}

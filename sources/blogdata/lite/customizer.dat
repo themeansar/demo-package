@@ -1,0 +1,6 @@
+a:4:{s:8:"template";s:8:"blogdata";s:4:"mods";a:9:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:8;}s:18:"custom_css_post_id";i:138;s:29:"select_trending_news_category";i:6;s:16:"header_textcolor";s:5:"blank";s:20:"side_main_logo_width";s:47:"{"desktop":"210","tablet":"200","mobile":"150"}";s:11:"custom_logo";i:135;s:16:"blog_post_layout";s:11:"grid-layout";s:15:"banner_ad_image";i:150;}s:7:"options";a:2:{s:9:"site_icon";s:3:"136";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:113:"footer.one .bs-footer-bottom-area .site-branding-text{
+	display:none;
+}
+.bs-menu-full .inner{
+	padding: 10px 0;
+}";}

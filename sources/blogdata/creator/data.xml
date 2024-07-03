@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.5" created="2024-06-26 08:33" -->
+	<!-- generator="WordPress/6.5.5" created="2024-07-03 07:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,14 +26,14 @@
 >
 
 <channel>
-	<title>Logo Creator</title>
-	<link>https://demos.themeansar.com/blogdata/four</link>
+	<title>Creator</title>
+	<link>https://demos.themeansar.com/blogdata/creator</link>
 	<description></description>
-	<pubDate>Wed, 26 Jun 2024 08:33:24 +0000</pubDate>
+	<pubDate>Wed, 03 Jul 2024 07:02:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demos.themeansar.com/blogdata/four</wp:base_site_url>
-	<wp:base_blog_url>https://demos.themeansar.com/blogdata/four</wp:base_blog_url>
+	<wp:base_site_url>https://demos.themeansar.com/blogdata/creator</wp:base_site_url>
+	<wp:base_blog_url>https://demos.themeansar.com/blogdata/creator</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[pro_blogdata]]></wp:author_login><wp:author_email><![CDATA[support@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[Ansar]]></wp:author_display_name><wp:author_first_name><![CDATA[Ansar]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -45,9 +45,9 @@
 	</wp:category>
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
-		<wp:category_nicename><![CDATA[logo-creation]]></wp:category_nicename>
+		<wp:category_nicename><![CDATA[logo]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Logo creation]]></wp:cat_name>
+		<wp:cat_name><![CDATA[Logo]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>7</wp:term_id>
@@ -463,9 +463,9 @@
 		<wp:term>
 		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[logo-creation]]></wp:term_slug>
+		<wp:term_slug><![CDATA[logo]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Logo creation]]></wp:term_name>
+		<wp:term_name><![CDATA[Logo]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>7</wp:term_id>
@@ -642,7 +642,7 @@
 
 		<item>
 		<title><![CDATA[1]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/define-the-brands-mission-values-and-target-audience/attachment/1/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/define-the-brands-mission-values-and-target-audience/attachment/1/</link>
 		<pubDate>Wed, 15 May 2024 11:11:16 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/1.jpg</guid>
@@ -663,7 +663,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/1.jpg]]></wp:meta_value>
@@ -675,7 +675,7 @@
 							</item>
 					<item>
 		<title><![CDATA[2]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/attachment/2/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/attachment/2/</link>
 		<pubDate>Wed, 15 May 2024 13:55:28 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/2.webp</guid>
@@ -696,7 +696,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/2.webp]]></wp:meta_value>
@@ -708,7 +708,7 @@
 							</item>
 					<item>
 		<title><![CDATA[4]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/develop-a-list-of-keywords-and-concepts-related-to-the-brand/attachment/4/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/develop-a-list-of-keywords-and-concepts-related-to-the-brand/attachment/4/</link>
 		<pubDate>Wed, 15 May 2024 13:57:51 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/4.webp</guid>
@@ -729,7 +729,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/4.webp]]></wp:meta_value>
@@ -741,7 +741,7 @@
 							</item>
 					<item>
 		<title><![CDATA[3]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/deliver-the-final-design-files-to-stakeholders-or-clients/attachment/3/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/deliver-the-final-design-files-to-stakeholders-or-clients/attachment/3/</link>
 		<pubDate>Wed, 15 May 2024 13:58:15 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/3.webp</guid>
@@ -762,7 +762,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/3.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/3.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/3.webp]]></wp:meta_value>
@@ -774,7 +774,7 @@
 							</item>
 					<item>
 		<title><![CDATA[1]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/provide-guidelines-for-using-the-logo-effectively/1-2/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/provide-guidelines-for-using-the-logo-effectively/1-2/</link>
 		<pubDate>Wed, 15 May 2024 13:58:43 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/1.webp</guid>
@@ -795,7 +795,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/1.webp]]></wp:meta_value>
@@ -807,7 +807,7 @@
 							</item>
 					<item>
 		<title><![CDATA[5]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/color-palette-selection-contrast-and-harmony/attachment/5/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/color-palette-selection-contrast-and-harmony/attachment/5/</link>
 		<pubDate>Thu, 16 May 2024 05:54:13 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/5.webp</guid>
@@ -828,7 +828,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/5.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/5.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/5.webp]]></wp:meta_value>
@@ -840,7 +840,7 @@
 							</item>
 					<item>
 		<title><![CDATA[8]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/attachment/8/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/attachment/8/</link>
 		<pubDate>Thu, 16 May 2024 05:55:41 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/8.webp</guid>
@@ -861,7 +861,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/8.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/8.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/8.webp]]></wp:meta_value>
@@ -873,7 +873,7 @@
 							</item>
 					<item>
 		<title><![CDATA[11]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/attachment/11/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/attachment/11/</link>
 		<pubDate>Thu, 16 May 2024 06:01:12 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/11.webp</guid>
@@ -894,7 +894,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/11.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/11.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/11.webp]]></wp:meta_value>
@@ -906,7 +906,7 @@
 							</item>
 					<item>
 		<title><![CDATA[10]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/brainstorm-different-concepts-and-variations/attachment/10/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/brainstorm-different-concepts-and-variations/attachment/10/</link>
 		<pubDate>Thu, 16 May 2024 06:02:34 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/10.webp</guid>
@@ -927,7 +927,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/10.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/10.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/10.webp]]></wp:meta_value>
@@ -939,7 +939,7 @@
 							</item>
 					<item>
 		<title><![CDATA[6]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/identify-the-key-message-and-personality-of-the-brand/attachment/6/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/identify-the-key-message-and-personality-of-the-brand/attachment/6/</link>
 		<pubDate>Thu, 16 May 2024 06:06:26 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/6.webp</guid>
@@ -960,7 +960,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/6.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/6.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/6.webp]]></wp:meta_value>
@@ -972,7 +972,7 @@
 							</item>
 					<item>
 		<title><![CDATA[7]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/create-high-resolution-files-for-various-applications/attachment/7/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/create-high-resolution-files-for-various-applications/attachment/7/</link>
 		<pubDate>Thu, 16 May 2024 06:08:35 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/7.webp</guid>
@@ -993,7 +993,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/7.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/7.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/7.webp]]></wp:meta_value>
@@ -1005,7 +1005,7 @@
 							</item>
 					<item>
 		<title><![CDATA[9]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/9/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/9/</link>
 		<pubDate>Thu, 16 May 2024 06:11:16 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/9.webp</guid>
@@ -1026,7 +1026,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/9.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/9.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/9.webp]]></wp:meta_value>
@@ -1038,7 +1038,7 @@
 							</item>
 					<item>
 		<title><![CDATA[13]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/13/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/13/</link>
 		<pubDate>Thu, 16 May 2024 06:54:09 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/13.webp</guid>
@@ -1059,7 +1059,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/13.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/13.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/13.webp]]></wp:meta_value>
@@ -1071,7 +1071,7 @@
 							</item>
 					<item>
 		<title><![CDATA[15]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/typography-font-choice-size-and-spacing/attachment/15/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/typography-font-choice-size-and-spacing/attachment/15/</link>
 		<pubDate>Thu, 16 May 2024 06:55:20 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/15.webp</guid>
@@ -1092,7 +1092,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/15.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/15.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/15.webp]]></wp:meta_value>
@@ -1104,7 +1104,7 @@
 							</item>
 					<item>
 		<title><![CDATA[12]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/select-the-most-promising-ideas-and-refine-them/attachment/12/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/select-the-most-promising-ideas-and-refine-them/attachment/12/</link>
 		<pubDate>Thu, 16 May 2024 06:56:39 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/12.webp</guid>
@@ -1125,7 +1125,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/12.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/12.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/12.webp]]></wp:meta_value>
@@ -1137,7 +1137,7 @@
 							</item>
 					<item>
 		<title><![CDATA[16]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/create-rough-sketches-of-ideas-based-on-the-research-and-planning/attachment/16/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/create-rough-sketches-of-ideas-based-on-the-research-and-planning/attachment/16/</link>
 		<pubDate>Thu, 16 May 2024 06:57:23 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/16.webp</guid>
@@ -1158,7 +1158,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/16.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/16.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/16.webp]]></wp:meta_value>
@@ -1170,7 +1170,7 @@
 							</item>
 					<item>
 		<title><![CDATA[14]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/define-the-brands-mission-values-and-target-audience/attachment/14/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/define-the-brands-mission-values-and-target-audience/attachment/14/</link>
 		<pubDate>Thu, 16 May 2024 06:58:20 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/05/14.webp</guid>
@@ -1191,7 +1191,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/05/14.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/05/14.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/14.webp]]></wp:meta_value>
@@ -1202,107 +1202,111 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[BlogData]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/blogdata/</link>
-		<pubDate>Thu, 13 Jun 2024 07:30:56 +0000</pubDate>
+		<title><![CDATA[cropped-banners.jpg]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/?attachment_id=141</link>
+		<pubDate>Fri, 14 Jun 2024 07:31:21 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/06/BlogData.png</guid>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/06/cropped-banners.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/06/cropped-banners.jpg]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>133</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-13 07:30:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-13 07:30:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-13 07:30:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-13 07:30:56]]></wp:post_modified_gmt>
+		<wp:post_id>141</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-14 07:31:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-14 07:31:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-14 07:31:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-14 07:31:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blogdata]]></wp:post_name>
+		<wp:post_name><![CDATA[cropped-banners-jpg]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>140</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/06/BlogData.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/06/cropped-banners.jpg]]></wp:attachment_url>
 											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:269;s:6:"height";i:51;s:4:"file";s:20:"2024/06/BlogData.png";s:8:"filesize";i:7980;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:19:"BlogData-150x51.png";s:5:"width";i:150;s:6:"height";i:51;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3362;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/06/cropped-banners.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/BlogData.png]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[banner-ad-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1001;s:6:"height";i:107;s:4:"file";s:27:"2024/06/cropped-banners.jpg";s:8:"filesize";i:11461;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"cropped-banners-300x32.jpg";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2561;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"cropped-banners-150x107.jpg";s:5:"width";i:150;s:6:"height";i:107;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1243;}s:12:"medium_large";a:5:{s:4:"file";s:26:"cropped-banners-768x82.jpg";s:5:"width";i:768;s:6:"height";i:82;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8009;}s:15:"blogdata-medium";a:5:{s:4:"file";s:27:"cropped-banners-720x107.jpg";s:5:"width";i:720;s:6:"height";i:107;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7657;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[main-bd-logo]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/main-bd-logo/</link>
-		<pubDate>Thu, 13 Jun 2024 07:31:15 +0000</pubDate>
+		<title><![CDATA[blog-creator]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/blog-creator/</link>
+		<pubDate>Sat, 29 Jun 2024 13:30:35 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/06/main-bd-logo.png</guid>
+		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/06/blog-creator.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>134</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-13 07:31:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-13 07:31:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-13 07:31:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-13 07:31:15]]></wp:post_modified_gmt>
+		<wp:post_id>188</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-29 13:30:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-29 13:30:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:30:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:30:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[main-bd-logo]]></wp:post_name>
+		<wp:post_name><![CDATA[blog-creator]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/06/main-bd-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/06/blog-creator.png]]></wp:attachment_url>
 											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/main-bd-logo.png]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:205;s:6:"height";i:50;s:4:"file";s:24:"2024/06/blog-creator.png";s:8:"filesize";i:4740;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:23:"blog-creator-150x50.png";s:5:"width";i:150;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3073;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:269;s:6:"height";i:51;s:4:"file";s:24:"2024/06/main-bd-logo.png";s:8:"filesize";i:7808;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:23:"main-bd-logo-150x51.png";s:5:"width";i:150;s:6:"height";i:51;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3226;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/06/blog-creator.png]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[banners]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/banners/</link>
-		<pubDate>Fri, 14 Jun 2024 07:30:58 +0000</pubDate>
+		<title><![CDATA[blog-creator2]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/blog-creator2/</link>
+		<pubDate>Sat, 29 Jun 2024 13:38:33 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/06/banners.jpg</guid>
+		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/06/blog-creator2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>140</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-14 07:30:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-14 07:30:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-14 07:30:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-14 07:30:58]]></wp:post_modified_gmt>
+		<wp:post_id>191</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-29 13:38:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-29 13:38:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:38:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:38:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banners]]></wp:post_name>
+		<wp:post_name><![CDATA[blog-creator2]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/06/banners.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/creator/wp-content/uploads/2024/06/blog-creator2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/banners.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/06/blog-creator2.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1001;s:6:"height";i:150;s:4:"file";s:19:"2024/06/banners.jpg";s:8:"filesize";i:50480;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"banners-300x45.jpg";s:5:"width";i:300;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2643;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"banners-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1336;}s:12:"medium_large";a:5:{s:4:"file";s:19:"banners-768x115.jpg";s:5:"width";i:768;s:6:"height";i:115;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8651;}s:15:"blogdata-medium";a:5:{s:4:"file";s:19:"banners-720x150.jpg";s:5:"width";i:720;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8184;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:205;s:6:"height";i:50;s:4:"file";s:25:"2024/06/blog-creator2.png";s:8:"filesize";i:4582;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:24:"blog-creator2-150x50.png";s:5:"width";i:150;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2930;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Define the Brand's Mission, Values, and Target audience]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/define-the-brands-mission-values-and-target-audience/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/define-the-brands-mission-values-and-target-audience/</link>
 		<pubDate>Wed, 15 May 2024 11:12:31 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=11</guid>
@@ -1382,7 +1386,7 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="brands"><![CDATA[Brand's]]></category>
-		<category domain="category" nicename="logo-creation"><![CDATA[Logo creation]]></category>
+		<category domain="category" nicename="logo"><![CDATA[Logo]]></category>
 		<category domain="category" nicename="members"><![CDATA[Members]]></category>
 		<category domain="post_tag" nicename="mission"><![CDATA[Mission]]></category>
 		<category domain="post_tag" nicename="target"><![CDATA[Target]]></category>
@@ -1405,7 +1409,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Create rough sketches of ideas based on the research and planning]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/create-rough-sketches-of-ideas-based-on-the-research-and-planning/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/create-rough-sketches-of-ideas-based-on-the-research-and-planning/</link>
 		<pubDate>Wed, 15 May 2024 11:15:14 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=12</guid>
@@ -1507,7 +1511,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Select the most promising ideas and refine them]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/select-the-most-promising-ideas-and-refine-them/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/select-the-most-promising-ideas-and-refine-them/</link>
 		<pubDate>Wed, 15 May 2024 11:16:46 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=22</guid>
@@ -1608,7 +1612,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Typography font choice, size, and spacing]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/typography-font-choice-size-and-spacing/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/typography-font-choice-size-and-spacing/</link>
 		<pubDate>Wed, 15 May 2024 11:18:29 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=23</guid>
@@ -1689,8 +1693,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="choice"><![CDATA[choice]]></category>
 		<category domain="post_tag" nicename="spacing"><![CDATA[Spacing]]></category>
-		<category domain="post_tag" nicename="typography"><![CDATA[Typography]]></category>
 		<category domain="category" nicename="typography"><![CDATA[Typography]]></category>
+		<category domain="post_tag" nicename="typography"><![CDATA[Typography]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[92]]></wp:meta_value>
@@ -1710,7 +1714,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Gather feedback and incorporate revisions to improve the design]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/gather-feedback-and-incorporate-revisions-to-improve-the-design/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/gather-feedback-and-incorporate-revisions-to-improve-the-design/</link>
 		<pubDate>Wed, 15 May 2024 11:20:08 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=24</guid>
@@ -1808,7 +1812,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Create high-resolution files for various applications]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/create-high-resolution-files-for-various-applications/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/create-high-resolution-files-for-various-applications/</link>
 		<pubDate>Wed, 15 May 2024 11:21:37 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=25</guid>
@@ -1898,13 +1902,13 @@
 							</item>
 					<item>
 		<title><![CDATA[Identify the key message and personality of the brand]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/identify-the-key-message-and-personality-of-the-brand/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/identify-the-key-message-and-personality-of-the-brand/</link>
 		<pubDate>Wed, 15 May 2024 11:23:02 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>I'd be happy to help you identify the key message and personality of a brand! To do this, I'll need some information about the brand.</p>
+<p>define the desired aesthetic happy to help you identify the key message and personality of a brand  To do this, I'll need some information about the brand.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1954,8 +1958,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-15 11:23:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-15 11:23:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-16 06:06:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-16 06:06:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:01:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:01:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[identify-the-key-message-and-personality-of-the-brand]]></wp:post_name>
@@ -1986,10 +1990,14 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blogdata-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Brainstorm different concepts and variations]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/brainstorm-different-concepts-and-variations/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/brainstorm-different-concepts-and-variations/</link>
 		<pubDate>Wed, 15 May 2024 11:26:09 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=27</guid>
@@ -2079,13 +2087,13 @@
 							</item>
 					<item>
 		<title><![CDATA[Develop a more detailed design concept, including typography, color palette, and imagery]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/</link>
 		<pubDate>Wed, 15 May 2024 11:28:14 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Based on the initial concept of a modern and futuristic travel company, I'd like to propose a more detailed design concept that incorporates typography, color palette, and imagery.</p>
+<p>Based on the initial concept of a modern and futuristic travel company, personality  I'd like to propose a more detailed design concept that incorporates typography, color palette, and imagery.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -2135,8 +2143,8 @@
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-15 11:28:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-15 11:28:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-16 06:01:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-16 06:01:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 12:58:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 12:58:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery]]></wp:post_name>
@@ -2166,10 +2174,14 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blogdata-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Color palette selection, contrast, and harmony]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/color-palette-selection-contrast-and-harmony/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/color-palette-selection-contrast-and-harmony/</link>
 		<pubDate>Wed, 15 May 2024 11:30:40 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=29</guid>
@@ -2272,7 +2284,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Consider different perspectives and opinions to ensure the design is widely accepted]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/</link>
 		<pubDate>Wed, 15 May 2024 11:32:07 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=30</guid>
@@ -2389,477 +2401,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/49/</link>
-		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=49</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>49</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[49]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/50/</link>
-		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=50</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>50</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[50]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/51/</link>
-		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=51</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[51]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/52/</link>
-		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=52</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[52]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/53/</link>
-		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=53</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[53]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/contact/</link>
-		<pubDate>Wed, 15 May 2024 11:41:46 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?page_id=55</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
-[contact-form-7 id="43f39ff" title="Contact form 1"]
-<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:41:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:41:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:41:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:41:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[contentup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/57/</link>
-		<pubDate>Wed, 15 May 2024 11:42:21 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=57</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[57]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[The thrill of creating a cutting-edge logo and visual style that excites clients and drives their business forward!]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/the-thrill-of-creating-a-cutting-edge-logo-and-visual-style-that-excites-clients-and-drives-their-business-forward/</link>
-		<pubDate>Thu, 30 May 2024 09:14:05 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?page_id=114</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>114</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-30 09:14:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-30 09:14:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-30 09:14:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-30 09:14:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-thrill-of-creating-a-cutting-edge-logo-and-visual-style-that-excites-clients-and-drives-their-business-forward]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[contentup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[cropped-banners.jpg]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/banners/cropped-banners-jpg/</link>
-		<pubDate>Fri, 14 Jun 2024 07:31:21 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/06/cropped-banners.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[https://demos.themeansar.com/contentup/four/wp-content/uploads/2024/06/cropped-banners.jpg]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>141</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-14 07:31:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-14 07:31:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-14 07:31:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-14 07:31:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-banners-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>140</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/four/wp-content/uploads/2024/06/cropped-banners.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/cropped-banners.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[banner-ad-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1001;s:6:"height";i:107;s:4:"file";s:27:"2024/06/cropped-banners.jpg";s:8:"filesize";i:11461;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"cropped-banners-300x32.jpg";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2561;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"cropped-banners-150x107.jpg";s:5:"width";i:150;s:6:"height";i:107;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1243;}s:12:"medium_large";a:5:{s:4:"file";s:26:"cropped-banners-768x82.jpg";s:5:"width";i:768;s:6:"height";i:82;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8009;}s:15:"blogdata-medium";a:5:{s:4:"file";s:27:"cropped-banners-720x107.jpg";s:5:"width";i:720;s:6:"height";i:107;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7657;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Navigation]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/navigation/</link>
-		<pubDate>Wed, 15 May 2024 09:32:30 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/2024/05/15/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 09:32:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 09:32:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 09:32:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 09:32:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Provide guidelines for using the logo effectively]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/provide-guidelines-for-using-the-logo-effectively/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/provide-guidelines-for-using-the-logo-effectively/</link>
 		<pubDate>Wed, 15 May 2024 11:33:43 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=31</guid>
@@ -2940,7 +2483,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="guidelines"><![CDATA[Guidelines]]></category>
 		<category domain="category" nicename="license"><![CDATA[License]]></category>
-		<category domain="category" nicename="logo-creation"><![CDATA[Logo creation]]></category>
+		<category domain="category" nicename="logo"><![CDATA[Logo]]></category>
 		<category domain="post_tag" nicename="provide"><![CDATA[Provide]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2961,7 +2504,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Deliver the final design files to stakeholders or clients]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/deliver-the-final-design-files-to-stakeholders-or-clients/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/deliver-the-final-design-files-to-stakeholders-or-clients/</link>
 		<pubDate>Wed, 15 May 2024 11:35:18 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=32</guid>
@@ -3063,14 +2606,389 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/49/</link>
+		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=49</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[49]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/50/</link>
+		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=50</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[50]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/51/</link>
+		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=51</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[51]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/52/</link>
+		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=52</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[52]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/53/</link>
+		<pubDate>Wed, 15 May 2024 11:40:36 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=53</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-15 11:42:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-15 11:40:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 11:42:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 11:42:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[53]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[27]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/contact/</link>
+		<pubDate>Wed, 15 May 2024 11:41:46 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?page_id=55</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->
+[contact-form-7 id="43f39ff" title="Contact form 1"]
+<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-15 11:41:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-15 11:41:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 11:41:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 11:41:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[contentup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[The thrill of creating a cutting-edge logo and visual style that excites clients and drives their business forward!]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/the-thrill-of-creating-a-cutting-edge-logo-and-visual-style-that-excites-clients-and-drives-their-business-forward/</link>
+		<pubDate>Thu, 30 May 2024 09:14:05 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?page_id=114</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-30 09:14:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-30 09:14:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-30 09:14:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-30 09:14:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-thrill-of-creating-a-cutting-edge-logo-and-visual-style-that-excites-clients-and-drives-their-business-forward]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[contentup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://demos.themeansar.com/blogdata/creator/navigation/</link>
+		<pubDate>Wed, 15 May 2024 09:32:30 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/2024/05/15/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-15 09:32:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-15 09:32:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-15 09:32:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-15 09:32:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Develop a list of keywords and concepts related to the brand]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/develop-a-list-of-keywords-and-concepts-related-to-the-brand/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/develop-a-list-of-keywords-and-concepts-related-to-the-brand/</link>
 		<pubDate>Wed, 15 May 2024 11:36:23 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=33</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>I'm happy to help! However, I need more information about the brand you'd like to develop a list of keywords and concepts for. Please provide me with some details about the brand</p>
+<p>I need more information about the brand you'd like to develop a list of keywords and concepts for. Please provide me with some details about the brand</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -3132,8 +3050,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-15 11:36:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-15 11:36:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-16 07:13:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-16 07:13:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:02:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:02:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[develop-a-list-of-keywords-and-concepts-related-to-the-brand]]></wp:post_name>
@@ -3144,7 +3062,7 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="keywords"><![CDATA[Keywords]]></category>
-		<category domain="category" nicename="logo-creation"><![CDATA[Logo creation]]></category>
+		<category domain="category" nicename="logo"><![CDATA[Logo]]></category>
 		<category domain="post_tag" nicename="related"><![CDATA[Related]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3162,16 +3080,24 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blogdata-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Create a mood board to visualize the overall aesthetic and atmosphere.]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/</link>
+		<link>https://demos.themeansar.com/blogdata/creator/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/</link>
 		<pubDate>Wed, 15 May 2024 11:39:19 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>A mood board is a visual representation of the overall aesthetic and atmosphere of your design project. It's a collage of images, colors, textures, and other elements that evoke the desired mood and feeling. Here's a step-by-step guide to creating a mood board:</p>
+<p>A mood board is a visual representation of the overall aesthetic and atmosphere of recognizable your design project. It's a collage of images, colors, textures, and other elements that evoke the desired mood and feeling. Here's a step-by-step guide to creating a mood board:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -3233,8 +3159,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-15 11:39:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-15 11:39:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-24 11:16:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-24 11:16:40]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 12:59:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 12:59:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere]]></wp:post_name>
@@ -3245,7 +3171,7 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="board"><![CDATA[Board]]></category>
-		<category domain="category" nicename="logo-creation"><![CDATA[Logo creation]]></category>
+		<category domain="category" nicename="logo"><![CDATA[Logo]]></category>
 		<category domain="post_tag" nicename="mood"><![CDATA[Mood]]></category>
 		<category domain="post_tag" nicename="overall"><![CDATA[Overall]]></category>
 		<category domain="category" nicename="pricing"><![CDATA[Pricing]]></category>
@@ -3266,17 +3192,13 @@
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[blogdata-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Contact form 1]]></title>
-		<link>https://demos.themeansar.com/blogdata/four/?post_type=wpcf7_contact_form&#038;p=54</link>
+		<link>https://demos.themeansar.com/blogdata/creator/?post_type=wpcf7_contact_form&#038;p=54</link>
 		<pubDate>Wed, 15 May 2024 11:40:52 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?post_type=wpcf7_contact_form&#038;p=54</guid>

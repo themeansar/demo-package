@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.5" created="2024-06-26 07:24" -->
+	<!-- generator="WordPress/6.5.5" created="2024-07-03 07:22" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,14 +29,13 @@
 	<title>Logo Creation</title>
 	<link>https://demos.themeansar.com/blogdata/litetwo</link>
 	<description></description>
-	<pubDate>Wed, 26 Jun 2024 07:24:01 +0000</pubDate>
+	<pubDate>Wed, 03 Jul 2024 07:22:19 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.themeansar.com/blogdata/litetwo</wp:base_site_url>
 	<wp:base_blog_url>https://demos.themeansar.com/blogdata/litetwo</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[contentup_lite]]></wp:author_login><wp:author_email><![CDATA[support@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[Ansar]]></wp:author_display_name><wp:author_first_name><![CDATA[Ansar]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[pro_contentup]]></wp:author_login><wp:author_email><![CDATA[support@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[pro_contentup]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[blogdata_lite]]></wp:author_login><wp:author_email><![CDATA[support@themeansar.com]]></wp:author_email><wp:author_display_name><![CDATA[Ansar]]></wp:author_display_name><wp:author_first_name><![CDATA[Ansar]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -819,9 +818,9 @@
 
 		<item>
 		<title><![CDATA[1]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/define-the-brands-mission-values-and-target-audience/attachment/1/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/define-the-brands-mission-values-and-target-audience/attachment/1/</link>
 		<pubDate>Wed, 15 May 2024 11:11:16 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -854,7 +853,7 @@
 		<title><![CDATA[cp]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/cp/</link>
 		<pubDate>Tue, 30 Apr 2024 13:12:09 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/04/cp.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -887,7 +886,7 @@
 		<title><![CDATA[Blog-01]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-01/</link>
 		<pubDate>Wed, 01 May 2024 11:04:59 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/04/Blog-01.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -920,7 +919,7 @@
 		<title><![CDATA[Blog-02]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-02/</link>
 		<pubDate>Wed, 01 May 2024 11:05:02 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/04/Blog-02.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -953,7 +952,7 @@
 		<title><![CDATA[Blog-03]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-03/</link>
 		<pubDate>Wed, 01 May 2024 11:05:06 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/04/Blog-03.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -986,7 +985,7 @@
 		<title><![CDATA[Blog-04]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-04/</link>
 		<pubDate>Wed, 01 May 2024 11:05:08 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/04/Blog-04.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1019,7 +1018,7 @@
 		<title><![CDATA[Blog-05]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-05/</link>
 		<pubDate>Wed, 01 May 2024 11:23:26 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-05.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1052,7 +1051,7 @@
 		<title><![CDATA[Blog-06]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-06/</link>
 		<pubDate>Wed, 01 May 2024 11:23:28 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-06.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1085,7 +1084,7 @@
 		<title><![CDATA[Blog-07]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-07/</link>
 		<pubDate>Wed, 01 May 2024 11:23:30 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-07.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1118,7 +1117,7 @@
 		<title><![CDATA[Blog-08]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-08/</link>
 		<pubDate>Wed, 01 May 2024 11:23:32 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-08.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1151,7 +1150,7 @@
 		<title><![CDATA[Blog-09]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-09/</link>
 		<pubDate>Wed, 01 May 2024 11:23:35 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-09.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1184,7 +1183,7 @@
 		<title><![CDATA[Blog-10]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-10/</link>
 		<pubDate>Wed, 01 May 2024 11:23:37 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-10.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1217,7 +1216,7 @@
 		<title><![CDATA[Blog-11]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-11/</link>
 		<pubDate>Wed, 01 May 2024 11:23:40 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-11.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1250,7 +1249,7 @@
 		<title><![CDATA[Blog-12]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-12/</link>
 		<pubDate>Wed, 01 May 2024 11:23:43 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-12.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1283,7 +1282,7 @@
 		<title><![CDATA[Blog-13]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-13/</link>
 		<pubDate>Wed, 01 May 2024 11:23:45 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-13.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1316,7 +1315,7 @@
 		<title><![CDATA[Blog-14]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-14/</link>
 		<pubDate>Wed, 01 May 2024 12:25:03 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/Blog-14.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1349,7 +1348,7 @@
 		<title><![CDATA[Blog-15]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/blog-15/</link>
 		<pubDate>Wed, 01 May 2024 12:56:03 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/04/Blog-15.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1382,7 +1381,7 @@
 		<title><![CDATA[cropped-Blog-14.webp]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/cropped-blog-14-webp/</link>
 		<pubDate>Thu, 02 May 2024 07:44:40 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/cropped-Blog-14.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/cropped-Blog-14.webp]]></content:encoded>
@@ -1425,9 +1424,9 @@
 							</item>
 					<item>
 		<title><![CDATA[2]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/attachment/2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/attachment/2/</link>
 		<pubDate>Wed, 15 May 2024 13:55:28 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/2.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1458,9 +1457,9 @@
 							</item>
 					<item>
 		<title><![CDATA[4]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/develop-a-list-of-keywords-and-concepts-related-to-the-brand/attachment/4/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/develop-a-list-of-keywords-and-concepts-related-to-the-brand/attachment/4/</link>
 		<pubDate>Wed, 15 May 2024 13:57:51 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/4.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1491,9 +1490,9 @@
 							</item>
 					<item>
 		<title><![CDATA[1]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/provide-guidelines-for-using-the-logo-effectively/1-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/provide-guidelines-for-using-the-logo-effectively/1-2/</link>
 		<pubDate>Wed, 15 May 2024 13:58:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1524,9 +1523,9 @@
 							</item>
 					<item>
 		<title><![CDATA[5]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/color-palette-selection-contrast-and-harmony/attachment/5/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/color-palette-selection-contrast-and-harmony/attachment/5/</link>
 		<pubDate>Thu, 16 May 2024 05:54:13 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/5.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1557,9 +1556,9 @@
 							</item>
 					<item>
 		<title><![CDATA[8]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/attachment/8/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/attachment/8/</link>
 		<pubDate>Thu, 16 May 2024 05:55:41 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/8.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1590,9 +1589,9 @@
 							</item>
 					<item>
 		<title><![CDATA[11]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/attachment/11/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/attachment/11/</link>
 		<pubDate>Thu, 16 May 2024 06:01:12 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/11.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1623,9 +1622,9 @@
 							</item>
 					<item>
 		<title><![CDATA[10]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/brainstorm-different-concepts-and-variations/attachment/10/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/brainstorm-different-concepts-and-variations/attachment/10/</link>
 		<pubDate>Thu, 16 May 2024 06:02:34 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/10.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1656,9 +1655,9 @@
 							</item>
 					<item>
 		<title><![CDATA[6]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/identify-the-key-message-and-personality-of-the-brand/attachment/6/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/identify-the-key-message-and-personality-of-the-brand/attachment/6/</link>
 		<pubDate>Thu, 16 May 2024 06:06:26 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/6.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1689,9 +1688,9 @@
 							</item>
 					<item>
 		<title><![CDATA[7]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/create-high-resolution-files-for-various-applications/attachment/7/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/create-high-resolution-files-for-various-applications/attachment/7/</link>
 		<pubDate>Thu, 16 May 2024 06:08:35 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/7.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1722,9 +1721,9 @@
 							</item>
 					<item>
 		<title><![CDATA[9]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/9/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/9/</link>
 		<pubDate>Thu, 16 May 2024 06:11:16 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/9.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1755,9 +1754,9 @@
 							</item>
 					<item>
 		<title><![CDATA[16]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/create-rough-sketches-of-ideas-based-on-the-research-and-planning/attachment/16/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/create-rough-sketches-of-ideas-based-on-the-research-and-planning/attachment/16/</link>
 		<pubDate>Thu, 16 May 2024 06:57:23 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/16.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1788,9 +1787,9 @@
 							</item>
 					<item>
 		<title><![CDATA[14]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/define-the-brands-mission-values-and-target-audience/14-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/define-the-brands-mission-values-and-target-audience/14-2/</link>
 		<pubDate>Thu, 16 May 2024 06:58:20 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/14.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1823,7 +1822,7 @@
 		<title><![CDATA[13]]></title>
 		<link>https://demos.themeansar.com/blogdata/litetwo/13/</link>
 		<pubDate>Fri, 17 May 2024 07:03:35 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/13.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1854,9 +1853,9 @@
 							</item>
 					<item>
 		<title><![CDATA[3]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/deliver-the-final-design-files-to-stakeholders-or-clients/attachment/3/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/deliver-the-final-design-files-to-stakeholders-or-clients/attachment/3/</link>
 		<pubDate>Wed, 15 May 2024 13:58:15 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/3.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1887,9 +1886,9 @@
 							</item>
 					<item>
 		<title><![CDATA[13]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/gather-feedback-and-incorporate-revisions-to-improve-the-design/13-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/gather-feedback-and-incorporate-revisions-to-improve-the-design/13-2/</link>
 		<pubDate>Thu, 16 May 2024 06:54:09 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/13-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1920,9 +1919,9 @@
 							</item>
 					<item>
 		<title><![CDATA[15]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/typography-font-choice-size-and-spacing/attachment/15/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/typography-font-choice-size-and-spacing/attachment/15/</link>
 		<pubDate>Thu, 16 May 2024 06:55:20 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/15.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1953,9 +1952,9 @@
 							</item>
 					<item>
 		<title><![CDATA[12]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/select-the-most-promising-ideas-and-refine-them/attachment/12/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/select-the-most-promising-ideas-and-refine-them/attachment/12/</link>
 		<pubDate>Thu, 16 May 2024 06:56:39 +0000</pubDate>
-		<dc:creator><![CDATA[pro_contentup]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/12.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1986,9 +1985,9 @@
 							</item>
 					<item>
 		<title><![CDATA[9]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/9-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/9-2/</link>
 		<pubDate>Fri, 17 May 2024 10:44:29 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/9-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2019,9 +2018,9 @@
 							</item>
 					<item>
 		<title><![CDATA[5]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/develop-a-list-of-keywords-and-concepts-related-to-the-brand/5-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/develop-a-list-of-keywords-and-concepts-related-to-the-brand/5-2/</link>
 		<pubDate>Fri, 17 May 2024 10:45:53 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/5-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2052,9 +2051,9 @@
 							</item>
 					<item>
 		<title><![CDATA[12]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/develop-a-list-of-keywords-and-concepts-related-to-the-brand/12-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/develop-a-list-of-keywords-and-concepts-related-to-the-brand/12-2/</link>
 		<pubDate>Fri, 17 May 2024 10:46:34 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/12-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2085,9 +2084,9 @@
 							</item>
 					<item>
 		<title><![CDATA[14]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/deliver-the-final-design-files-to-stakeholders-or-clients/attachment/14/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/deliver-the-final-design-files-to-stakeholders-or-clients/attachment/14/</link>
 		<pubDate>Fri, 17 May 2024 10:47:10 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/14-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2118,9 +2117,9 @@
 							</item>
 					<item>
 		<title><![CDATA[15]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/provide-guidelines-for-using-the-logo-effectively/15-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/provide-guidelines-for-using-the-logo-effectively/15-2/</link>
 		<pubDate>Fri, 17 May 2024 10:47:39 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/15-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2151,9 +2150,9 @@
 							</item>
 					<item>
 		<title><![CDATA[contentup]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/01/contentup/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/contentup/</link>
 		<pubDate>Wed, 01 May 2024 11:38:10 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/lite/2024/05/01/contentup/</guid>
 		<description></description>
 		<content:encoded><![CDATA[html[data-theme='dark'] .navbar-brand .custom-logo{
@@ -2180,9 +2179,9 @@ footer .site-branding-text{
 														</item>
 					<item>
 		<title><![CDATA[Define the Brand's Mission, Values, and Target audience]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/define-the-brands-mission-values-and-target-audience/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/define-the-brands-mission-values-and-target-audience/</link>
 		<pubDate>Wed, 15 May 2024 11:12:31 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2283,9 +2282,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[6]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/6-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/6-2/</link>
 		<pubDate>Fri, 17 May 2024 10:48:19 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/6-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2316,9 +2315,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[2]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/color-palette-selection-contrast-and-harmony/2-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/color-palette-selection-contrast-and-harmony/2-2/</link>
 		<pubDate>Fri, 17 May 2024 10:48:44 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/2-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2349,9 +2348,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[11]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/11-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/11-2/</link>
 		<pubDate>Fri, 17 May 2024 10:49:47 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/11-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2382,9 +2381,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[13]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/brainstorm-different-concepts-and-variations/13-3/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/brainstorm-different-concepts-and-variations/13-3/</link>
 		<pubDate>Fri, 17 May 2024 10:51:46 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/13-2.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2415,9 +2414,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[7]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/identify-the-key-message-and-personality-of-the-brand/7-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/identify-the-key-message-and-personality-of-the-brand/7-2/</link>
 		<pubDate>Fri, 17 May 2024 10:52:09 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/7-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2448,9 +2447,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[4]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/create-high-resolution-files-for-various-applications/4-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/create-high-resolution-files-for-various-applications/4-2/</link>
 		<pubDate>Fri, 17 May 2024 10:52:55 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/4-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2481,9 +2480,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[10]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/gather-feedback-and-incorporate-revisions-to-improve-the-design/10-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/gather-feedback-and-incorporate-revisions-to-improve-the-design/10-2/</link>
 		<pubDate>Fri, 17 May 2024 10:53:34 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/10-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2514,9 +2513,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[11]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/typography-font-choice-size-and-spacing/11-3/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/typography-font-choice-size-and-spacing/11-3/</link>
 		<pubDate>Fri, 17 May 2024 10:54:08 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/11-2.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2547,9 +2546,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[8]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/select-the-most-promising-ideas-and-refine-them/8-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/select-the-most-promising-ideas-and-refine-them/8-2/</link>
 		<pubDate>Fri, 17 May 2024 10:54:42 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/8-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2580,9 +2579,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[16]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/create-rough-sketches-of-ideas-based-on-the-research-and-planning/16-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/create-rough-sketches-of-ideas-based-on-the-research-and-planning/16-2/</link>
 		<pubDate>Fri, 17 May 2024 10:55:07 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/16-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2613,9 +2612,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[17]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/define-the-brands-mission-values-and-target-audience/attachment/17/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/define-the-brands-mission-values-and-target-audience/attachment/17/</link>
 		<pubDate>Fri, 17 May 2024 10:55:38 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/17.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2646,9 +2645,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[5]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/5-3/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/5-3/</link>
 		<pubDate>Fri, 17 May 2024 10:57:59 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/wp-content/uploads/2024/05/5-2.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2679,9 +2678,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/06/19/172/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/172/</link>
 		<pubDate>Fri, 17 May 2024 11:04:21 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/?p=172</guid>
 		<description></description>
 		<content:encoded><![CDATA[Create]]></content:encoded>
@@ -2740,9 +2739,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/06/19/173/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/173/</link>
 		<pubDate>Fri, 17 May 2024 11:04:21 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/?p=173</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2801,9 +2800,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/06/19/174/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/174/</link>
 		<pubDate>Fri, 17 May 2024 11:04:21 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/?p=174</guid>
 		<description></description>
 		<content:encoded><![CDATA[Professionals]]></content:encoded>
@@ -2862,9 +2861,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/06/19/175/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/175/</link>
 		<pubDate>Fri, 17 May 2024 11:04:21 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/?p=175</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2923,9 +2922,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/06/19/176/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/176/</link>
 		<pubDate>Fri, 17 May 2024 11:04:21 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/?p=176</guid>
 		<description></description>
 		<content:encoded><![CDATA[Applications]]></content:encoded>
@@ -2984,9 +2983,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/06/19/177/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/177/</link>
 		<pubDate>Fri, 17 May 2024 11:04:21 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/?p=177</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -3045,7 +3044,7 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/16/navigation/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/navigation/</link>
 		<pubDate>Thu, 16 May 2024 06:42:43 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/2024/05/16/navigation/</guid>
@@ -3069,9 +3068,9 @@ footer .site-branding-text{
 														</item>
 					<item>
 		<title><![CDATA[Create rough sketches of ideas based on the research and planning]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/create-rough-sketches-of-ideas-based-on-the-research-and-planning/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/create-rough-sketches-of-ideas-based-on-the-research-and-planning/</link>
 		<pubDate>Wed, 15 May 2024 11:15:14 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3171,9 +3170,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Select the most promising ideas and refine them]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/select-the-most-promising-ideas-and-refine-them/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/select-the-most-promising-ideas-and-refine-them/</link>
 		<pubDate>Wed, 15 May 2024 11:16:46 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3272,9 +3271,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Typography font choice, size, and spacing]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/typography-font-choice-size-and-spacing/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/typography-font-choice-size-and-spacing/</link>
 		<pubDate>Wed, 15 May 2024 11:18:29 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=23</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3374,9 +3373,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Create high-resolution files for various applications]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/create-high-resolution-files-for-various-applications/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/create-high-resolution-files-for-various-applications/</link>
 		<pubDate>Wed, 15 May 2024 11:21:37 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=25</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3464,9 +3463,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Develop a more detailed design concept, including typography, color palette, and imagery]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/</link>
 		<pubDate>Wed, 15 May 2024 11:28:14 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3554,9 +3553,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Color palette selection, contrast, and harmony]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/color-palette-selection-contrast-and-harmony/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/color-palette-selection-contrast-and-harmony/</link>
 		<pubDate>Wed, 15 May 2024 11:30:40 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=29</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3657,9 +3656,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Provide guidelines for using the logo effectively]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/provide-guidelines-for-using-the-logo-effectively/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/provide-guidelines-for-using-the-logo-effectively/</link>
 		<pubDate>Wed, 15 May 2024 11:33:43 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=31</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3759,18 +3758,14 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Create a mood board to visualize the overall aesthetic and atmosphere]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/</link>
 		<pubDate>Wed, 15 May 2024 11:39:19 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>A mood board is a visual representation of the overall aesthetic and atmosphere of your design project. It's a collage of images, colors, textures, and other elements that evoke the desired mood and feeling. Here's a step-by-step guide to creating a mood board:</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Step 1: Gather Materials</h2>
@@ -3780,33 +3775,21 @@ footer .site-branding-text{
 <p>Printed copies of your design concept sketches or previous work<br>Magazines, catalogs, and books that inspire you<br>Fabric swatches, wallpaper samples, or other materials that add texture and interest<br>Digital tools like Adobe Photoshop or Canva for creating a digital mood board</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Step 2: Identify Key Elements</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Identify the key elements that define the desired aesthetic and atmosphere:<br>Color palette: choose 2-3 core colors that evoke the desired mood<br>Typography: select font styles or typography that align with the mood<br>Imagery: identify the types of images that fit the mood (e.g., nature, cityscapes, abstract)<br>Texture: consider the textures that add depth and interest (e.g., rough, smooth, organic)<br>Mood words: identify key words that describe the desired mood (e.g., calm, energetic, playful)<br></p>
+<p>Identify the key elements that define the desired aesthetic and atmosphere:<br>Color palette: choose 2-3 core colors that evoke the desired mood<br>Typography: select font styles or typography that align with the mood<br>Imagery: identify the types of images that fit the mood (e.g., nature, cityscapes, abstract)<br>Texture: consider the textures that add depth and interest (e.g., rough, smooth, organic)<br>Mood words: identify key words that describe the desired mood (e.g., calm, energetic, playful)</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Step 3: Create a Physical Mood Board</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Use a large piece of cardboard, foam board, or paper to create a physical mood board<br>Arrange the gathered materials in a way that visually represents the desired aesthetic and atmosphere<br>Add notes, stickers, or other embellishments to reinforce key elements<br>Step back and review the board to ensure it effectively communicates the desired mood<br></p>
+<p>Use a large piece of cardboard, foam board, or paper to create a physical mood board<br>Arrange the gathered materials in a way that visually represents the desired aesthetic and atmosphere<br>Add notes, stickers, or other embellishments to reinforce key elements<br>Step back and review the board to ensure it effectively communicates the desired mood</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Step 4: Create a Digital Mood Board</h2>
@@ -3815,10 +3798,6 @@ footer .site-branding-text{
 <!-- wp:paragraph -->
 <p>Use Adobe Photoshop or Canva to create a digital mood board<br>Choose a background color or texture that sets the tone for the design<br>Add layers for each key element (color palette, typography, imagery, texture)<br>Adjust sizes, colors, and opacity to achieve the desired balance and visual interest<br>Save the mood board as a high-resolution file for future reference<br>Example Mood Board</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Here's an example mood board for a fictional coffee shop:</h2>
@@ -3829,12 +3808,8 @@ footer .site-branding-text{
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Background: Warm beige cardboard<br>Color palette: Rich brown (#754975), creamy white (#F5F5F5), and deep green (#2E865F)<br>Typography: Serif font with a vintage feel (e.g., Playfair Display)<br>Imagery: Cozy coffee shop scenes with warm lighting, rustic wood accents, and lush greenery<br>Texture: Rough-hewn wooden planks and woven baskets<br>Mood words: Cozy, inviting, earthy<br></p>
+<p>Background: Warm beige cardboard<br>Color palette: Rich brown (#754975), creamy white (#F5F5F5), and deep green (#2E865F)<br>Typography: Serif font with a vintage feel (e.g., Playfair Display)<br>Imagery: Cozy coffee shop scenes with warm lighting, rustic wood accents, and lush greenery<br>Texture: Rough-hewn wooden planks and woven baskets<br>Mood words: Cozy, inviting, earthy</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Digital Mood Board</h2>
@@ -3851,8 +3826,8 @@ footer .site-branding-text{
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-15 11:39:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-15 11:39:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-19 09:57:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-19 09:57:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:11:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:11:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere]]></wp:post_name>
@@ -3890,9 +3865,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/04/30/navigation-2/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/navigation-2/</link>
 		<pubDate>Tue, 30 Apr 2024 11:12:39 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/lite/2024/04/30/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
@@ -3914,9 +3889,9 @@ footer .site-branding-text{
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/17/wp-global-styles-twentytwentyfour/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/wp-global-styles-twentytwentyfour/</link>
 		<pubDate>Fri, 17 May 2024 07:01:58 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/litetwo/2024/05/17/wp-global-styles-twentytwentyfour/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
@@ -3939,9 +3914,9 @@ footer .site-branding-text{
 						</item>
 					<item>
 		<title><![CDATA[Gather feedback and incorporate revisions to improve the design]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/gather-feedback-and-incorporate-revisions-to-improve-the-design/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/gather-feedback-and-incorporate-revisions-to-improve-the-design/</link>
 		<pubDate>Wed, 15 May 2024 11:20:08 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4037,9 +4012,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Identify the key message and personality of the brand]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/identify-the-key-message-and-personality-of-the-brand/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/identify-the-key-message-and-personality-of-the-brand/</link>
 		<pubDate>Wed, 15 May 2024 11:23:02 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4128,9 +4103,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Brainstorm different concepts and variations]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/brainstorm-different-concepts-and-variations/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/brainstorm-different-concepts-and-variations/</link>
 		<pubDate>Wed, 15 May 2024 11:26:09 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4218,9 +4193,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Consider different perspectives and opinions to ensure the design is widely accepted]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/</link>
 		<pubDate>Wed, 15 May 2024 11:32:07 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4309,9 +4284,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Deliver the final design files to stakeholders or clients]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/deliver-the-final-design-files-to-stakeholders-or-clients/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/deliver-the-final-design-files-to-stakeholders-or-clients/</link>
 		<pubDate>Wed, 15 May 2024 11:35:18 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4412,9 +4387,9 @@ footer .site-branding-text{
 							</item>
 					<item>
 		<title><![CDATA[Develop a list of keywords and concepts related to the brand]]></title>
-		<link>https://demos.themeansar.com/blogdata/litetwo/2024/05/15/develop-a-list-of-keywords-and-concepts-related-to-the-brand/</link>
+		<link>https://demos.themeansar.com/blogdata/litetwo/develop-a-list-of-keywords-and-concepts-related-to-the-brand/</link>
 		<pubDate>Wed, 15 May 2024 11:36:23 +0000</pubDate>
-		<dc:creator><![CDATA[contentup_lite]]></dc:creator>
+		<dc:creator><![CDATA[blogdata_lite]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=33</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->

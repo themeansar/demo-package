@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.5" created="2024-06-26 11:59" -->
+	<!-- generator="WordPress/6.5.5" created="2024-07-03 07:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,10 +26,10 @@
 >
 
 <channel>
-	<title>BlogData</title>
+	<title>LIFESTYLE</title>
 	<link>https://demos.themeansar.com/blogdata/lifestyle</link>
 	<description></description>
-	<pubDate>Wed, 26 Jun 2024 11:59:57 +0000</pubDate>
+	<pubDate>Wed, 03 Jul 2024 07:03:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.themeansar.com/blogdata/lifestyle</wp:base_site_url>
@@ -2296,120 +2296,6 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/332/</link>
-		<pubDate>Tue, 23 Jan 2024 07:58:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/2024/01/23/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>332</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-23 07:58:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-23 07:58:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-23 07:58:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-23 07:58:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[332]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[138]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/333/</link>
-		<pubDate>Tue, 23 Jan 2024 07:58:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/2024/01/23/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>333</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-23 07:58:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-23 07:58:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-23 07:58:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-23 07:58:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[333]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[140]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
 		<link>https://demos.themeansar.com/blogdata/lifestyle/?p=454</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
@@ -3114,6 +3000,120 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/466/</link>
+		<pubDate>Thu, 16 May 2024 11:21:36 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/?p=466</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>466</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-16 11:21:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-16 11:21:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 11:21:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 11:21:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[466]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/467/</link>
+		<pubDate>Thu, 16 May 2024 11:21:36 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/?p=467</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>467</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-16 11:21:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-16 11:21:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 11:21:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 11:21:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[467]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[cropped-24.webp]]></title>
 		<link>https://demos.themeansar.com/blogdata/lifestyle/moving-trough-the-everyday-urban-jungle-of-your-city/attachment/24/cropped-24-webp/</link>
 		<pubDate>Fri, 31 May 2024 13:09:32 +0000</pubDate>
@@ -3151,139 +3151,135 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[main-bd-logo]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/main-bd-logo/</link>
-		<pubDate>Thu, 13 Jun 2024 07:39:59 +0000</pubDate>
+		<title><![CDATA[blog-data]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/blog-data/</link>
+		<pubDate>Sat, 29 Jun 2024 12:42:44 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/wp-content/uploads/2024/06/main-bd-logo.png</guid>
+		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/blog-data.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>504</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-13 07:39:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-13 07:39:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-13 07:39:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-13 07:39:59]]></wp:post_modified_gmt>
+		<wp:post_id>550</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-29 12:42:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-29 12:42:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 12:42:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 12:42:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[main-bd-logo]]></wp:post_name>
+		<wp:post_name><![CDATA[blog-data]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/main-bd-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/blog-data.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:269;s:6:"height";i:51;s:4:"file";s:24:"2024/06/main-bd-logo.png";s:8:"filesize";i:7808;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:23:"main-bd-logo-150x51.png";s:5:"width";i:150;s:6:"height";i:51;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3226;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:801;s:6:"height";i:150;s:4:"file";s:21:"2024/06/blog-data.jpg";s:8:"filesize";i:39065;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:20:"blog-data-300x56.jpg";s:5:"width";i:300;s:6:"height";i:56;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3037;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"blog-data-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2297;}s:12:"medium_large";a:5:{s:4:"file";s:21:"blog-data-768x144.jpg";s:5:"width";i:768;s:6:"height";i:144;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9177;}s:15:"blogdata-medium";a:5:{s:4:"file";s:21:"blog-data-720x150.jpg";s:5:"width";i:720;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9808;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/main-bd-logo.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/06/blog-data.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[BlogData]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/blogdata/</link>
-		<pubDate>Thu, 13 Jun 2024 07:40:10 +0000</pubDate>
+		<title><![CDATA[blog-lifestyle]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/blog-lifestyle/</link>
+		<pubDate>Sat, 29 Jun 2024 13:16:16 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/wp-content/uploads/2024/06/BlogData.png</guid>
+		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/blog-lifestyle.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>505</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-13 07:40:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-13 07:40:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-13 07:40:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-13 07:40:10]]></wp:post_modified_gmt>
+		<wp:post_id>552</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-29 13:16:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-29 13:16:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:16:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:16:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blogdata]]></wp:post_name>
+		<wp:post_name><![CDATA[blog-lifestyle]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/BlogData.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/blog-lifestyle.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/BlogData.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/06/blog-lifestyle.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:269;s:6:"height";i:51;s:4:"file";s:20:"2024/06/BlogData.png";s:8:"filesize";i:7980;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:19:"BlogData-150x51.png";s:5:"width";i:150;s:6:"height";i:51;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3362;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:245;s:6:"height";i:52;s:4:"file";s:26:"2024/06/blog-lifestyle.png";s:8:"filesize";i:3540;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:25:"blog-lifestyle-150x52.png";s:5:"width";i:150;s:6:"height";i:52;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1893;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[banners]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/banners/</link>
-		<pubDate>Sat, 15 Jun 2024 07:13:40 +0000</pubDate>
+		<title><![CDATA[blog-data (1) (1)]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/blog-data-1-1/</link>
+		<pubDate>Sat, 29 Jun 2024 13:20:21 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/wp-content/uploads/2024/06/banners.jpg</guid>
+		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/blog-data-1-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>515</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-15 07:13:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-15 07:13:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-15 07:13:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-15 07:13:40]]></wp:post_modified_gmt>
+		<wp:post_id>554</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-29 13:20:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-29 13:20:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:20:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:20:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banners]]></wp:post_name>
+		<wp:post_name><![CDATA[blog-data-1-1]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/banners.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/blog-data-1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/banners.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/06/blog-data-1-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1001;s:6:"height";i:150;s:4:"file";s:19:"2024/06/banners.jpg";s:8:"filesize";i:50480;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"banners-300x45.jpg";s:5:"width";i:300;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2643;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"banners-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1336;}s:12:"medium_large";a:5:{s:4:"file";s:19:"banners-768x115.jpg";s:5:"width";i:768;s:6:"height";i:115;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8651;}s:15:"blogdata-medium";a:5:{s:4:"file";s:19:"banners-720x150.jpg";s:5:"width";i:720;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8184;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:801;s:6:"height";i:100;s:4:"file";s:25:"2024/06/blog-data-1-1.jpg";s:8:"filesize";i:36072;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:24:"blog-data-1-1-300x37.jpg";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2661;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"blog-data-1-1-150x100.jpg";s:5:"width";i:150;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1804;}s:12:"medium_large";a:5:{s:4:"file";s:24:"blog-data-1-1-768x96.jpg";s:5:"width";i:768;s:6:"height";i:96;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7917;}s:15:"blogdata-medium";a:5:{s:4:"file";s:25:"blog-data-1-1-720x100.jpg";s:5:"width";i:720;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8754;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-banners.jpg]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/banners/cropped-banners-jpg/</link>
-		<pubDate>Sat, 15 Jun 2024 07:13:47 +0000</pubDate>
+		<title><![CDATA[blog-lifestyle2]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/blog-lifestyle2/</link>
+		<pubDate>Sat, 29 Jun 2024 13:22:59 +0000</pubDate>
 		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/wp-content/uploads/2024/06/cropped-banners.jpg</guid>
+		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/blog-lifestyle2.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://demos.themeansar.com/contentup/five/wp-content/uploads/2024/06/cropped-banners.jpg]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>516</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-15 07:13:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-15 07:13:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-15 07:13:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-15 07:13:47]]></wp:post_modified_gmt>
+		<wp:post_id>556</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-29 13:22:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-29 13:22:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:22:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:22:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-banners-jpg]]></wp:post_name>
+		<wp:post_name><![CDATA[blog-lifestyle2]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>515</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/cropped-banners.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.themeansar.com/blogdata/lifestyle/wp-content/uploads/2024/06/blog-lifestyle2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/cropped-banners.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[banner-ad-image]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/06/blog-lifestyle2.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1001;s:6:"height";i:107;s:4:"file";s:27:"2024/06/cropped-banners.jpg";s:8:"filesize";i:11461;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"cropped-banners-300x32.jpg";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2561;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"cropped-banners-150x107.jpg";s:5:"width";i:150;s:6:"height";i:107;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1243;}s:12:"medium_large";a:5:{s:4:"file";s:26:"cropped-banners-768x82.jpg";s:5:"width";i:768;s:6:"height";i:82;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8009;}s:15:"blogdata-medium";a:5:{s:4:"file";s:27:"cropped-banners-720x107.jpg";s:5:"width";i:720;s:6:"height";i:107;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7657;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:245;s:6:"height";i:52;s:4:"file";s:27:"2024/06/blog-lifestyle2.png";s:8:"filesize";i:3343;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:26:"blog-lifestyle2-150x52.png";s:5:"width";i:150;s:6:"height";i:52;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1669;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4183,6 +4179,67 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/332/</link>
+		<pubDate>Tue, 23 Jan 2024 07:58:43 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/2024/01/23/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>332</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-29 13:45:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-23 07:58:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:45:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:45:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[332]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[138]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-01-23]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[The First Step to Success]]></title>
 		<link>https://demos.themeansar.com/blogdata/lifestyle/the-first-step-to-success/</link>
 		<pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
@@ -4474,452 +4531,6 @@
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[sdfsadf]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/sdfsadf/</link>
-		<pubDate>Sat, 04 May 2024 13:13:07 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/?page_id=365</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>[flexi_form id="364"]</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>365</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-04 13:13:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-04 13:13:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-04 13:13:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-04 13:13:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sdfsadf]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/466/</link>
-		<pubDate>Thu, 16 May 2024 11:21:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/?p=466</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>466</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-16 11:21:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-16 11:21:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-16 11:21:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-16 11:21:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[466]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/467/</link>
-		<pubDate>Thu, 16 May 2024 11:21:36 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/?p=467</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>467</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-16 11:21:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-16 11:21:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-16 11:21:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-16 11:21:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[467]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/home/</link>
-		<pubDate>Mon, 24 Jun 2024 11:28:51 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/five/home/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>524</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-24 11:28:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-24 11:28:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-24 11:28:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-24 11:28:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[524]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demos.themeansar.com/blogdata/five]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/525/</link>
-		<pubDate>Mon, 24 Jun 2024 11:28:51 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/five/525/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>525</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-24 11:28:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-24 11:28:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-24 11:28:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-24 11:28:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[525]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[292]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/526/</link>
-		<pubDate>Mon, 24 Jun 2024 11:28:51 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/five/526/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>526</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-24 11:28:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-24 11:28:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-24 11:28:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-24 11:28:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[526]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[294]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/527/</link>
-		<pubDate>Mon, 24 Jun 2024 11:28:51 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/five/527/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>527</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-24 11:28:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-24 11:28:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-24 11:28:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-24 11:28:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[527]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[296]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Navigation]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/navigation/</link>
-		<pubDate>Tue, 02 Jan 2024 07:42:52 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/2024/01/02/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-02 07:42:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-02 07:42:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-02 07:42:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-02 07:42:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/wp-global-styles-fameup-pro/</link>
-		<pubDate>Wed, 20 Apr 2022 09:53:51 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/fameup/default/2022/04/20/wp-global-styles-fameup-pro/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>193</wp:post_id>
-		<wp:post_date><![CDATA[2022-04-20 09:53:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-04-20 09:53:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-04-20 09:53:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-04-20 09:53:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-fameup-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="fameup-pro"><![CDATA[fameup-pro]]></category>
-						</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://demos.themeansar.com/blogdata/lifestyle/wp-global-styles-blogus-pro/</link>
-		<pubDate>Thu, 06 Oct 2022 08:12:40 +0000</pubDate>
-		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
-		<guid isPermaLink="false">https://demos.themeansar.com/blogus/default/2022/10/06/wp-global-styles-blogus-pro/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>235</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-06 08:12:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-06 08:12:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-06 08:12:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-06 08:12:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-blogus-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="blogus-pro"><![CDATA[blogus-pro]]></category>
-						</item>
 					<item>
 		<title><![CDATA[8 secrets of the French way of life: stay slim, live well.]]></title>
 		<link>https://demos.themeansar.com/blogdata/lifestyle/8-secrets-of-the-french-way-of-life-stay-slim-live-well/</link>
@@ -5376,6 +4987,228 @@
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[sdfsadf]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/sdfsadf/</link>
+		<pubDate>Sat, 04 May 2024 13:13:07 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/?page_id=365</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>[flexi_form id="364"]</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>365</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-04 13:13:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-04 13:13:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-04 13:13:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-04 13:13:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sdfsadf]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/home/</link>
+		<pubDate>Mon, 24 Jun 2024 11:28:51 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/five/home/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>524</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-29 13:45:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-24 11:28:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:45:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:45:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[524]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.themeansar.com/blogdata/five]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-24]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/contact/</link>
+		<pubDate>Sat, 29 Jun 2024 13:45:18 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/blogdata/lifestyle/contact/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>560</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-29 13:45:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-29 13:45:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-29 13:45:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-29 13:45:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[560]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/navigation/</link>
+		<pubDate>Tue, 02 Jan 2024 07:42:52 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/contentup/five/2024/01/02/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-02 07:42:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-02 07:42:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-02 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-02 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/wp-global-styles-fameup-pro/</link>
+		<pubDate>Wed, 20 Apr 2022 09:53:51 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/fameup/default/2022/04/20/wp-global-styles-fameup-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>193</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-20 09:53:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-20 09:53:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-20 09:53:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-20 09:53:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-fameup-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="fameup-pro"><![CDATA[fameup-pro]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.themeansar.com/blogdata/lifestyle/wp-global-styles-blogus-pro/</link>
+		<pubDate>Thu, 06 Oct 2022 08:12:40 +0000</pubDate>
+		<dc:creator><![CDATA[pro_blogdata]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/blogus/default/2022/10/06/wp-global-styles-blogus-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>235</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-06 08:12:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-06 08:12:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-06 08:12:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-06 08:12:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-blogus-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="blogus-pro"><![CDATA[blogus-pro]]></category>
+						</item>
 					<item>
 		<title><![CDATA[The all-encompassing Advantages of Navasana (boat pose)]]></title>
 		<link>https://demos.themeansar.com/blogdata/lifestyle/the-all-encompassing-advantages-of-ustrasana-camel-posture/</link>

@@ -1,0 +1,6 @@
+a:4:{s:8:"template";s:11:"newspaperup";s:4:"mods";a:21:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:63;}s:18:"custom_css_post_id";i:215;s:15:"banner_ad_image";i:204;s:16:"header_textcolor";s:5:"blank";s:29:"newspaperup_footer_text_color";s:7:"#ffffff";s:11:"custom_logo";i:203;s:18:"header_text_center";b:1;s:18:"header_data_enable";b:0;s:23:"enable_newspaperup_typo";b:1;s:18:"heading_fontfamily";s:4:"Jost";s:27:"newspaperup_menu_fontfamily";s:4:"Jost";s:16:"category_5_color";s:7:"#000000";s:16:"category_7_color";s:7:"#34a83d";s:16:"category_8_color";s:7:"#dd3333";s:16:"category_9_color";s:7:"#c9c42e";s:17:"category_10_color";s:7:"#bababa";s:17:"category_11_color";s:7:"#ce21a8";s:30:"newspaperup_lite_dark_switcher";b:1;s:20:"sticky_header_toggle";b:1;s:29:"select_trending_news_category";i:11;}s:7:"options";a:2:{s:9:"site_icon";s:3:"200";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:127:".dark .site-logo a.navbar-brand img {
+    filter: contrast(0) brightness(2);
+}
+footer.one .site-branding-text{
+	display:none;
+}";}

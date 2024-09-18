@@ -1,0 +1,9 @@
+a:4:{s:8:"template";s:11:"newspaperup";s:4:"mods";a:23:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:58;}s:18:"custom_css_post_id";i:224;s:21:"newspaperup_skin_mode";s:4:"dark";s:16:"header_textcolor";s:5:"blank";s:15:"banner_ad_image";i:220;s:16:"blog_post_layout";s:11:"list-layout";s:20:"side_main_logo_width";s:47:"{"desktop":"211","tablet":"200","mobile":"150"}";s:11:"custom_logo";i:219;s:30:"newspaperup_lite_dark_switcher";b:1;s:20:"sticky_header_toggle";b:1;s:16:"category_2_color";s:7:"#8224e3";s:16:"category_6_color";s:7:"#7a7a7a";s:16:"category_4_color";s:7:"#dd3333";s:16:"category_5_color";s:7:"#b71293";s:16:"category_9_color";s:7:"#35ad47";s:16:"category_8_color";s:7:"#8e5615";s:16:"category_3_color";s:7:"#961537";s:16:"category_7_color";s:7:"#ff0044";s:23:"enable_newspaperup_typo";b:1;s:18:"heading_fontfamily";s:7:"Raleway";s:27:"newspaperup_menu_fontfamily";s:7:"Raleway";s:29:"select_trending_news_category";i:8;}s:7:"options";a:2:{s:9:"site_icon";s:3:"217";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:179:".dark .site-logo a.navbar-brand img {
+    filter: none;
+}
+.site-logo a.navbar-brand img {
+    filter: contrast(0) brightness(0);
+}
+footer.one .site-branding-text{
+	display:none;
+}";}

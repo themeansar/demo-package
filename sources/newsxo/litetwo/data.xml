@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-03-05 05:54" -->
+	<!-- generator="WordPress/6.8.1" created="2025-05-08 10:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>SportXo</title>
 	<link>https://demos.themeansar.com/newsxo/litetwo</link>
 	<description></description>
-	<pubDate>Wed, 05 Mar 2025 05:54:18 +0000</pubDate>
+	<pubDate>Thu, 08 May 2025 10:42:48 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.themeansar.com/newsxo/litetwo</wp:base_site_url>
@@ -137,7 +137,7 @@
 			<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main-menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
 	<url>https://demos.themeansar.com/newsxo/litetwo/wp-content/uploads/2024/12/ficon.png</url>
@@ -988,7 +988,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-07 11:37:11]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-07 11:37:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1739,7 +1739,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-07 11:39:21]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-07 11:39:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1839,7 +1839,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-07 11:39:21]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-07 11:39:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1925,7 +1925,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:18:12]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:18:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[canadian-deputy-prime-minister-chrystia-freeland-resigns-over-spending-disagreements]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2000,7 +2000,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:17:57]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:17:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[turkey-urges-citizens-to-leave-lebanon-due-to-security-risks]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2100,7 +2100,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-17 10:11:58]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-17 10:11:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[michael-smiths-iconic-nine-dart-finish-stuns-sports-world]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2211,7 +2211,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:16:27]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:16:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[concerns-and-controversies-at-the-2024-summer-olympics]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2342,7 +2342,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-17 10:14:05]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-17 10:14:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[european-court-of-justice-scrutinizes-fifa-and-uefa-for-antitrust-violations]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2558,7 +2558,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:16:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:16:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[2024-a-year-of-dynamic-fashion-trends]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2676,7 +2676,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:15:40]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:15:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[guess-showcases-ski-collection-with-high-altitude-fashion-show]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2830,7 +2830,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:15:30]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:15:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion-as-a-reflection-of-social-movements]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2947,7 +2947,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:15:18]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:15:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[early-christmas-travel-threatened-by-series-of-storms-in-the-us]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3139,7 +3139,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:15:03]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:15:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[round-the-world-cruises-offer-unique-travel-experiences]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3291,7 +3291,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:12:49]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:12:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[europe-airports-prepare-for-busiest-ever-christmas-travel-season]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3367,7 +3367,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-07 11:37:11]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-07 11:37:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3445,7 +3445,7 @@ footer.one .site-branding-text {
 		<wp:post_modified><![CDATA[2024-12-24 09:18:21]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2024-12-24 09:18:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[south-korean-president-yoon-suk-yeol-impeached-following-martial-law-declaration]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>

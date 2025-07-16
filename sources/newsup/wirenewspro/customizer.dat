@@ -1,0 +1,15 @@
+a:4:{s:8:"template";s:10:"newsup-pro";s:4:"mods";a:51:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:7:"primary";i:17;s:6:"footer";i:17;}s:18:"custom_css_post_id";i:292;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1752650702;s:4:"data";a:3:{s:19:"wp_inactive_widgets";a:0:{}s:9:"sidebar-1";a:3:{i:0;s:7:"block-2";i:1;s:7:"block-3";i:2;s:7:"block-4";}s:9:"sidebar-2";a:2:{i:0;s:7:"block-5";i:1;s:7:"block-6";}}}s:23:"newsup_own_color_enable";b:1;s:14:"own_skin_color";s:7:"#ff001b";s:22:"show_main_news_section";b:1;s:20:"newsup_slider_layout";s:11:"newspaperex";s:18:"header_menu_layout";s:4:"four";s:17:"popular_tab_title";s:7:"Popular";s:18:"newsup_theme_style";s:9:"black.css";s:27:"newsup_theme_layout_options";s:5:"boxed";s:11:"custom_logo";i:267;s:16:"header_textcolor";s:5:"blank";s:21:"newsup_header_fb_link";s:1:"#";s:22:"newsup_header_twt_link";s:1:"#";s:23:"newsup_header_lnkd_link";s:1:"#";s:24:"newsup_header_insta_link";s:1:"#";s:26:"newsup_header_youtube_link";s:1:"#";s:27:"newsup_header_pintrest_link";s:1:"#";s:23:"newsup_header_tele_link";s:1:"#";s:27:"newsup_header_overlay_color";s:7:"#111111";s:24:"newsup_footer_logo_width";s:3:"250";s:24:"footer_site_title_enable";b:0;s:27:"newsup_footer_overlay_color";s:7:"#111111";s:21:"newsup_footer_fb_link";s:1:"#";s:22:"newsup_footer_twt_link";s:1:"#";s:23:"newsup_footer_lnkd_link";s:1:"#";s:24:"newsup_footer_insta_link";s:1:"#";s:26:"newsup_footer_youtube_link";s:1:"#";s:28:"newsup_footer_pinterest_link";s:1:"#";s:23:"newsup_footer_tele_link";s:1:"#";s:21:"tab_section_cc_enable";b:1;s:9:"tab_color";s:0:"";s:19:"active_tab_bg_color";s:7:"#ff001b";s:16:"tab_bordor_color";s:0:"";s:23:"active_tab_bordor_color";s:0:"";s:13:"slider_number";s:1:"8";s:12:"slider_speed";s:4:"4000";s:16:"active_tab_color";s:7:"#ffffff";s:16:"toptag_cc_enable";b:1;s:13:"tags_bg_color";s:7:"#111111";s:22:"enable_meta_typography";s:0:"";s:15:"meta_fontfamily";s:5:"Kadwa";s:13:"icon_bg_color";s:0:"";s:17:"header_options_cc";b:1;s:21:"newsup_footer_copy_bg";s:7:"#111111";s:28:"newsup_enable_related_slider";b:1;s:26:"newsup_related_number_post";i:5;s:10:"time_color";s:7:"#ffffff";s:13:"time_bg_color";s:7:"#ff001b";}s:7:"options";a:2:{s:9:"site_icon";s:3:"268";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:336:"h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6{
+	font-family: 'Josefin Sans', sans-serif
+}
+.dark .mg-blog-post-box .mg-header h1:hover{
+	color:#fff;
+}
+.mg-author .rounded-circle{
+	object-fit:cover;
+}
+.mg-fea-area .top-right-area .mg-posts-sec-inner img {
+    border-radius: 50px;
+}
+.mg-fea-area .col-md-3 + .col-md-6{
+	order:-1;
+}";}

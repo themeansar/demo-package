@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.2" created="2025-07-29 10:55" -->
+	<!-- generator="WordPress/6.8.2" created="2025-08-27 13:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Newsup lite</title>
 	<link>https://newsup.themeansar.com/lite</link>
 	<description></description>
-	<pubDate>Tue, 29 Jul 2025 10:55:44 +0000</pubDate>
+	<pubDate>Wed, 27 Aug 2025 13:24:50 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://newsup.themeansar.com/lite</wp:base_site_url>

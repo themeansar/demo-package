@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-04-12 08:20" -->
+	<!-- generator="WordPress/6.8.3" created="2025-11-11 11:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Newsup</title>
 	<link>https://newsup.themeansar.com/default</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 12 Apr 2023 08:20:00 +0000</pubDate>
+	<pubDate>Tue, 11 Nov 2025 11:01:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://newsup.themeansar.com/default</wp:base_site_url>
@@ -594,7 +594,7 @@
 	<wp:term><wp:term_id>31</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 
 <image>
 	<url>https://newsup.themeansar.com/default/wp-content/uploads/2020/01/favicon-4.png</url>
@@ -1992,7 +1992,7 @@
 		<wp:meta_value><![CDATA[main-banner-section-background-image]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_ca61155c2813a1474ece3f93d7d1f5cb]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_oembed_1818d772e376e40829a0c32feb24b210]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -2003,21 +2003,13 @@
 		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/2020/01/22/newsup-pro/</guid>
 		<description></description>
-		<content:encoded><![CDATA[.mg-posts-sec.mg-posts-modul-3 {
-    margin-bottom: 60px;
-}
-
-.iscwp-gallery-slider .slick-dots{display: none !important;}
-.iscwp-gallery-slider .iscwp-cnt-wrp.slick-slide {
-    padding: 0;
-	width: 328px !important;
-}]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-22 12:42:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-01-22 12:42:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-22 12:42:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-22 12:42:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 06:20:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 06:20:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsup-pro]]></wp:post_name>
@@ -2075,10 +2067,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>162</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[162]]></wp:post_name>
@@ -2121,6 +2113,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2132,10 +2128,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>163</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[163]]></wp:post_name>
@@ -2178,6 +2174,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2189,10 +2189,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>164</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[164]]></wp:post_name>
@@ -2235,6 +2235,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2246,10 +2250,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>165</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[165]]></wp:post_name>
@@ -2292,6 +2296,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2303,10 +2311,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>166</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[166]]></wp:post_name>
@@ -2349,6 +2357,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2360,10 +2372,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>167</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[167]]></wp:post_name>
@@ -2406,6 +2418,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2417,10 +2433,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>168</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[168]]></wp:post_name>
@@ -2463,6 +2479,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2474,10 +2494,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>169</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[169]]></wp:post_name>
@@ -2520,6 +2540,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2531,10 +2555,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>170</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[170]]></wp:post_name>
@@ -2577,6 +2601,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2588,10 +2616,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>171</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[171]]></wp:post_name>
@@ -2634,6 +2662,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2645,10 +2677,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>172</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[172]]></wp:post_name>
@@ -2691,6 +2723,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2702,10 +2738,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>173</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[173]]></wp:post_name>
@@ -2748,6 +2784,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2759,10 +2799,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>174</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[174]]></wp:post_name>
@@ -2805,6 +2845,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2816,10 +2860,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>177</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:14]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[177]]></wp:post_name>
@@ -2862,91 +2906,38 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/178/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>178</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[178]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>3</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[172]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/179/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
+		<link>https://newsup.themeansar.com/default/198/</link>
+		<pubDate>Mon, 28 Sep 2020 09:27:16 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/198/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>179</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_modified_gmt>
+		<wp:post_id>198</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-28 09:27:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:27:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[179]]></wp:post_name>
+		<wp:post_name><![CDATA[198]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
@@ -2954,11 +2945,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		<wp:meta_value><![CDATA[57]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2979,43 +2970,100 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/180/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
+		<link>https://newsup.themeansar.com/default/199/</link>
+		<pubDate>Mon, 28 Sep 2020 09:27:16 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/199/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>180</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_modified_gmt>
+		<wp:post_id>199</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-28 09:27:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:27:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[180]]></wp:post_name>
+		<wp:post_name><![CDATA[199]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[179]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[138]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/default/200/</link>
+		<pubDate>Mon, 28 Sep 2020 09:27:16 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/200/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>200</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-28 09:27:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-28 09:27:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[200]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[140]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -3104,425 +3152,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Make Realtionship Years Lights Fill Kind In USA]]></title>
-		<link>https://newsup.themeansar.com/default/make-realtionship-years-lights-fill-kind-in-usa/</link>
-		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p> Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus. </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:22:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:22:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[make-realtionship-years-lights-fill-kind-in-usa]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="health"><![CDATA[Health]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://newsup.themeansar.com/default/</link>
-		<pubDate>Sun, 12 Jan 2020 16:49:43 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?page_id=50</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:49:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:49:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:49:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:49:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[templates/template-frontpage.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[About]]></title>
-		<link>https://newsup.themeansar.com/default/about/</link>
-		<pubDate>Wed, 26 Feb 2020 09:19:01 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=138</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>O my friend -- but it is too much for my strength -- I sink under the weight of the splendour of these visions! A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>138</wp:post_id>
-		<wp:post_date><![CDATA[2020-02-26 09:19:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-02-26 09:19:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-02-26 09:19:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-02-26 09:19:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact]]></title>
-		<link>https://newsup.themeansar.com/default/contact/</link>
-		<pubDate>Wed, 26 Feb 2020 09:19:18 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=140</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>140</wp:post_id>
-		<wp:post_date><![CDATA[2020-02-26 09:19:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-02-26 09:19:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-02-26 09:19:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-02-26 09:19:18]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/181/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>181</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[181]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[179]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/182/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>182</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[182]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[179]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/183/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>183</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[183]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[179]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/184/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>184</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[184]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>24</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[140]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Gallery]]></title>
-		<link>https://newsup.themeansar.com/default/gallery/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:15 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/gallery/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>195</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:15]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gallery]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[195]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3765,6 +3394,674 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Make Realtionship Years Lights Fill Kind In USA]]></title>
+		<link>https://newsup.themeansar.com/default/make-realtionship-years-lights-fill-kind-in-usa/</link>
+		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p> Aenean feugiat purus vitae sollicitudin laoreet. Duis fringilla ligula vel velit lacinia, in mattis felis consectetur. Sed at pretium orci. Ut tempus libero odio, sit amet consequat neque pretium ut. Integer hendrerit mauris nec odio auctor suscipit. Proin porttitor turpis vitae ligula dictum, a sollicitudin purus congue. Nulla viverra nisi ex, ut ornare tellus cursus quis. Nulla posuere tincidunt leo at condimentum. Sed egestas tortor a nisi fringilla, id cursus odio rhoncus. </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:22:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:22:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[make-realtionship-years-lights-fill-kind-in-usa]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://newsup.themeansar.com/default/</link>
+		<pubDate>Sun, 12 Jan 2020 16:49:43 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?page_id=50</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:49:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:49:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-12 16:49:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-12 16:49:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[templates/template-frontpage.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://newsup.themeansar.com/default/about/</link>
+		<pubDate>Wed, 26 Feb 2020 09:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=138</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>O my friend -- but it is too much for my strength -- I sink under the weight of the splendour of these visions! A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>138</wp:post_id>
+		<wp:post_date><![CDATA[2020-02-26 09:19:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-02-26 09:19:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:19:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:19:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://newsup.themeansar.com/default/contact/</link>
+		<pubDate>Wed, 26 Feb 2020 09:19:18 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?page_id=140</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>140</wp:post_id>
+		<wp:post_date><![CDATA[2020-02-26 09:19:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-02-26 09:19:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-26 09:19:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-26 09:19:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/default/178/</link>
+		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>178</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[178]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>3</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[172]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/default/179/</link>
+		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>179</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[179]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>16</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/default/180/</link>
+		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>180</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[180]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>5</wp:post_parent>
+		<wp:menu_order>17</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[179]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/default/181/</link>
+		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>181</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[181]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>5</wp:post_parent>
+		<wp:menu_order>18</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[179]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/default/182/</link>
+		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>182</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[182]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>5</wp:post_parent>
+		<wp:menu_order>19</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[179]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/default/183/</link>
+		<pubDate>Mon, 28 Sep 2020 09:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>183</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[183]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>5</wp:post_parent>
+		<wp:menu_order>20</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[179]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://newsup.themeansar.com/default/sample-page/</link>
+		<pubDate>Tue, 04 Mar 2025 04:57:48 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/?page_id=247</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://wptest.local/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>247</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 04:57:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-04 04:57:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 04:57:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 04:57:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/default/249/</link>
+		<pubDate>Tue, 04 Mar 2025 04:59:25 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/?p=249</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>249</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-04 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[249]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>22</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[247]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/default/250/</link>
+		<pubDate>Tue, 04 Mar 2025 05:03:16 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/default/?p=250</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>250</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 05:03:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 05:03:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 05:03:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[250]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>21</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Cargo industry welcome foreign investment]]></title>
 		<link>https://newsup.themeansar.com/default/cargo-industry-welcome-foreign-investment/</link>
 		<pubDate>Sun, 12 Jan 2020 16:34:05 +0000</pubDate>
@@ -3794,177 +4091,6 @@
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/198/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:16 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/198/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>198</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[198]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/199/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:16 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/199/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>199</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[199]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[138]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/default/200/</link>
-		<pubDate>Mon, 28 Sep 2020 09:27:16 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/default/2020/09/28/200/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>200</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-28 09:27:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-28 09:27:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-28 09:27:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[200]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[140]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

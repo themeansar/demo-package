@@ -1,0 +1,6 @@
+a:4:{s:8:"template";s:6:"newsup";s:4:"mods";a:16:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:27;}s:18:"custom_css_post_id";i:810;s:11:"custom_logo";i:796;s:16:"header_textcolor";s:5:"blank";s:24:"newsup_center_logo_title";b:0;s:26:"newsup_date_time_show_type";s:22:"wordpress_date_setting";s:21:"newsup_header_fb_link";s:1:"#";s:22:"newsup_header_twt_link";s:1:"#";s:23:"newsup_header_lnkd_link";s:1:"#";s:26:"newsup_header_youtube_link";s:1:"#";s:27:"newsup_header_pintrest_link";s:1:"#";s:23:"newsup_header_tele_link";s:1:"#";s:17:"newsup_subsc_link";s:1:"#";s:24:"newsup_header_insta_link";s:1:"#";s:28:"banner_advertisement_section";i:832;}s:7:"options";a:2:{s:9:"site_icon";s:3:"800";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:107:".small-post-content h5 a{
+	color: #212121;
+}
+a.newsup-categories.category-color-2 {
+	background: #1151d3;
+}";}

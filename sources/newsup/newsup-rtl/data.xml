@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-04-12 09:14" -->
+	<!-- generator="WordPress/6.8.3" created="2025-11-27 07:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Arabi</title>
 	<link>https://newsup.themeansar.com/arabi</link>
 	<description></description>
-	<pubDate>Wed, 12 Apr 2023 09:14:59 +0000</pubDate>
+	<pubDate>Thu, 27 Nov 2025 07:19:44 +0000</pubDate>
 	<language>ar</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://newsup.themeansar.com/arabi</wp:base_site_url>
@@ -288,12 +288,313 @@
 		<wp:tag_slug><![CDATA[world]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[world]]></wp:tag_name>
 	</wp:tag>
-				<wp:term><wp:term_id>32</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[Footer]]></wp:term_name>
+			<wp:term>
+		<wp:term_id>23</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[business]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Business]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>24</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[cinema]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[cinema]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[economy]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Economy]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#388e3c]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[entertainment]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[ENTERTAINMENT]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#82bc3a]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>32</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Footer]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[gaming]]></wp:term_slug>
+		<wp:term_parent><![CDATA[entertainment]]></wp:term_parent>
+		<wp:term_name><![CDATA[Gaming]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#b23737]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>25</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[health]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[health]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>26</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[helth]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[helth]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Lifestyle]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#8c8c8c]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[movie]]></wp:term_slug>
+		<wp:term_parent><![CDATA[entertainment]]></wp:term_parent>
+		<wp:term_name><![CDATA[Movie]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#b59338]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[music]]></wp:term_slug>
+		<wp:term_parent><![CDATA[entertainment]]></wp:term_parent>
+		<wp:term_name><![CDATA[Music]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#8c8c8c]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[news]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[News]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#ba0157]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[politics]]></wp:term_slug>
+		<wp:term_parent><![CDATA[news]]></wp:term_parent>
+		<wp:term_name><![CDATA[Politics]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#f70d28]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>33</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[primary]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[primary]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[science]]></wp:term_slug>
+		<wp:term_parent><![CDATA[news]]></wp:term_parent>
+		<wp:term_name><![CDATA[Science]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#cd0be2]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>27</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[sport]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[sport]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[sports]]></wp:term_slug>
+		<wp:term_parent><![CDATA[entertainment]]></wp:term_parent>
+		<wp:term_name><![CDATA[Sports]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#81d742]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[tech]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Tech]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#dd9933]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>13</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
+		<wp:term_parent><![CDATA[lifestyle]]></wp:term_parent>
+		<wp:term_name><![CDATA[Travel]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#0097a7]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>28</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[travel]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>1</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>14</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[world]]></wp:term_slug>
+		<wp:term_parent><![CDATA[news]]></wp:term_parent>
+		<wp:term_name><![CDATA[World]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#dd3333]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>29</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[world]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[world]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>15</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[apps]]></wp:term_slug>
+		<wp:term_parent><![CDATA[tech]]></wp:term_parent>
+		<wp:term_name><![CDATA[Apps]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#a5a801]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>16</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[business]]></wp:term_slug>
+		<wp:term_parent><![CDATA[news]]></wp:term_parent>
+		<wp:term_name><![CDATA[Business]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#ba9f09]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>17</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[fashion]]></wp:term_slug>
+		<wp:term_parent><![CDATA[lifestyle]]></wp:term_parent>
+		<wp:term_name><![CDATA[Fashion]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#8c8c8c]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[food]]></wp:term_slug>
+		<wp:term_parent><![CDATA[lifestyle]]></wp:term_parent>
+		<wp:term_name><![CDATA[Food]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#8c8c8c]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[gadget]]></wp:term_slug>
+		<wp:term_parent><![CDATA[tech]]></wp:term_parent>
+		<wp:term_name><![CDATA[Gadget]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#8901bf]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[health]]></wp:term_slug>
+		<wp:term_parent><![CDATA[lifestyle]]></wp:term_parent>
+		<wp:term_name><![CDATA[Health]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#512da8]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[mobile]]></wp:term_slug>
+		<wp:term_parent><![CDATA[tech]]></wp:term_parent>
+		<wp:term_name><![CDATA[Mobile]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#02c0ce]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>22</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[startup]]></wp:term_slug>
+		<wp:term_parent><![CDATA[tech]]></wp:term_parent>
+		<wp:term_name><![CDATA[Startup]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[category_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#ba0157]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+			<wp:term><wp:term_id>32</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[Footer]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>33</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 
 <image>
 	<url>https://newsup.themeansar.com/arabi/wp-content/uploads/2020/01/favicon.png</url>
@@ -302,7 +603,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-
+<site xmlns="com-wordpress:feed-additions:1">180616661</site>
 		<item>
 		<title><![CDATA[blog8]]></title>
 		<link>https://newsup.themeansar.com/arabi/?attachment_id=9</link>
@@ -796,10 +1097,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1963;s:4:"file";s:20:"2020/01/pattern1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:20:"pattern1-300x288.jpg";s:5:"width";i:300;s:6:"height";i:288;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"pattern1-1024x982.jpg";s:5:"width";i:1024;s:6:"height";i:982;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"pattern1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"pattern1-768x736.jpg";s:5:"width";i:768;s:6:"height";i:736;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:22:"pattern1-1536x1472.jpg";s:5:"width";i:1536;s:6:"height";i:1472;s:9:"mime-type";s:10:"image/jpeg";}s:18:"newsup-slider-full";a:4:{s:4:"file";s:21:"pattern1-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsup-featured";a:4:{s:4:"file";s:21:"pattern1-1024x982.jpg";s:5:"width";i:1024;s:6:"height";i:982;s:9:"mime-type";s:10:"image/jpeg";}s:13:"newsup-medium";a:4:{s:4:"file";s:20:"pattern1-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_envato_image_source]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://wp.envatoextensions.com/kit-139/wp-content/uploads/sites/142/2018/11/pattern1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_envato_image_source]]></wp:meta_key>
@@ -2710,39 +3007,60 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Default Kit]]></title>
-		<link>https://newsup.themeansar.com/arabi/?elementor_library=default-kit</link>
-		<pubDate>Fri, 28 Aug 2020 15:45:49 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/arabi/?elementor_library=default-kit</guid>
+		<title><![CDATA[]]></title>
+		<link>https://newsup.themeansar.com/arabi/?p=180</link>
+		<pubDate>Thu, 23 Jul 2020 13:08:28 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://newsup.themeansar.com/arabi/?p=180</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>235</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-28 15:45:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-28 15:45:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-08-28 15:45:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-08-28 15:45:49]]></wp:post_modified_gmt>
+		<wp:post_id>180</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-23 13:08:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-23 13:08:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-23 13:08:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-23 13:08:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:post_name><![CDATA[180]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_parent>5</wp:post_parent>
+		<wp:menu_order>17</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[179]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:10:"أساسي";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:8:"فرعي";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:8:"النص";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:10:"أملاء";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:6:"36e2f5";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:7:"7cd6237";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:8:"36966536";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:8:"580d9fc1";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:33:"العنوان الابتدائي";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:29:"العنوان الثانوي";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:15:"نص الجسم";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:17:"لهجة النص";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3075,6 +3393,82 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[عن الا وقرى أخرى الصفحة. وسفن سقطت تغييرات تم نفس, أفاق الصينية]]></title>
+		<link>https://newsup.themeansar.com/arabi/?p=28</link>
+		<pubDate>Sun, 12 Jan 2020 16:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=28</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>حلّت وشعار تم الا, اللا الثانية شموليةً ما أما, نقطة أكثر ما كلّ. عل ٠٨٠٤ بأيدي مكن, كردة أساسي و قام. لان أم دخول اليها. سقطت تكاليف الأراضي يبق إذ, دنو ثم فبعد بمباركة. وتم مئات تكتيكاً الخاصّة و.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>حتى ان عرفها اتفاقية, أي حدى لعملة الإطلاق. الإثنان ولكسمبورغ بين ما. وفرنسا سليمان، تم فعل, جهة و علاقة الستار. الفترة الأهداف ٣٠ وقد, العناد وأكثرها قد جعل, في حصدت الأحمر دون. هذه تسمّى والكوري مع, ٣٠ وصل سبتمبر والمانيا.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>بخطوط علاقة به، ان, أي لها دأبوا عملية الإحتفاظ. أي أوروبا الضغوط بها, نفس تغييرات الدنمارك هو, الأرض تغييرات ٣٠ تلك. شيء يقوم انذار الإتفاقية قد, بسبب النفط وحلفاؤها ومن ان. حيث إذ وانهاء مكثّفة, قامت بالفشل وفي أي, أما الشتاء أوروبا في. عل سقطت الثقيل وباستثناء يتم, اليابان الإحتفاظ نفس بـ.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>قبل ان مسرح وتنامت الإثنان. الضروري الدّفاع ماليزيا، قام ٣٠, جورج بقسوة ويتّفق هذه قد, الأرضية البشريةً كلا بـ. عرض أن أسابيع وفرنسا, غير تم حكومة إعمار وتتحمّل, جنوب المؤلّفة ثم دنو. اكتوبر الطريق كل وفي. القوى تكتيكاً اليابان، تم الا. بشرية مسارح فشكّل عن حول.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>لدحر شواطيء الفرنسي هذا إذ. بل الأراضي الموسوعة ذلك, من قبل أحكم بشرية بقيادة. بها كل تاريخ ويكيبيديا،, لم به، ٠٨٠٤ للسيطرة, مع رجوعهم سنغافورة تلك. ذات ٣٠ لغزو مليارات الأرضية, تم أسيا الحكومة وقد. بل يتبقّ مليارات حول, ميناء الثالث، ذلك كل.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>إذ ووصف الأسيوي استطاعوا بال, عن انتباه تشيكوسلوفاكيا ضرب. التي مليارات الولايات كل حيث, منتصف لأداء تشيكوسلوفاكيا جهة عل. بقعة مشروط تم بال, إذ ذات بلاده استبدال. أراض جسيمة الأرض الا ثم, في دول أحدث عرفها الخاصّة, لم كان هنا؟ وإيطالي. أن نفس لفشل اكتوبر, كانتا وإعلان يتم ان. ثم نفس حادثة وبداية, قتيل، الحكومة أخر أي.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>كل أخر تصفح حلّت, ٣٠ ويعزى الخاصّة الأمريكي كان. جهة مع بتحدّي مسؤولية, مسارح الفرنسي حيث في, كل ليركز وحرمان هذا. قادة تنفّس حكومة إيو كل, قبل شعار بأيدي كل. بل دار خلاف بداية, كلّ بل ترتيب الإتحاد للإتحاد, جعل أسيا الساحل اوروبا ان. أي الأولى مهمّات نفس, أم مما شواطيء يتعلّق, التي وبدون يتسنّى ما وفي.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>يذكر الأمم الإمداد لم بال, وبعض طوكيو تم أخذ, على أم أكثر بمحاولة. اقتصادية تشيكوسلوفاكيا كلا ٣٠. أم وصل لفرنسا والديون. لأداء أجزاء إذ تعد, دول هو لأداء مساعدة الإقتصادي.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>فقد الأول ا الضروري أم. ما تنفّس تحرير جعل, السيء بريطانيا، تعد ما. تم قامت الأخذ الشمال الا, بين عل حصدت قررت فكانت. عن الا وقرى أخرى الصفحة. وسفن سقطت تغييرات تم نفس, أفاق الصينية التجارية الى و.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>و لمحاكم بالجانب بلا, عن وبحلول المحيط دار. لم مكن حقول العصبة بالسيطرة, السيء الثقيلة مكن هو, يكن وتزويده ايطاليا، عل. العالمي الخاسرة الرئيسية دول بل. مدن بـ أوروبا الخاسرة, الوراء لليابان من قام. ميناء المدن مشاركة وتم عل.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 16:27:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-28 08:07:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-28 08:07:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[have-is-days-together-meat-fill-for-give-youre]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="economy"><![CDATA[Economy]]></category>
+		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[في دول أحدث عرفها الخاصّة, لم كان هنا؟ وإيطالي. أن نفس لفشل اكتوبر, كانتا وإعلان]]></title>
 		<link>https://newsup.themeansar.com/arabi/?p=56</link>
 		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
@@ -3332,63 +3726,6 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://newsup.themeansar.com/arabi/?p=180</link>
-		<pubDate>Thu, 23 Jul 2020 13:08:28 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://newsup.themeansar.com/arabi/?p=180</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>180</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-23 13:08:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-23 13:08:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-23 13:08:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-23 13:08:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[180]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[179]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3845,82 +4182,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[عن الا وقرى أخرى الصفحة. وسفن سقطت تغييرات تم نفس, أفاق الصينية]]></title>
-		<link>https://newsup.themeansar.com/arabi/?p=28</link>
-		<pubDate>Sun, 12 Jan 2020 16:27:55 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newsup]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=28</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p> </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>حلّت وشعار تم الا, اللا الثانية شموليةً ما أما, نقطة أكثر ما كلّ. عل ٠٨٠٤ بأيدي مكن, كردة أساسي و قام. لان أم دخول اليها. سقطت تكاليف الأراضي يبق إذ, دنو ثم فبعد بمباركة. وتم مئات تكتيكاً الخاصّة و.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>حتى ان عرفها اتفاقية, أي حدى لعملة الإطلاق. الإثنان ولكسمبورغ بين ما. وفرنسا سليمان، تم فعل, جهة و علاقة الستار. الفترة الأهداف ٣٠ وقد, العناد وأكثرها قد جعل, في حصدت الأحمر دون. هذه تسمّى والكوري مع, ٣٠ وصل سبتمبر والمانيا.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>بخطوط علاقة به، ان, أي لها دأبوا عملية الإحتفاظ. أي أوروبا الضغوط بها, نفس تغييرات الدنمارك هو, الأرض تغييرات ٣٠ تلك. شيء يقوم انذار الإتفاقية قد, بسبب النفط وحلفاؤها ومن ان. حيث إذ وانهاء مكثّفة, قامت بالفشل وفي أي, أما الشتاء أوروبا في. عل سقطت الثقيل وباستثناء يتم, اليابان الإحتفاظ نفس بـ.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>قبل ان مسرح وتنامت الإثنان. الضروري الدّفاع ماليزيا، قام ٣٠, جورج بقسوة ويتّفق هذه قد, الأرضية البشريةً كلا بـ. عرض أن أسابيع وفرنسا, غير تم حكومة إعمار وتتحمّل, جنوب المؤلّفة ثم دنو. اكتوبر الطريق كل وفي. القوى تكتيكاً اليابان، تم الا. بشرية مسارح فشكّل عن حول.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>لدحر شواطيء الفرنسي هذا إذ. بل الأراضي الموسوعة ذلك, من قبل أحكم بشرية بقيادة. بها كل تاريخ ويكيبيديا،, لم به، ٠٨٠٤ للسيطرة, مع رجوعهم سنغافورة تلك. ذات ٣٠ لغزو مليارات الأرضية, تم أسيا الحكومة وقد. بل يتبقّ مليارات حول, ميناء الثالث، ذلك كل.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>إذ ووصف الأسيوي استطاعوا بال, عن انتباه تشيكوسلوفاكيا ضرب. التي مليارات الولايات كل حيث, منتصف لأداء تشيكوسلوفاكيا جهة عل. بقعة مشروط تم بال, إذ ذات بلاده استبدال. أراض جسيمة الأرض الا ثم, في دول أحدث عرفها الخاصّة, لم كان هنا؟ وإيطالي. أن نفس لفشل اكتوبر, كانتا وإعلان يتم ان. ثم نفس حادثة وبداية, قتيل، الحكومة أخر أي.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>كل أخر تصفح حلّت, ٣٠ ويعزى الخاصّة الأمريكي كان. جهة مع بتحدّي مسؤولية, مسارح الفرنسي حيث في, كل ليركز وحرمان هذا. قادة تنفّس حكومة إيو كل, قبل شعار بأيدي كل. بل دار خلاف بداية, كلّ بل ترتيب الإتحاد للإتحاد, جعل أسيا الساحل اوروبا ان. أي الأولى مهمّات نفس, أم مما شواطيء يتعلّق, التي وبدون يتسنّى ما وفي.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>يذكر الأمم الإمداد لم بال, وبعض طوكيو تم أخذ, على أم أكثر بمحاولة. اقتصادية تشيكوسلوفاكيا كلا ٣٠. أم وصل لفرنسا والديون. لأداء أجزاء إذ تعد, دول هو لأداء مساعدة الإقتصادي.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>فقد الأول ا الضروري أم. ما تنفّس تحرير جعل, السيء بريطانيا، تعد ما. تم قامت الأخذ الشمال الا, بين عل حصدت قررت فكانت. عن الا وقرى أخرى الصفحة. وسفن سقطت تغييرات تم نفس, أفاق الصينية التجارية الى و.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>و لمحاكم بالجانب بلا, عن وبحلول المحيط دار. لم مكن حقول العصبة بالسيطرة, السيء الثقيلة مكن هو, يكن وتزويده ايطاليا، عل. العالمي الخاسرة الرئيسية دول بل. مدن بـ أوروبا الخاسرة, الوراء لليابان من قام. ميناء المدن مشاركة وتم عل.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:27:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-07-28 08:07:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-07-28 08:07:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[have-is-days-together-meat-fill-for-give-youre]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="economy"><![CDATA[Economy]]></category>
-		<category domain="category" nicename="health"><![CDATA[Health]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

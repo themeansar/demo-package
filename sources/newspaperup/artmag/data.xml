@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2024-09-18 10:34" -->
+	<!-- generator="WordPress/7.0" created="2026-06-11 10:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Creator Mag</title>
 	<link>https://demos.themeansar.com/newspaperup/artmag</link>
 	<description></description>
-	<pubDate>Wed, 18 Sep 2024 10:34:28 +0000</pubDate>
+	<pubDate>Thu, 11 Jun 2026 10:23:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.themeansar.com/newspaperup/artmag</wp:base_site_url>
@@ -543,6 +543,13 @@
 		<wp:term_name><![CDATA[Mood]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>51</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[newspaperup-pro]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[newspaperup-pro]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>36</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[overall]]></wp:term_slug>
@@ -660,6 +667,13 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>47</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[typography]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Typography]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[typography]]></wp:term_slug>
@@ -669,13 +683,6 @@
 			<wp:meta_key><![CDATA[category-image-id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[248]]></wp:meta_value>
 		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>47</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[typography]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Typography]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>1</wp:term_id>
@@ -694,7 +701,7 @@
 			<wp:term><wp:term_id>50</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=7.0</generator>
 
 <image>
 	<url>https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/08/art.png</url>
@@ -706,7 +713,7 @@
 
 		<item>
 		<title><![CDATA[2]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/attachment/2/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/attachment/2/</link>
 		<pubDate>Wed, 15 May 2024 13:55:28 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/2.webp</guid>
@@ -739,7 +746,7 @@
 							</item>
 					<item>
 		<title><![CDATA[4]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/develop-a-list-of-keywords-and-concepts-related-to-the-brand/attachment/4/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/develop-a-list-of-keywords-and-concepts-related-to-the-brand/attachment/4/</link>
 		<pubDate>Wed, 15 May 2024 13:57:51 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/4.webp</guid>
@@ -772,7 +779,7 @@
 							</item>
 					<item>
 		<title><![CDATA[3]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/deliver-the-final-design-files-to-stakeholders-or-clients/attachment/3/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/deliver-the-final-design-files-to-stakeholders-or-clients/attachment/3/</link>
 		<pubDate>Wed, 15 May 2024 13:58:15 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/3.webp</guid>
@@ -805,7 +812,7 @@
 							</item>
 					<item>
 		<title><![CDATA[1]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/provide-guidelines-for-using-the-logo-effectively/1-2/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/provide-guidelines-for-using-the-logo-effectively/1-2/</link>
 		<pubDate>Wed, 15 May 2024 13:58:43 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/1.webp</guid>
@@ -838,7 +845,7 @@
 							</item>
 					<item>
 		<title><![CDATA[5]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/color-palette-selection-contrast-and-harmony/attachment/5/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/color-palette-selection-contrast-and-harmony/attachment/5/</link>
 		<pubDate>Thu, 16 May 2024 05:54:13 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/5.webp</guid>
@@ -871,7 +878,7 @@
 							</item>
 					<item>
 		<title><![CDATA[8]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/attachment/8/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/attachment/8/</link>
 		<pubDate>Thu, 16 May 2024 05:55:41 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/8.webp</guid>
@@ -904,7 +911,7 @@
 							</item>
 					<item>
 		<title><![CDATA[11]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/attachment/11/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/attachment/11/</link>
 		<pubDate>Thu, 16 May 2024 06:01:12 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/11.webp</guid>
@@ -937,7 +944,7 @@
 							</item>
 					<item>
 		<title><![CDATA[10]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/brainstorm-different-concepts-and-variations/attachment/10/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/brainstorm-different-concepts-and-variations/attachment/10/</link>
 		<pubDate>Thu, 16 May 2024 06:02:34 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/10.webp</guid>
@@ -970,7 +977,7 @@
 							</item>
 					<item>
 		<title><![CDATA[6]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/identify-the-key-message-and-personality-of-the-brand/attachment/6/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/identify-the-key-message-and-personality-of-the-brand/attachment/6/</link>
 		<pubDate>Thu, 16 May 2024 06:06:26 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/6.webp</guid>
@@ -1003,7 +1010,7 @@
 							</item>
 					<item>
 		<title><![CDATA[7]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/create-high-resolution-files-for-various-applications/attachment/7/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/create-high-resolution-files-for-various-applications/attachment/7/</link>
 		<pubDate>Thu, 16 May 2024 06:08:35 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/7.webp</guid>
@@ -1036,7 +1043,7 @@
 							</item>
 					<item>
 		<title><![CDATA[9]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/9/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/9/</link>
 		<pubDate>Thu, 16 May 2024 06:11:16 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/9.webp</guid>
@@ -1069,7 +1076,7 @@
 							</item>
 					<item>
 		<title><![CDATA[13]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/13/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/gather-feedback-and-incorporate-revisions-to-improve-the-design/attachment/13/</link>
 		<pubDate>Thu, 16 May 2024 06:54:09 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/13.webp</guid>
@@ -1102,7 +1109,7 @@
 							</item>
 					<item>
 		<title><![CDATA[15]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/typography-font-choice-size-and-spacing/attachment/15/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/typography-font-choice-size-and-spacing/attachment/15/</link>
 		<pubDate>Thu, 16 May 2024 06:55:20 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/15.webp</guid>
@@ -1135,7 +1142,7 @@
 							</item>
 					<item>
 		<title><![CDATA[12]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/select-the-most-promising-ideas-and-refine-them/attachment/12/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/select-the-most-promising-ideas-and-refine-them/attachment/12/</link>
 		<pubDate>Thu, 16 May 2024 06:56:39 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/12.webp</guid>
@@ -1168,7 +1175,7 @@
 							</item>
 					<item>
 		<title><![CDATA[16]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/create-rough-sketches-of-ideas-based-on-the-research-and-planning/attachment/16/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/create-rough-sketches-of-ideas-based-on-the-research-and-planning/attachment/16/</link>
 		<pubDate>Thu, 16 May 2024 06:57:23 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/16.webp</guid>
@@ -1201,7 +1208,7 @@
 							</item>
 					<item>
 		<title><![CDATA[14]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/define-the-brands-mission-values-and-target-audience/attachment/14/</link>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/define-the-brands-mission-values-and-target-audience/attachment/14/</link>
 		<pubDate>Thu, 16 May 2024 06:58:20 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/wp-content/uploads/2024/05/14.webp</guid>
@@ -2221,8 +2228,8 @@
 														</item>
 					<item>
 		<title><![CDATA[Define the Brand's Mission, Values, and Target audience]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/define-the-brands-mission-values-and-target-audience/</link>
-		<pubDate>Wed, 15 May 2024 11:12:31 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/define-the-brands-mission-values-and-target-audience/</link>
+		<pubDate>Thu, 11 Jun 2026 10:22:06 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=11</guid>
 		<description></description>
@@ -2287,10 +2294,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:12:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:12:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:12:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:12:31]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:22:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:22:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:22:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:22:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[define-the-brands-mission-values-and-target-audience]]></wp:post_name>
@@ -2321,11 +2328,23 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Create rough sketches of ideas based on the research and planning]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/create-rough-sketches-of-ideas-based-on-the-research-and-planning/</link>
-		<pubDate>Wed, 15 May 2024 11:15:14 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/create-rough-sketches-of-ideas-based-on-the-research-and-planning/</link>
+		<pubDate>Thu, 11 Jun 2026 10:22:01 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=12</guid>
 		<description></description>
@@ -2390,10 +2409,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:15:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:15:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:15:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:15:14]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:22:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:22:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:22:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:22:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[create-rough-sketches-of-ideas-based-on-the-research-and-planning]]></wp:post_name>
@@ -2423,11 +2442,23 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Select the most promising ideas and refine them]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/select-the-most-promising-ideas-and-refine-them/</link>
-		<pubDate>Wed, 15 May 2024 11:16:46 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/select-the-most-promising-ideas-and-refine-them/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:56 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=22</guid>
 		<description></description>
@@ -2492,10 +2523,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:16:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:16:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-30 11:26:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-30 11:26:09]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[select-the-most-promising-ideas-and-refine-them]]></wp:post_name>
@@ -2525,11 +2556,23 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Typography font choice, size, and spacing]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/typography-font-choice-size-and-spacing/</link>
-		<pubDate>Wed, 15 May 2024 11:18:29 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/typography-font-choice-size-and-spacing/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:45 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=23</guid>
 		<description></description>
@@ -2594,10 +2637,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:18:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:18:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:18:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:18:29]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[typography-font-choice-size-and-spacing]]></wp:post_name>
@@ -2609,8 +2652,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="choice"><![CDATA[choice]]></category>
 		<category domain="post_tag" nicename="spacing"><![CDATA[Spacing]]></category>
-		<category domain="post_tag" nicename="typography"><![CDATA[Typography]]></category>
 		<category domain="category" nicename="typography"><![CDATA[Typography]]></category>
+		<category domain="post_tag" nicename="typography"><![CDATA[Typography]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[92]]></wp:meta_value>
@@ -2627,11 +2670,23 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Gather feedback and incorporate revisions to improve the design]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/gather-feedback-and-incorporate-revisions-to-improve-the-design/</link>
-		<pubDate>Wed, 15 May 2024 11:20:08 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/gather-feedback-and-incorporate-revisions-to-improve-the-design/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:40 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=24</guid>
 		<description></description>
@@ -2692,10 +2747,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:20:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:20:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:20:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:20:08]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[gather-feedback-and-incorporate-revisions-to-improve-the-design]]></wp:post_name>
@@ -2725,11 +2780,23 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Create high-resolution files for various applications]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/create-high-resolution-files-for-various-applications/</link>
-		<pubDate>Wed, 15 May 2024 11:21:37 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/create-high-resolution-files-for-various-applications/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:35 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=25</guid>
 		<description></description>
@@ -2782,10 +2849,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:21:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:21:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:21:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:21:37]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[create-high-resolution-files-for-various-applications]]></wp:post_name>
@@ -2815,11 +2882,23 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Identify the key message and personality of the brand]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/identify-the-key-message-and-personality-of-the-brand/</link>
-		<pubDate>Wed, 15 May 2024 11:23:02 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/identify-the-key-message-and-personality-of-the-brand/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:29 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=26</guid>
 		<description></description>
@@ -2872,10 +2951,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:23:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:23:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:23:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:23:02]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[identify-the-key-message-and-personality-of-the-brand]]></wp:post_name>
@@ -2910,11 +2989,23 @@
 		<wp:meta_key><![CDATA[blogdata-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Brainstorm different concepts and variations]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/brainstorm-different-concepts-and-variations/</link>
-		<pubDate>Wed, 15 May 2024 11:26:09 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/brainstorm-different-concepts-and-variations/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=27</guid>
 		<description></description>
@@ -2967,10 +3058,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:26:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:26:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:26:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:26:09]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[brainstorm-different-concepts-and-variations]]></wp:post_name>
@@ -3000,11 +3091,23 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Develop a more detailed design concept, including typography, color palette, and imagery]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/</link>
-		<pubDate>Wed, 15 May 2024 11:28:14 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:16 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=28</guid>
 		<description></description>
@@ -3057,10 +3160,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:28:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:28:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-30 11:25:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-30 11:25:55]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[develop-a-more-detailed-design-concept-including-typography-color-palette-and-imagery]]></wp:post_name>
@@ -3095,11 +3198,23 @@
 		<wp:meta_key><![CDATA[blogdata-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Color palette selection, contrast, and harmony]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/color-palette-selection-contrast-and-harmony/</link>
-		<pubDate>Wed, 15 May 2024 11:30:40 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/color-palette-selection-contrast-and-harmony/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:12 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=29</guid>
 		<description></description>
@@ -3164,10 +3279,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:30:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:30:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:30:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:30:40]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[color-palette-selection-contrast-and-harmony]]></wp:post_name>
@@ -3198,11 +3313,23 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Consider different perspectives and opinions to ensure the design is widely accepted]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/</link>
-		<pubDate>Wed, 15 May 2024 11:32:07 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:07 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=30</guid>
 		<description></description>
@@ -3277,10 +3404,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:32:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:32:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-31 07:52:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-31 07:52:49]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[consider-different-perspectives-and-opinions-to-ensure-the-design-is-widely-accepted]]></wp:post_name>
@@ -3321,18 +3448,18 @@
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Provide guidelines for using the logo effectively]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/provide-guidelines-for-using-the-logo-effectively/</link>
-		<pubDate>Wed, 15 May 2024 11:33:43 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/provide-guidelines-for-using-the-logo-effectively/</link>
+		<pubDate>Thu, 11 Jun 2026 10:21:03 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=31</guid>
 		<description></description>
@@ -3397,10 +3524,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:33:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:33:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-15 11:33:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-15 11:33:43]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:21:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:21:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[provide-guidelines-for-using-the-logo-effectively]]></wp:post_name>
@@ -3430,11 +3557,23 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Deliver the final design files to stakeholders or clients]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/deliver-the-final-design-files-to-stakeholders-or-clients/</link>
-		<pubDate>Wed, 15 May 2024 11:35:18 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/deliver-the-final-design-files-to-stakeholders-or-clients/</link>
+		<pubDate>Thu, 11 Jun 2026 10:20:59 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=32</guid>
 		<description></description>
@@ -3499,10 +3638,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:35:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:35:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-31 07:50:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-31 07:50:46]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:20:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:20:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:21:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:21:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[deliver-the-final-design-files-to-stakeholders-or-clients]]></wp:post_name>
@@ -3541,11 +3680,15 @@
 		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Develop a list of keywords and concepts related to the brand]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/develop-a-list-of-keywords-and-concepts-related-to-the-brand/</link>
-		<pubDate>Wed, 15 May 2024 11:36:23 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/develop-a-list-of-keywords-and-concepts-related-to-the-brand/</link>
+		<pubDate>Thu, 11 Jun 2026 10:20:54 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=33</guid>
 		<description></description>
@@ -3610,10 +3753,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:36:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:36:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-31 07:49:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-31 07:49:34]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:20:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:20:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:20:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:20:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[develop-a-list-of-keywords-and-concepts-related-to-the-brand]]></wp:post_name>
@@ -3654,11 +3797,15 @@
 		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Create a mood board to visualize the overall aesthetic and atmosphere.]]></title>
-		<link>https://demos.themeansar.com/newspaperup/artmag/2024/05/15/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/</link>
-		<pubDate>Wed, 15 May 2024 11:39:19 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere/</link>
+		<pubDate>Thu, 11 Jun 2026 10:20:47 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/contentup/four/?p=47</guid>
 		<description></description>
@@ -3723,10 +3870,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:39:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:39:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-31 07:48:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-31 07:48:32]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 10:20:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:20:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:20:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:20:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[create-a-mood-board-to-visualize-the-overall-aesthetic-and-atmosphere]]></wp:post_name>
@@ -3769,6 +3916,10 @@
 		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-15]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
@@ -3794,6 +3945,31 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.themeansar.com/newspaperup/artmag/2026/06/11/wp-global-styles-newspaperup-pro/</link>
+		<pubDate>Thu, 11 Jun 2026 10:20:24 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/artmag/2026/06/11/wp-global-styles-newspaperup-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>313</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-11 10:20:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 10:20:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 10:20:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 10:20:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-newspaperup-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="newspaperup-pro"><![CDATA[newspaperup-pro]]></category>
+						</item>
 				</channel>
 </rss>
 	

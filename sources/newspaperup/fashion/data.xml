@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2024-09-18 10:08" -->
+	<!-- generator="WordPress/7.0" created="2026-06-11 09:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Fashion</title>
 	<link>https://demos.themeansar.com/newspaperup/fashion</link>
 	<description></description>
-	<pubDate>Wed, 18 Sep 2024 10:08:44 +0000</pubDate>
+	<pubDate>Thu, 11 Jun 2026 09:19:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.themeansar.com/newspaperup/fashion</wp:base_site_url>
@@ -257,6 +257,13 @@
 		<wp:term_name><![CDATA[sport]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>13</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[travel]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[travel-2]]></wp:term_slug>
@@ -266,13 +273,6 @@
 			<wp:meta_key><![CDATA[category-image-id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[330]]></wp:meta_value>
 		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>13</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[travel]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>1</wp:term_id>
@@ -293,7 +293,7 @@
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=7.0</generator>
 
 <image>
 	<url>https://demos.themeansar.com/newspaperup/fashion/wp-content/uploads/2024/08/cropped-fashion-32x32.png</url>
@@ -3975,7 +3975,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[blank]]></wp:meta_value>
+		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -4076,8 +4076,8 @@
 		<category domain="category" nicename="cloth"><![CDATA[Cloth]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[health]]></category>
 		<category domain="post_tag" nicename="sport"><![CDATA[sport]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
 		<category domain="category" nicename="travel-2"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
 		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[newsair-meta-content-alignment]]></wp:meta_key>
@@ -4226,7 +4226,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[blank]]></wp:meta_value>
+		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>

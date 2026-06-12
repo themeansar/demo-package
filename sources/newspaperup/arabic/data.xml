@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2024-09-18 10:12" -->
+	<!-- generator="WordPress/7.0" created="2026-06-11 10:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,8 +29,8 @@
 	<title>Arabi News</title>
 	<link>https://demos.themeansar.com/newspaperup/arabi</link>
 	<description></description>
-	<pubDate>Wed, 18 Sep 2024 10:12:32 +0000</pubDate>
-	<language>en-US</language>
+	<pubDate>Thu, 11 Jun 2026 10:01:45 +0000</pubDate>
+	<language>ar</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.themeansar.com/newspaperup/arabi</wp:base_site_url>
 	<wp:base_blog_url>https://demos.themeansar.com/newspaperup/arabi</wp:base_blog_url>
@@ -249,6 +249,13 @@
 		<wp:term_name><![CDATA[helth]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>31</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[newspaperup-pro]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[newspaperup-pro]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>30</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[primary]]></wp:term_slug>
@@ -449,7 +456,7 @@
 			<wp:term><wp:term_id>30</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=7.0</generator>
 
 <image>
 	<url>https://demos.themeansar.com/newspaperup/arabi/wp-content/uploads/2024/08/cropped-arabi-2-1-32x32.png</url>
@@ -825,10 +832,6 @@
 		<wp:meta_key><![CDATA[_envato_image_source]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://wp.envatoextensions.com/kit-139/wp-content/uploads/sites/142/2018/11/pattern1.jpg]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_envato_image_source]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://wp.envatoextensions.com/kit-139/wp-content/uploads/sites/142/2018/11/pattern1.jpg]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[woman-taking]]></title>
@@ -997,7 +1000,7 @@
 							</item>
 					<item>
 		<title><![CDATA[aerial-view-of-eiffel-towe]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/events-held-in-paris-beautifull-and-amazing-things/aerial-view-of-eiffel-towe/</link>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/events-held-in-paris-beautifull-and-amazing-things/aerial-view-of-eiffel-towe/</link>
 		<pubDate>Tue, 18 Feb 2020 12:22:49 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/arabi/wp-content/uploads/2020/01/aerial-view-of-eiffel-towe.jpg</guid>
@@ -1030,7 +1033,7 @@
 							</item>
 					<item>
 		<title><![CDATA[panoramic-view-of-sea]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/wherein-life-sea-years-lights-fill-kind-midst-spirit/panoramic-view-of-sea/</link>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/wherein-life-sea-years-lights-fill-kind-midst-spirit/panoramic-view-of-sea/</link>
 		<pubDate>Tue, 18 Feb 2020 12:24:02 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/arabi/wp-content/uploads/2020/01/panoramic-view-of-sea.jpg</guid>
@@ -3712,8 +3715,8 @@
 							</item>
 					<item>
 		<title><![CDATA[, لم كان هنا؟ وإيطالي. أن نفس لفشل اكتوبر, كانتا وإعلان يتم ان]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/events-held-in-paris-beautifull-and-amazing-things/</link>
-		<pubDate>Sun, 12 Jan 2020 16:24:40 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/events-held-in-paris-beautifull-and-amazing-things/</link>
+		<pubDate>Thu, 11 Jun 2026 09:48:06 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=22</guid>
 		<description></description>
@@ -3766,12 +3769,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:24:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:24:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:24:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:24:40]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:48:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:48:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:48:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:48:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[events-held-in-paris-beautifull-and-amazing-things]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3808,11 +3811,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[فقد الأول ا الضروري أم. ما تنفّس تحرير جعل, السيء بريطانيا، تعد ما. تم]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/wherein-life-sea-years-lights-fill-kind-midst-spirit/</link>
-		<pubDate>Sun, 12 Jan 2020 16:25:52 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/wherein-life-sea-years-lights-fill-kind-midst-spirit/</link>
+		<pubDate>Thu, 11 Jun 2026 09:48:02 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=24</guid>
 		<description></description>
@@ -3865,12 +3876,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:25:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:25:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:25:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:25:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:48:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:48:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:48:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:48:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wherein-life-sea-years-lights-fill-kind-midst-spirit]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3907,11 +3918,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[عل. العالمي الخاسرة الرئيسية دول بل. مدن بـ أوروبا الخاسرة,]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/we-are-able-to-create-beautifull-and-amazing-things/</link>
-		<pubDate>Sun, 12 Jan 2020 16:26:54 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/we-are-able-to-create-beautifull-and-amazing-things/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:57 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=26</guid>
 		<description></description>
@@ -3960,12 +3979,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:26:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:26:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:26:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:26:54]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[we-are-able-to-create-beautifull-and-amazing-things]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4000,11 +4019,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[عن الا وقرى أخرى الصفحة. وسفن سقطت تغييرات تم نفس, أفاق الصينية]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/have-is-days-together-meat-fill-for-give-youre/</link>
-		<pubDate>Sun, 12 Jan 2020 16:27:55 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/have-is-days-together-meat-fill-for-give-youre/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:53 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=28</guid>
 		<description></description>
@@ -4053,12 +4080,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:27:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:27:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:27:55]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[have-is-days-together-meat-fill-for-give-youre]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4092,11 +4119,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[عن الا وقرى أخرى الصفحة. وسفن سقطت تغييرات تم نفس, أفاق الصينية]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/but-who-has-any-right-to-find/</link>
-		<pubDate>Sun, 12 Jan 2020 16:28:43 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/but-who-has-any-right-to-find/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:47 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=30</guid>
 		<description></description>
@@ -4145,12 +4180,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:28:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:28:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:28:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:28:43]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[but-who-has-any-right-to-find]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4183,11 +4218,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[وإيطالي. أن نفس لفشل اكتوبر, كانتا وإعلان يتم ان. ثم نفس حادثة وبداية,]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/working-together-to-make-investments/</link>
-		<pubDate>Sun, 12 Jan 2020 16:29:36 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/working-together-to-make-investments/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:42 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=32</guid>
 		<description></description>
@@ -4236,12 +4279,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:29:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:29:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:29:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:29:36]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[working-together-to-make-investments]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4279,11 +4322,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[لغزو مليارات الأرضية, تم أسيا الحكومة وقد. بل يتبقّ مليارات حول, ميناء الثالث، ذلك كل]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/business-together-to-make-investments/</link>
-		<pubDate>Sun, 12 Jan 2020 16:31:42 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/business-together-to-make-investments/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:36 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=34</guid>
 		<description></description>
@@ -4332,12 +4383,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>34</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:31:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:31:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:31:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:31:42]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-together-to-make-investments]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4375,11 +4426,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[إذ وانهاء مكثّفة, قامت بالفشل وفي أي, أما الشتاء أوروبا في]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/cargo-industry-welcome-foreign-investment/</link>
-		<pubDate>Sun, 12 Jan 2020 16:34:05 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/cargo-industry-welcome-foreign-investment/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:31 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=36</guid>
 		<description></description>
@@ -4428,12 +4487,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:34:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:34:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:34:05]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cargo-industry-welcome-foreign-investment]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4467,11 +4526,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[يذكر الأمم الإمداد لم بال, وبعض طوكيو تم أخذ, على أم أكثر بمحاولة]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/where-to-travel-asia-kind-mid-spirit/</link>
-		<pubDate>Sun, 12 Jan 2020 16:34:38 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/where-to-travel-asia-kind-mid-spirit/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:25 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=38</guid>
 		<description></description>
@@ -4520,12 +4587,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>38</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:34:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:34:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:34:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:34:38]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-to-travel-asia-kind-mid-spirit]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4565,11 +4632,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[كانت. عن الا وقرى أخرى الصفحة. وسفن سقطت]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/go-for-western-economy-with-these-pioneering/</link>
-		<pubDate>Sun, 12 Jan 2020 16:35:38 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/go-for-western-economy-with-these-pioneering/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:10 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=40</guid>
 		<description></description>
@@ -4618,12 +4693,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:35:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:35:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:35:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:35:38]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[go-for-western-economy-with-these-pioneering]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4667,11 +4742,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[العالمي الخاسرة الرئيسية دول بل. مدن بـ أوروبا الخاسرة, الوراء لليابان]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/metro-citys-should-make-road-with-protection-in-mind/</link>
-		<pubDate>Sun, 12 Jan 2020 16:38:07 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/metro-citys-should-make-road-with-protection-in-mind/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:06 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=42</guid>
 		<description></description>
@@ -4720,12 +4803,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:38:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:38:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:38:07]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[metro-citys-should-make-road-with-protection-in-mind]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4765,11 +4848,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[إذ ووصف الأسيوي استطاعوا بال, عن انتباه تشيكوسلوفاكيا ضرب.]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys/</link>
-		<pubDate>Sun, 12 Jan 2020 16:39:33 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys/</link>
+		<pubDate>Thu, 11 Jun 2026 09:47:02 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=44</guid>
 		<description></description>
@@ -4822,12 +4913,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:39:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:39:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:39:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:39:33]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:47:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:47:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:47:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:47:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[everything-you-wanted-to-know-about-carnivals-you-wanted-to-know-about-mega-citys]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4871,105 +4962,13 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[في دول أحدث عرفها الخاصّة, لم كان هنا؟ وإيطالي. أن نفس لفشل اكتوبر, كانتا وإعلان]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/01/12/make-realtionship-years-lights-fill-kind-in-usa/</link>
-		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
-		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p> </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>حلّت وشعار تم الا, اللا الثانية شموليةً ما أما, نقطة أكثر ما كلّ. عل ٠٨٠٤ بأيدي مكن, كردة أساسي و قام. لان أم دخول اليها. سقطت تكاليف الأراضي يبق إذ, دنو ثم فبعد بمباركة. وتم مئات تكتيكاً الخاصّة و.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>حتى ان عرفها اتفاقية, أي حدى لعملة الإطلاق. الإثنان ولكسمبورغ بين ما. وفرنسا سليمان، تم فعل, جهة و علاقة الستار. الفترة الأهداف ٣٠ وقد, العناد وأكثرها قد جعل, في حصدت الأحمر دون. هذه تسمّى والكوري مع, ٣٠ وصل سبتمبر والمانيا.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>بخطوط علاقة به، ان, أي لها دأبوا عملية الإحتفاظ. أي أوروبا الضغوط بها, نفس تغييرات الدنمارك هو, الأرض تغييرات ٣٠ تلك. شيء يقوم انذار الإتفاقية قد, بسبب النفط وحلفاؤها ومن ان. حيث إذ وانهاء مكثّفة, قامت بالفشل وفي أي, أما الشتاء أوروبا في. عل سقطت الثقيل وباستثناء يتم, اليابان الإحتفاظ نفس بـ.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>قبل ان مسرح وتنامت الإثنان. الضروري الدّفاع ماليزيا، قام ٣٠, جورج بقسوة ويتّفق هذه قد, الأرضية البشريةً كلا بـ. عرض أن أسابيع وفرنسا, غير تم حكومة إعمار وتتحمّل, جنوب المؤلّفة ثم دنو. اكتوبر الطريق كل وفي. القوى تكتيكاً اليابان، تم الا. بشرية مسارح فشكّل عن حول.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>لدحر شواطيء الفرنسي هذا إذ. بل الأراضي الموسوعة ذلك, من قبل أحكم بشرية بقيادة. بها كل تاريخ ويكيبيديا،, لم به، ٠٨٠٤ للسيطرة, مع رجوعهم سنغافورة تلك. ذات ٣٠ لغزو مليارات الأرضية, تم أسيا الحكومة وقد. بل يتبقّ مليارات حول, ميناء الثالث، ذلك كل.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>إذ ووصف الأسيوي استطاعوا بال, عن انتباه تشيكوسلوفاكيا ضرب. التي مليارات الولايات كل حيث, منتصف لأداء تشيكوسلوفاكيا جهة عل. بقعة مشروط تم بال, إذ ذات بلاده استبدال. أراض جسيمة الأرض الا ثم, في دول أحدث عرفها الخاصّة, لم كان هنا؟ وإيطالي. أن نفس لفشل اكتوبر, كانتا وإعلان يتم ان. ثم نفس حادثة وبداية, قتيل، الحكومة أخر أي.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>كل أخر تصفح حلّت, ٣٠ ويعزى الخاصّة الأمريكي كان. جهة مع بتحدّي مسؤولية, مسارح الفرنسي حيث في, كل ليركز وحرمان هذا. قادة تنفّس حكومة إيو كل, قبل شعار بأيدي كل. بل دار خلاف بداية, كلّ بل ترتيب الإتحاد للإتحاد, جعل أسيا الساحل اوروبا ان. أي الأولى مهمّات نفس, أم مما شواطيء يتعلّق, التي وبدون يتسنّى ما وفي.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>يذكر الأمم الإمداد لم بال, وبعض طوكيو تم أخذ, على أم أكثر بمحاولة. اقتصادية تشيكوسلوفاكيا كلا ٣٠. أم وصل لفرنسا والديون. لأداء أجزاء إذ تعد, دول هو لأداء مساعدة الإقتصادي.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>فقد الأول ا الضروري أم. ما تنفّس تحرير جعل, السيء بريطانيا، تعد ما. تم قامت الأخذ الشمال الا, بين عل حصدت قررت فكانت. عن الا وقرى أخرى الصفحة. وسفن سقطت تغييرات تم نفس, أفاق الصينية التجارية الى و.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>و لمحاكم بالجانب بلا, عن وبحلول المحيط دار. لم مكن حقول العصبة بالسيطرة, السيء الثقيلة مكن هو, يكن وتزويده ايطاليا، عل. العالمي الخاسرة الرئيسية دول بل. مدن بـ أوروبا الخاسرة, الوراء لليابان من قام. ميناء المدن مشاركة وتم عل.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-12 16:22:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-12 16:22:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-12 16:22:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[make-realtionship-years-lights-fill-kind-in-usa]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%d8%b5%d8%ad%d8%a9"><![CDATA[صحة]]></category>
-		<category domain="category" nicename="%d9%8a%d8%b3%d8%a7%d9%81%d8%b1"><![CDATA[يسافر]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[194]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsair-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5037,7 +5036,7 @@
 		<wp:post_modified><![CDATA[2020-02-18 11:43:23]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2020-02-18 11:43:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fight-breaks-out-mattis-felis-consectetur]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -5138,7 +5137,7 @@
 		<wp:post_modified><![CDATA[2020-02-18 11:51:28]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2020-02-18 11:51:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[epicenter-of-coronavirus]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -5183,8 +5182,8 @@
 							</item>
 					<item>
 		<title><![CDATA[يذكر الأمم الإمداد لم بال, وبعض طوكيو تم أخذ, على أم أكثر بمحاولة.]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/02/18/top-10-best-resorts-of-the-asia/</link>
-		<pubDate>Tue, 18 Feb 2020 11:53:24 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/top-10-best-resorts-of-the-asia/</link>
+		<pubDate>Thu, 11 Jun 2026 09:45:51 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=76</guid>
 		<description></description>
@@ -5233,12 +5232,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>76</wp:post_id>
-		<wp:post_date><![CDATA[2020-02-18 11:53:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-02-18 11:53:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-02-18 11:53:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-02-18 11:53:24]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:45:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:45:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:45:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:45:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-10-best-resorts-of-the-asia]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -5279,11 +5278,19 @@
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-02-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[بخطوط علاقة به، ان, أي لها دأبوا عملية الإحتفاظ. أي]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/02/18/uae-dubai-accelerates-ahead/</link>
-		<pubDate>Tue, 18 Feb 2020 11:54:08 +0000</pubDate>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/uae-dubai-accelerates-ahead/</link>
+		<pubDate>Thu, 11 Jun 2026 09:45:45 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=78</guid>
 		<description></description>
@@ -5340,12 +5347,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>78</wp:post_id>
-		<wp:post_date><![CDATA[2020-02-18 11:54:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-02-18 11:54:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-02-18 11:54:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-02-18 11:54:08]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-11 09:45:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:45:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:45:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:45:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[uae-dubai-accelerates-ahead]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -5386,6 +5393,121 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-02-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[حلّت وشعار تم الا, اللا الثانية شموليةً ما أما, نقطة أكثر ما كلّ. عل]]></title>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/where-to-travel-in-middle-east/</link>
+		<pubDate>Thu, 11 Jun 2026 09:45:17 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=80</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>حلّت وشعار تم الا, اللا الثانية شموليةً ما أما, نقطة أكثر ما كلّ. عل ٠٨٠٤ بأيدي مكن, كردة أساسي و قام. لان أم دخول اليها. سقطت تكاليف الأراضي يبق إذ, دنو ثم فبعد بمباركة. وتم مئات تكتيكاً الخاصّة و.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>حتى ان عرفها اتفاقية, أي حدى لعملة الإطلاق. الإثنان ولكسمبورغ بين ما. وفرنسا سليمان، تم فعل, جهة و علاقة الستار. الفترة الأهداف ٣٠ وقد, العناد وأكثرها قد جعل, في حصدت الأحمر دون. هذه تسمّى والكوري مع, ٣٠ وصل سبتمبر والمانيا.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>بخطوط علاقة به، ان, أي لها دأبوا عملية الإحتفاظ. أي أوروبا الضغوط بها, نفس تغييرات الدنمارك هو, الأرض تغييرات ٣٠ تلك. شيء يقوم انذار الإتفاقية قد, بسبب النفط وحلفاؤها ومن ان. حيث إذ وانهاء مكثّفة, قامت بالفشل وفي أي, أما الشتاء أوروبا في. عل سقطت الثقيل وباستثناء يتم, اليابان الإحتفاظ نفس بـ.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>قبل ان مسرح وتنامت الإثنان. الضروري الدّفاع ماليزيا، قام ٣٠, جورج بقسوة ويتّفق هذه قد, الأرضية البشريةً كلا بـ. عرض أن أسابيع وفرنسا, غير تم حكومة إعمار وتتحمّل, جنوب المؤلّفة ثم دنو. اكتوبر الطريق كل وفي. القوى تكتيكاً اليابان، تم الا. بشرية مسارح فشكّل عن حول.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>لدحر شواطيء الفرنسي هذا إذ. بل الأراضي الموسوعة ذلك, من قبل أحكم بشرية بقيادة. بها كل تاريخ ويكيبيديا،, لم به، ٠٨٠٤ للسيطرة, مع رجوعهم سنغافورة تلك. ذات ٣٠ لغزو مليارات الأرضية, تم أسيا الحكومة وقد. بل يتبقّ مليارات حول, ميناء الثالث، ذلك كل.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>إذ ووصف الأسيوي استطاعوا بال, عن انتباه تشيكوسلوفاكيا ضرب. التي مليارات الولايات كل حيث, منتصف لأداء تشيكوسلوفاكيا جهة عل. بقعة مشروط تم بال, إذ ذات بلاده استبدال. أراض جسيمة الأرض الا ثم, في دول أحدث عرفها الخاصّة, لم كان هنا؟ وإيطالي. أن نفس لفشل اكتوبر, كانتا وإعلان يتم ان. ثم نفس حادثة وبداية, قتيل، الحكومة أخر أي.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>كل أخر تصفح حلّت, ٣٠ ويعزى الخاصّة الأمريكي كان. جهة مع بتحدّي مسؤولية, مسارح الفرنسي حيث في, كل ليركز وحرمان هذا. قادة تنفّس حكومة إيو كل, قبل شعار بأيدي كل. بل دار خلاف بداية, كلّ بل ترتيب الإتحاد للإتحاد, جعل أسيا الساحل اوروبا ان. أي الأولى مهمّات نفس, أم مما شواطيء يتعلّق, التي وبدون يتسنّى ما وفي.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>يذكر الأمم الإمداد لم بال, وبعض طوكيو تم أخذ, على أم أكثر بمحاولة. اقتصادية تشيكوسلوفاكيا كلا ٣٠. أم وصل لفرنسا والديون. لأداء أجزاء إذ تعد, دول هو لأداء مساعدة الإقتصادي.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>فقد الأول ا الضروري أم. ما تنفّس تحرير جعل, السيء بريطانيا، تعد ما. تم قامت الأخذ الشمال الا, بين عل حصدت قررت فكانت. عن الا وقرى أخرى الصفحة. وسفن سقطت تغييرات تم نفس, أفاق الصينية التجارية الى و.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>و لمحاكم بالجانب بلا, عن وبحلول المحيط دار. لم مكن حقول العصبة بالسيطرة, السيء الثقيلة مكن هو, يكن وتزويده ايطاليا، عل. العالمي الخاسرة الرئيسية دول بل. مدن بـ أوروبا الخاسرة, الوراء لليابان من قام. ميناء المدن مشاركة وتم عل.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-11 09:45:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:45:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:45:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:45:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[where-to-travel-in-middle-east]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%d9%8a%d8%b3%d8%a7%d9%81%d8%b1"><![CDATA[يسافر]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[204]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsair-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-02-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5571,13 +5693,17 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[حلّت وشعار تم الا, اللا الثانية شموليةً ما أما, نقطة أكثر ما كلّ. عل]]></title>
-		<link>https://demos.themeansar.com/newspaperup/arabi/2020/02/18/where-to-travel-in-middle-east/</link>
-		<pubDate>Tue, 18 Feb 2020 11:54:42 +0000</pubDate>
+		<title><![CDATA[في دول أحدث عرفها الخاصّة, لم كان هنا؟ وإيطالي. أن نفس لفشل اكتوبر, كانتا وإعلان]]></title>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/make-realtionship-years-lights-fill-kind-in-usa/</link>
+		<pubDate>Thu, 11 Jun 2026 09:48:18 +0000</pubDate>
 		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/default/?p=80</guid>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>حلّت وشعار تم الا, اللا الثانية شموليةً ما أما, نقطة أكثر ما كلّ. عل ٠٨٠٤ بأيدي مكن, كردة أساسي و قام. لان أم دخول اليها. سقطت تكاليف الأراضي يبق إذ, دنو ثم فبعد بمباركة. وتم مئات تكتيكاً الخاصّة و.</p>
 <!-- /wp:paragraph -->
 
@@ -5621,40 +5747,37 @@
 <p></p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>80</wp:post_id>
-		<wp:post_date><![CDATA[2020-02-18 11:54:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-02-18 11:54:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-02-18 11:54:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-02-18 11:54:42]]></wp:post_modified_gmt>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-11 09:48:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:48:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:48:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:48:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[where-to-travel-in-middle-east]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[make-realtionship-years-lights-fill-kind-in-usa]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%d9%8a%d8%b3%d8%a7%d9%81%d8%b1"><![CDATA[يسافر]]></category>
+										<category domain="category" nicename="%d8%b5%d8%ad%d8%a9"><![CDATA[صحة]]></category>
+		<category domain="category" nicename="%d9%8a%d8%b3%d8%a7%d9%81%d8%b1"><![CDATA[يسافر]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[newsup-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[194]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[204]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -5667,6 +5790,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_image_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[list-blog]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newspaperup-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5693,6 +5824,31 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.themeansar.com/newspaperup/arabi/2026/06/11/wp-global-styles-newspaperup-pro/</link>
+		<pubDate>Thu, 11 Jun 2026 09:44:57 +0000</pubDate>
+		<dc:creator><![CDATA[pro_newspaperup]]></dc:creator>
+		<guid isPermaLink="false">https://demos.themeansar.com/newspaperup/arabi/2026/06/11/wp-global-styles-newspaperup-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>327</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-11 09:44:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-11 09:44:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-11 09:44:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-11 09:44:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-newspaperup-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="newspaperup-pro"><![CDATA[newspaperup-pro]]></category>
+						</item>
 				</channel>
 </rss>
 	
